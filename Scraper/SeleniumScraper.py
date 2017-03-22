@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 
 browser = webdriver.Chrome()
 
-browser.get("https://www.premierleague.com/results?co=1&se=22&cl=-1")
+browser.get("https://www.premierleague.com/results?co=1&se=42&cl=-1")
 time.sleep(2)
 
 elem = browser.find_element_by_tag_name("body")
@@ -18,7 +18,7 @@ while no_of_pagedowns:
     no_of_pagedowns-=1
 
 post_elems = browser.find_elements_by_class_name("matchList")
-text_file = open("Output.txt", "w")
+text_file = open("Output-2015.txt", "w")
 for post in post_elems:
     text_file.write(post.text + "\n")
 text_file.close()
