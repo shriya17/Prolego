@@ -472,7 +472,15 @@ Match: 9572
 2 Offsides 4
 
 Match: 9566
-
+69.1 Possession % 30.9
+5 Shots On Target 4
+17 Shots 7
+813 Touches 474
+576 Passes 251
+21 Tackles 33
+17 Clearances 38
+13 Corners 3
+0 Offsides 3
 
 Match: 9567
 56.8 Possession % 43.2
@@ -2105,15 +2113,7 @@ Match: 9420
 0 Offsides 4
 
 Match: 9418
-44.1 Possession % 55.9
-4 Shots On Target 2
-9 Shots 12
-596 Touches 654
-353 Passes 449
-26 Tackles 18
-35 Clearances 14
-2 Corners 3
-3 Offsides 3
+
 
 Match: 9419
 47.3 Possession % 52.7
@@ -2864,15 +2864,7 @@ Match: 9350
 6 Offsides 5
 
 Match: 9348
-49.9 Possession % 50.1
-4 Shots On Target 5
-14 Shots 16
-598 Touches 619
-383 Passes 391
-20 Tackles 22
-25 Clearances 46
-2 Corners 8
-0 Offsides 3
+
 
 Match: 9349
 46.9 Possession % 53.1
@@ -3909,30 +3901,26 @@ Match: 9255
 0 Offsides 3
 
 Match: 9256
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-
+42.2 Possession % 57.8
+4 Shots On Target 2
+14 Shots 11
+568 Touches 687
+341 Passes 480
+30 Tackles 19
+29 Clearances 16
+5 Corners 4
+1 Offsides 6
 
 Match: 9257
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-
+44.9 Possession % 55.1
+0 Shots On Target 5
+9 Shots 15
+517 Touches 581
+321 Passes 405
+12 Tackles 17
+29 Clearances 27
+3 Corners 4
+1 Offsides 1
 
 Match: 9254
 58.2 Possession % 41.8
@@ -4045,72 +4033,62 @@ Match: 9248
 1 Offsides 0
 
 Match: 9244
-
+46.2 Possession % 53.8
+7 Shots On Target 9
+16 Shots 19
+664 Touches 737
+479 Passes 556
+18 Tackles 10
+25 Clearances 19
+1 Corners 8
+3 Offsides 0
 
 Match: 9241
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-
+69.2 Possession % 30.8
+3 Shots On Target 3
+15 Shots 7
+856 Touches 459
+677 Passes 286
+16 Tackles 13
+29 Clearances 26
+1 Corners 2
+5 Offsides 5
 
 Match: 9240
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-
+63.5 Possession % 36.5
+11 Shots On Target 1
+20 Shots 6
+855 Touches 572
+665 Passes 377
+29 Tackles 14
+17 Clearances 21
+8 Corners 1
+3 Offsides 2
 
 Match: 9238
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
 
 
 Match: 9239
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-
+41.8 Possession % 58.2
+3 Shots On Target 3
+5 Shots 18
+551 Touches 744
+362 Passes 510
+21 Tackles 24
+27 Clearances 37
+3 Corners 7
+4 Offsides 0
 
 Match: 9235
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-XX-XX-XX-XX-XX-XX
-
+53.7 Possession % 46.3
+6 Shots On Target 8
+17 Shots 14
+738 Touches 662
+534 Passes 471
+14 Tackles 9
+27 Clearances 42
+7 Corners 4
+2 Offsides 5
 
 Match: 9231
 63.8 Possession % 36.2

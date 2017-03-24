@@ -11,7 +11,7 @@ with open("Matches.txt", "r") as ins:
         browser.get("https://www.premierleague.com/match/" + line)
         elem = browser.find_element_by_tag_name("body")
         elem.send_keys(Keys.PAGE_DOWN)
-        time.sleep(2)
+        time.sleep(1)
         try:
             tab = browser.find_element_by_class_name("tablist")
             stats = tab.find_element_by_xpath(".//li[not(@class)]")
@@ -23,7 +23,7 @@ with open("Matches.txt", "r") as ins:
             #        print "Hello"
             #        tab.click()
 
-            time.sleep(4)
+            time.sleep(1)
             stats = browser.find_element_by_class_name("matchCentreStatsContainer")
             text_file.write("Match: " + line)
             text_file.write(stats.text + "\n\n")
