@@ -74,7 +74,9 @@ def getPlayerUrl(fileName):
             time.sleep(2)
             for player in elem:
                 # link = player.find_element_by_tag_name("a")
-                text_file.write(player.get_attribute("href") + "\n")
+                str = player.get_attribute("href")
+                str = str.replace("overview", "squad")
+                text_file.write(str + "\n")
                 time.sleep(0.1)
             text_file.write("\n")
 
