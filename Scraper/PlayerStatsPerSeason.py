@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 """
+    _author_ = "Sourabh Swain"
     Script Description:
 
     This python script is used to fetch player stats from every premier league club for every season
@@ -28,6 +29,7 @@ def getClubUrl(url):
         Function Description:
         The function goes through the url for a premier league season and fetches all the
         premier league clubs url for the same season. The urls are then written onto a text file for further use.
+
     """
 
     browser.get(url) # Opens the url in the browser
@@ -40,11 +42,43 @@ def getClubUrl(url):
         # Finds anchor tag for every li tag
         x = link.find_element_by_tag_name("a")
         # Writes to the text file by getting href attribute of anchor tag
-        text_file.write(x.get_attribute("href") + "\n")
+        str = x.get_attribute("href")
+        str = str.replace("overview", "squad")
+        text_file.write(str + "\n")
 
     text_file.close()
     return
 
+
+def getPlayerUrl(fileName):
+
+    """
+
+    Function Definition:
+        Name: getPlayerUrl
+        Arguments:
+            Name: fileName
+            Type: string
+        Returns: None
+
+
+
+    """
+
+    text_file = open("Player-Links-2013.txt","w")
+    with open(fileName, "r") as ins:
+        for line in ins:
+            browser.get(line)
+            elem = browser.find_elements_by_xpath("//a[@class='playerOverviewCard active']")
+            # players = elem.find_elements_by_tag_name("li")
+            time.sleep(2)
+            for player in elem:
+                # link = player.find_element_by_tag_name("a")
+                text_file.write(player.get_attribute("href") + "\n")
+                time.sleep(0.1)
+            text_file.write("\n")
+
+    return
 
 
 
@@ -52,3 +86,4 @@ def getClubUrl(url):
 browser = webdriver.Chrome()
 # Function call
 getClubUrl("https://www.premierleague.com/clubs/")
+getPlayerUrl('Club-Links.txt')
