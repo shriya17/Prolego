@@ -38,12 +38,12 @@ with open("Matches-2013.txt", "r") as ins:
 
             time.sleep(1)
             stats = browser.find_element_by_class_name("matchCentreStatsContainer")
-            text_file.write("Match: " + line)
-            text_file.write(stats.text + "\n\n")
         except:
             text_file.write("Match: " + line)
             for x in range(0, 10):
                 text_file.write("XX-XX-XX-XX-XX-XX\n")
+            text_file.write("Match: " + line)
+            text_file.write(stats.text + "\n\n")
 
             text_file.write("\n\n")
 
