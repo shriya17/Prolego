@@ -61,7 +61,9 @@ def getPlayerUrl(fileName):
             Type: string
         Returns: None
 
-
+    Function Description:
+        This function goes through the links of all clubs (Club-Links.txt) and extracts the links for
+        all the players from the squads page of the respective club.
 
     """
 
