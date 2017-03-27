@@ -11,6 +11,17 @@ import csv
 
 
 def transferToCsv(data,fileName,season):
+
+    """
+    :param data:string
+    :param fileName:string
+    :param season:string
+    :return:none
+
+    This function takes the listoflists (data) and adds the corresponding matches for a particular seasons
+    into the variable data. After that, the data variable is written line by line into the Scoreboard_all.csv file
+    """
+
     with open(fileName, "r") as ins:
         for line in ins:
             val = str(line)
@@ -39,6 +50,7 @@ with open("Output-2015.txt", "r") as ins:
 text_file.close()
 data = []
 
+# Initializing a blank .csv file
 with open("Scoreboard_all.csv", "wb") as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
     for line in data:
@@ -47,13 +59,15 @@ with open("Scoreboard_all.csv", "wb") as csv_file:
 
 csv_file.close()
 
+# Appending the Column data for the .csv file
 data.append("Season,Home Team,Home Team Goals, Away Team Goals, Away Team".split(","))
 
+# Function calls
 transferToCsv(data,"Scoreboard_2013.txt","2013")
 transferToCsv(data,"Scoreboard_2014.txt","2014")
 transferToCsv(data,"Scoreboard_2015.txt","2015")
 
-with open("Scoreboard_all.csv", "ab") as csv_file:
+with open("Scoreboard_all.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
     writer = csv.writer(csv_file, delimiter=',')
     for line in data:
         writer.writerow(line)
