@@ -83,27 +83,34 @@ def getPlayerUrl(fileName):
     return
 
 def getPlayerStats(fileName):
+    text_file = open("PlayerStats-2013.txt", "w")
     with open(fileName,"r")as ins:
         for line in ins:
             if line.strip() != "":
-                str = line.replace("overview","stats")
+                str = line.replace("squad","stats")
                 browser.get(str)
                 time.sleep(1)
                 playerStat = browser.find_elements_by_class_name("playerStats")
-                text_file = open("PlayerStats-2013.txt","w")
+
                 for line in playerStat:
                     headerStat = line.find_elements_by_class_name("topStatList")
                     for list in headerStat:
-                        text_file.write(list.text)
+                        #print list.text
+                        text_file.write(list.text + "\n")
                     normalStat = line.find_elements_by_class_name("statsListBlock")
                     for list in normalStat:
-                        text_file.write("------")
-                        text_file.write(list.find_element_by_class_name("headerStat").text)
-                        text_file.write("------")
+                        #print "--------"
+                        text_file.write("------\n")
+                        #print list.find_element_by_class_name("headerStat").text
+                        text_file.write(list.find_element_by_class_name("headerStat").text + "\n")
+                        #print "----------"
+                        text_file.write("------\n")
                         normalList = list.find_elements_by_class_name("normalStat")
                         for s_list in normalList:
-                            text_file.write(s_list.text)
-                    text_file.write("*********")
+                            #print s_list.text
+                            text_file.write(s_list.text + "\n")
+                    #print "*******************8"
+                    text_file.write("*********\n")
 
 
 
