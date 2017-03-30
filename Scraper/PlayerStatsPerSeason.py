@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 """
-    _author_ = "Sourabh Swain"
+    _author_ = "Sourabh Swain", "Shriya Mishra"
     Script Description:
 
     This python script is used to fetch player stats from every premier league club for every season
