@@ -35,10 +35,19 @@ def getClubLinks(url):
         if "https://www.fifaindex.com/team/" in str:
             if str not in items:
                 items.add(str)
-                text_file.write(x.get_attribute("title") + "-" + str + "\n")
+                text_file.write(x.get_attribute("title") + "," + str + "\n")
                 #print str
                 #print x.get_attribute("title")
 
+
+
+def getPlayerRatings(fileName):
+    text_file = open("PlayerRatings-2013.txt","w")
+    with open(fileName,"r") as ins:
+        for line in ins:
+            str = line.split(',')
+            text_file.write(str[0] + ":\n")
+            browser.get(str[1])
 
 
 
@@ -49,3 +58,4 @@ def getClubLinks(url):
 
 browser = webdriver.Chrome()
 getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
+getPlayerRatings("FIFA_Club_Links-2013.txt")
