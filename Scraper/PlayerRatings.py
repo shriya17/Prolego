@@ -45,17 +45,50 @@ def getPlayerRatings(fileName):
     text_file = open("PlayerRatings-2013.txt","w")
     with open(fileName,"r") as ins:
         for line in ins:
-            str = line.split(',')
-            text_file.write(str[0] + ":\n")
-            browser.get(str[1])
+            str1 = line.split(',')
+            browser.get(str1[1])
+            time.sleep(0.1)
+            table = browser.find_element_by_id("no-more-tables")
+            body = table.find_element_by_tag_name("tbody")
+            rows = body.find_elements_by_tag_name("tr")
+            for x in rows:
+                data = x.find_elements_by_tag_name("td")
+                name = ''.encode('utf-8')
+                name = name.encode('utf-8')
+                position = ''.encode('utf-8')
+                rating = ''.encode('utf-8')
+                for y in data:
+                    str2 = y.get_attribute("data-title")
+                    if str2 == "Name":
+                        name = y.text.encode('utf-8')
+                        #text_file.write(y.text.encode('utf-8') + " ")
+                    elif str2 == "OVR / POT":
+                        #text_file.write(y.text.encode('utf-8') + " ")
+                        position = y.text.encode('utf-8')
+                    elif str2 == "Preferred Positions":
+                        rating = y.text.encode('utf-8')
+                        #rating = rating[:2]
+                        #text_file.write(y.text.encode('utf-8') + "\n")
+
+                text_file.write(str1[0] + ',' + name + ',' + position + ',' + rating[:2] + '\n')
+
+    text_file.close()
 
 
-
-
+def cleanRating(fileName):
+    text_file = open("PlayerRatings-2013-Final.txt","w")
+    with open(fileName,"r+") as ins:
+        for line in ins:
+            str1 = line.split(',')
+            rating = str1[2]
+            temp = rating
+            rating = rating[:2]
+            text_file.write(line.replace(temp,rating))
 
 
 
 
 browser = webdriver.Chrome()
-getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
+#getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
 getPlayerRatings("FIFA_Club_Links-2013.txt")
+cleanRating("PlayerRatings-2013.txt")
