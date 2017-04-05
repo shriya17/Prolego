@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 """
-
+    _author_ = "Sourabh Swain"
     Script Description:
     This python script fetches each premier league player's EA Sports FIFA ratings for all seasons
     from 2013 onwards. The script scrapes data from the site www.fifaindex.com. The task is achieved by
@@ -51,7 +51,7 @@ def getPlayerRatings(fileName):
     This function reads the club urls from the text file obtained from getClubLinks function and then fetches
     the ratings of each player for each club by going to the respective url of the club. The output is written
     onto a text file called PlayerRatings-XXXX.txt.
-    
+
     """
     text_file = open("PlayerRatings-2013.txt","w")
     with open(fileName,"r") as ins:
