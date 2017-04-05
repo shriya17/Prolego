@@ -42,6 +42,17 @@ def getClubLinks(url):
 
 
 def getPlayerRatings(fileName):
+    """
+
+    :param fileName: String
+    :return: none
+
+    File Description:
+    This function reads the club urls from the text file obtained from getClubLinks function and then fetches
+    the ratings of each player for each club by going to the respective url of the club. The output is written
+    onto a text file called PlayerRatings-XXXX.txt.
+    
+    """
     text_file = open("PlayerRatings-2013.txt","w")
     with open(fileName,"r") as ins:
         for line in ins:
@@ -76,6 +87,16 @@ def getPlayerRatings(fileName):
 
 
 def cleanRating(fileName):
+    """
+
+    :param fileName: String
+    :return: none
+
+    Function description:
+    This function arranges the scraped data (Team, Name, Position, Rating) in an arranged way and writes
+    them into a text file.
+
+    """
     text_file = open("PlayerRatings-2013-Final.txt","w")
     with open(fileName,"r+") as ins:
         for line in ins:
@@ -88,7 +109,8 @@ def cleanRating(fileName):
 
 
 
+
 browser = webdriver.Chrome()
-#getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
+getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
 getPlayerRatings("FIFA_Club_Links-2013.txt")
 cleanRating("PlayerRatings-2013.txt")
