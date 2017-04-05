@@ -1,4 +1,5 @@
 import time
+import csv
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
@@ -107,10 +108,53 @@ def cleanRating(fileName):
             text_file.write(line.replace(temp,rating))
 
 
+def transferToCsv(data,fileName):
+
+    """
+    :param data:string
+    :param fileName:string
+    :param season:string
+    :return:none
+
+    This function takes the listoflists (data) and adds the corresponding matches for a particular seasons
+    into the variable data. After that, the data variable is written line by line into the Scoreboard_all.csv file
+    """
+
+    with open(fileName, "r") as ins:
+        for line in ins:
+            val = str(line).rstrip('\n')
+            x = val.split(",")
+            #print x
+            data.append(x)
+
+
+
+def convertToCSV(fileName):
+    data = []
+
+    # Initializing a blank .csv file
+    with open("PlayerRatings-2013.csv", "wb") as csv_file:
+        writer = csv.writer(csv_file, delimiter=',')
+        for line in data:
+            writer.writerow(line)
+
+    csv_file.close()
+
+    # Appending the Column data for the .csv file
+    data.append("Team,Name,Rating,Position".split(","))
+    transferToCsv(data,fileName)
+    with open("PlayerRatings-2013.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
+        writer = csv.writer(csv_file, delimiter=',')
+        for line in data:
+            #print line
+            writer.writerow(line)
+
+    csv_file.close()
 
 
 
 browser = webdriver.Chrome()
-getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
-getPlayerRatings("FIFA_Club_Links-2013.txt")
-cleanRating("PlayerRatings-2013.txt")
+#getClubLinks("https://www.fifaindex.com/teams/fifa14_13/?league=13")
+#getPlayerRatings("FIFA_Club_Links-2013.txt")
+#cleanRating("PlayerRatings-2013.txt")
+convertToCSV("PlayerRatings-2013-Final.txt")
