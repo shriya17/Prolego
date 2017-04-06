@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 """
     _author_ = "Sourabh Swain"
     Script Description:
+    
     This python script fetches each premier league player's EA Sports FIFA ratings for all seasons
     from 2013 onwards. The script scrapes data from the site www.fifaindex.com. The task is achieved by
     performing two tasks - fetching each club's url from the season page & then fetching player ratings
