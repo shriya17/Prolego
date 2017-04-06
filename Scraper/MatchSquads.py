@@ -2,6 +2,11 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+"""
+    _author_ = "Shriya Mishra"
+
+"""
+
 def fetchSquadList(col_name):
     column = browser.find_element_by_css_selector(col_name)
     col_list = column.find_elements_by_class_name("info")
