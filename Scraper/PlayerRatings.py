@@ -25,7 +25,7 @@ def getClubLinks(url):
     them in a text file. First, we find elements using an id.
 
     """
-    text_file = open("FIFA_Club_Links-2014.txt","w")
+    text_file = open("FIFA_Club_Links-2015.txt","w")
     browser.get(url)
     time.sleep(0.5)
     table = browser.find_element_by_id("no-more-tables")
@@ -54,7 +54,7 @@ def getPlayerRatings(fileName):
     onto a text file called PlayerRatings-XXXX.txt.
 
     """
-    text_file = open("PlayerRatings-2014.txt","w")
+    text_file = open("PlayerRatings-2015.txt","w")
     with open(fileName,"r") as ins:
         for line in ins:
             str1 = line.split(',')
@@ -98,7 +98,7 @@ def cleanRating(fileName):
     them into a text file.
 
     """
-    text_file = open("PlayerRatings-2014-Final.txt","w")
+    text_file = open("PlayerRatings-2015-Final.txt","w")
     with open(fileName,"r+") as ins:
         for line in ins:
             str1 = line.split(',')
@@ -133,7 +133,7 @@ def convertToCSV(fileName):
     data = []
 
     # Initializing a blank .csv file
-    with open("PlayerRatings-2014.csv", "wb") as csv_file:
+    with open("PlayerRatings-2015.csv", "wb") as csv_file:
         writer = csv.writer(csv_file, delimiter=',')
         for line in data:
             writer.writerow(line)
@@ -143,7 +143,7 @@ def convertToCSV(fileName):
     # Appending the Column data for the .csv file
     data.append("Team,Name,Rating,Position".split(","))
     transferToCsv(data,fileName)
-    with open("PlayerRatings-2014.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
+    with open("PlayerRatings-2015.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
         writer = csv.writer(csv_file, delimiter=',')
         for line in data:
             #print line
@@ -154,7 +154,7 @@ def convertToCSV(fileName):
 
 
 browser = webdriver.Chrome()
-#getClubLinks("https://www.fifaindex.com/teams/fifa15_14/?league=13")
-#getPlayerRatings("FIFA_Club_Links-2014.txt")
-#cleanRating("PlayerRatings-2014.txt")
-convertToCSV("PlayerRatings-2014-Final.txt")
+#getClubLinks("https://www.fifaindex.com/teams/fifa16_73/?league=13")
+#getPlayerRatings("FIFA_Club_Links-2015.txt")
+#cleanRating("PlayerRatings-2015.txt")
+convertToCSV("PlayerRatings-2015-Final.txt")

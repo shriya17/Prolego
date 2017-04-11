@@ -1,0 +1,661 @@
+Team,Name,Rating,Position
+Chelsea,Thibaut Courtois,86,GK
+Chelsea,Branislav Ivanović,80,RB
+Chelsea,Gary Cahill,82,CB
+Chelsea,John Terry,84,CB
+Chelsea,Azpilicueta,82,LB
+Chelsea,Cesc Fàbregas,86,CM
+Chelsea,Nemanja Matić,83,CD
+Chelsea,Willian,83,RM
+Chelsea,Pedro,83,LM
+Chelsea,Eden Hazard,88,LM
+Chelsea,Diego Costa,85,ST
+Chelsea,Oscar,82,CA
+Chelsea,Kenedy,72,LM
+Chelsea,Ruben Loftus-Cheek,66,CM
+Chelsea,Abdul Rahman Baba,77,LB
+Chelsea,Asmir Begović,82,GK
+Chelsea,Falcao,82,ST
+Chelsea,Loïc Rémy,80,ST
+Chelsea,Kurt Zouma,79,CB
+Chelsea,Alexandre Pato,80,ST
+Chelsea,Lucas Piazon,73,CA
+Chelsea,Bertrand Traoré,74,ST
+Chelsea,John Obi Mikel,77,CD
+Chelsea,Tammy Abraham,63,ST
+Chelsea,Fikayo Tomori,59,CB
+Chelsea,Matt Miazga,72,CB
+Chelsea,Marco Amelia,70,GK
+Chelsea,Michael Hector,70,CB
+Chelsea,Kasey Palmer,66,CA
+Chelsea,Ola Aina,60,RB
+Chelsea,Jake Clarke-Salter,60,CB
+Chelsea,Charlie Colkett,59,CM
+Chelsea,Bradley Collins,56,GK
+Manchester City,Joe Hart,84,GK
+Manchester City,Bacary Sagna,80,RB
+Manchester City,Nicolás Otamendi,84,CB
+Manchester City,Eliaquim Mangala,79,CB
+Manchester City,Gaël Clichy,79,LB
+Manchester City,Jesús Navas,80,RM
+Manchester City,Yaya Touré,85,CM
+Manchester City,Fernandinho,80,CM
+Manchester City,David Silva,86,LM
+Manchester City,Kevin De Bruyne,86,RM
+Manchester City,Sergio Agüero,88,ST
+Manchester City,Samir Nasri,82,LM
+Manchester City,Fernando,78,CD
+Manchester City,Pablo Zabaleta,82,RB
+Manchester City,Angeliño,64,LB
+Manchester City,Willy Caballero,77,GK
+Manchester City,Kelechi Iheanacho,73,ST
+Manchester City,Raheem Sterling,81,LM
+Manchester City,Vincent Kompany,85,CB
+Manchester City,Fabian Delph,77,CM
+Manchester City,Wilfried Bony,80,ST
+Manchester City,Aleksandar Kolarov,78,LB
+Manchester City,Martín Demichelis,78,CB
+Manchester City,Brandon Barker,66,LM
+Manchester City,Manu García,66,CA
+Manchester City,Thierry Ambrose,65,ST
+Manchester City,Bersant Celina,65,CA
+Manchester City,David Faupala,63,ST
+Manchester City,Angus Gunn,63,GK
+Manchester City,Aleix García,62,CM
+Manchester City,Cameron Humphreys-Grant,60,CB
+Manchester City,James Horsfield,53,RB
+Manchester City,Tosin Adarabioyo,58,CB
+Arsenal,Petr Čech,86,GK
+Arsenal,Héctor Bellerín,77,RB
+Arsenal,Per Mertesacker,83,CB
+Arsenal,Laurent Koscielny,84,CB
+Arsenal,Nacho Monreal,80,LB
+Arsenal,Francis Coquelin,79,CD
+Arsenal,Santi Cazorla,85,CA
+Arsenal,Alexis Sánchez,86,LW
+Arsenal,Alex Iwobi,69,LM
+Arsenal,Mesut Özil,88,CA
+Arsenal,Olivier Giroud,82,ST
+Arsenal,Theo Walcott,81,LM
+Arsenal,Jack Wilshere,81,CM
+Arsenal,Mohamed Elneny,73,CD
+Arsenal,Gabriel,78,CB
+Arsenal,David Ospina,78,GK
+Arsenal,Aaron Ramsey,82,CM
+Arsenal,Kieran Gibbs,79,LB
+Arsenal,Danny Welbeck,79,ST
+Arsenal,Joel Campbell,76,RM
+Arsenal,Tomáš Rosický,79,CA
+Arsenal,Alex Oxlade-Chamberlain,78,RM
+Arsenal,Mathieu Flamini,76,CD
+Arsenal,Calum Chambers,72,RB
+Arsenal,Serge Gnabry,70,RM
+Arsenal,Donyell Malen,62,ST
+Arsenal,Jeff Reine-Adelaïde,62,CA
+Arsenal,Krystian Bielik,61,CD
+Arsenal,Marcus McGuane,61,CM
+Arsenal,Matt Macey,51,GK
+Arsenal,Tafari Moore,59,RB
+Arsenal,Daniel Crowley,58,CM
+Arsenal,Julio Pleguezuelo,58,RB
+Manchester Utd,De Gea,87,GK
+Manchester Utd,Antonio Valencia,75,RB
+Manchester Utd,Chris Smalling,83,CB
+Manchester Utd,Daley Blind,79,CB
+Manchester Utd,Cameron Borthwick-Jackson,67,LB
+Manchester Utd,Morgan Schneiderlin,82,CD
+Manchester Utd,Jesse Lingard,76,RM
+Manchester Utd,Juan Mata,83,RM
+Manchester Utd,Wayne Rooney,85,ST
+Manchester Utd,Anthony Martial,78,LM
+Manchester Utd,Marcus Rashford,69,ST
+Manchester Utd,Ander Herrera,81,CM
+Manchester Utd,Michael Carrick,80,CD
+Manchester Utd,Adnan Januzaj,75,LM
+Manchester Utd,Marcos Rojo,78,LB
+Manchester Utd,Sergio Romero,76,GK
+Manchester Utd,Memphis Depay,79,LM
+Manchester Utd,Phil Jones,80,CB
+Manchester Utd,Bastian Schweinsteiger,85,CM
+Manchester Utd,Matteo Darmian,81,RB
+Manchester Utd,Victor Valdés,81,GK
+Manchester Utd,Ashley Young,79,LM
+Manchester Utd,Marouane Fellaini,78,CM
+Manchester Utd,Luke Shaw,78,LB
+Manchester Utd,Andreas Pereira,69,CA
+Manchester Utd,Paddy McNair,69,CB
+Manchester Utd,Guillermo Varela,68,RB
+Manchester Utd,Timothy Fosu-Mensah,66,CD
+Manchester Utd,Sam Johnstone,65,GK
+Manchester Utd,Will Keane,65,ST
+Manchester Utd,Joe Riley,61,LB
+Manchester Utd,Regan Poole,60,CB
+Manchester Utd,Sean Goss,57,CM
+Spurs,Hugo Lloris,85,GK
+Spurs,Kyle Walker,79,RB
+Spurs,Toby Alderweireld,82,CB
+Spurs,Jan Vertonghen,82,CB
+Spurs,Danny Rose,78,LB
+Spurs,Eric Dier,76,CD
+Spurs,Moussa Dembélé,80,CM
+Spurs,Erik Lamela,80,RM
+Spurs,Christian Eriksen,83,CA
+Spurs,Dele Alli,77,CA
+Spurs,Harry Kane,82,ST
+Spurs,Nacer Chadli,78,LM
+Spurs,Heung Min Son,77,LM
+Spurs,Ryan Mason,75,CM
+Spurs,Kevin Wimmer,78,CB
+Spurs,Michel Vorm,80,GK
+Spurs,Clinton N'Jié,69,ST
+Spurs,Ben Davies,76,LB
+Spurs,Tom Carroll,71,CM
+Spurs,Josh Onomah,69,CA
+Spurs,Kieran Trippier,76,RB
+Spurs,Nabil Bentaleb,74,CD
+Spurs,Nathan Oduwa,63,LM
+Spurs,Luke McGee,61,GK
+Spurs,Harry Winks,60,CM
+Spurs,Kyle Walker-Peters,56,RB
+Spurs,Cameron Carter-Vickers,59,CB
+Spurs,William Miller,57,CA
+Spurs,Emmanuel Sonupe,56,RM
+Spurs,Anthony Georgiou,55,LM
+Spurs,Christian Maghoma,55,CB
+Spurs,Luke Amos,54,CD
+Spurs,Cy Goddard,54,LM
+Liverpool,Simon Mignolet,78,GK
+Liverpool,Nathaniel Clyne,80,RB
+Liverpool,Dejan Lovren,79,CB
+Liverpool,Kolo Touré,78,CB
+Liverpool,Alberto Moreno,77,LB
+Liverpool,James Milner,80,CM
+Liverpool,Emre Can,75,CM
+Liverpool,Adam Lallana,80,CA
+Liverpool,Coutinho,84,CA
+Liverpool,Roberto Firmino,82,CF
+Liverpool,Daniel Sturridge,83,ST
+Liverpool,Divock Origi,76,ST
+Liverpool,Joe Allen,76,CM
+Liverpool,Martin Škrtel,81,CB
+Liverpool,Brad Smith,60,LB
+Liverpool,Ádám Bogdán,73,GK
+Liverpool,Christian Benteke,80,ST
+Liverpool,Jordan Henderson,79,CM
+Liverpool,Lucas Leiva,79,CD
+Liverpool,Danny Ings,76,ST
+Liverpool,Sheyi Ojo,63,LM
+Liverpool,Mamadou Sakho,81,CB
+Liverpool,Cameron Brannagan,60,CA
+Liverpool,Steven Caulker,76,CB
+Liverpool,Ilori,74,CB
+Liverpool,Kevin Stewart,62,CD
+Liverpool,José Enrique,73,LB
+Liverpool,Connor Randall,55,RB
+Liverpool,Jon Flanagan,72,RB
+Liverpool,Jordon Ibe,71,LW
+Liverpool,Joe Gomez,68,LB
+Liverpool,Teixeira,68,CA
+Liverpool,Danny Ward,65,GK
+Everton,Joel Robles,74,GK
+Everton,Séamus Coleman,81,RB
+Everton,John Stones,77,CB
+Everton,Phil Jagielka,81,CB
+Everton,Leighton Baines,82,LB
+Everton,James McCarthy,80,CD
+Everton,Gareth Barry,79,CD
+Everton,Aaron Lennon,77,RM
+Everton,Tom Cleverley,77,CM
+Everton,Ross Barkley,80,CA
+Everton,Romelu Lukaku,82,ST
+Everton,Kevin Mirallas,80,LM
+Everton,Deulofeu,80,RM
+Everton,Muhamed Bešić,75,CD
+Everton,Bryan Oviedo,71,LB
+Everton,Jindřich Staněk,63,GK
+Everton,Oumar Niasse,77,ST
+Everton,Ramiro Funes Mori,75,CB
+Everton,Matthew Pennington,63,CB
+Everton,Darron Gibson,76,CM
+Everton,Leon Osman,75,LM
+Everton,Arouna Koné,77,ST
+Everton,Steven Pienaar,77,LM
+Everton,Tony Hibbert,72,RB
+Everton,Tyias Browning,66,RB
+Everton,Brendan Galloway,66,LB
+Everton,Kieran Dowell,64,CA
+Everton,Conor Grant,63,CD
+Everton,Mateusz Hewelt,57,GK
+Everton,Mason Holgate,61,RB
+Everton,Callum Connolly,56,CD
+Everton,Felipe Mattioni,69,RB
+Everton,Tom Davies,51,CM
+Newcastle Utd,Karl Darlow,68,GK
+Newcastle Utd,Daryl Janmaat,77,RB
+Newcastle Utd,Chancel Mbemba,77,CB
+Newcastle Utd,Fabricio Coloccini,77,CB
+Newcastle Utd,Paul Dummett,69,LB
+Newcastle Utd,Cheick Tioté,78,CD
+Newcastle Utd,Jack Colback,76,CD
+Newcastle Utd,Andros Townsend,75,RM
+Newcastle Utd,Georginio Wijnaldum,80,LM
+Newcastle Utd,Moussa Sissoko,79,RM
+Newcastle Utd,Aleksandar Mitrović,76,ST
+Newcastle Utd,Jonjo Shelvey,77,CM
+Newcastle Utd,Siem de Jong,76,CA
+Newcastle Utd,Rolando Aarons,71,LM
+Newcastle Utd,Jamaal Lascelles,69,CB
+Newcastle Utd,Freddie Woodman,61,GK
+Newcastle Utd,Papiss Demba Cissé,77,ST
+Newcastle Utd,Ayoze Pérez,73,ST
+Newcastle Utd,Seydou Doumbia,79,ST
+Newcastle Utd,Tim Krul,78,GK
+Newcastle Utd,Jamie Sterry,60,RB
+Newcastle Utd,Henri Saivet,77,CM
+Newcastle Utd,Yoan Gouffran,75,LM
+Newcastle Utd,Sylvain Marveaux,75,CA
+Newcastle Utd,Vurnon Anita,73,CD
+Newcastle Utd,Massadio Haïdara,72,LB
+Newcastle Utd,Emmanuel Rivière,71,ST
+Newcastle Utd,Rob Elliot,69,GK
+Newcastle Utd,Kevin Mbabu,54,LB
+Newcastle Utd,Gabriel Obertan,69,RM
+Newcastle Utd,Curtis Good,63,CB
+Newcastle Utd,Daniel Barlaser,60,RM
+Newcastle Utd,Callum Williams,59,CB
+Stoke City,Jakob Haugaard,62,GK
+Stoke City,Phil Bardsley,72,RB
+Stoke City,Ryan Shawcross,80,CB
+Stoke City,Philipp Wollscheid,77,CB
+Stoke City,Erik Pieters,75,LB
+Stoke City,Glenn Whelan,76,CD
+Stoke City,Giannelli Imbula,78,CM
+Stoke City,Xherdan Shaqiri,80,RM
+Stoke City,Marko Arnautović,79,LM
+Stoke City,Bojan,80,CA
+Stoke City,Peter Crouch,75,ST
+Stoke City,Joselu,75,ST
+Stoke City,Charlie Adam,75,CM
+Stoke City,Geoff Cameron,76,CB
+Stoke City,Marc Muniesa,75,CB
+Stoke City,Daniel Bachmann,61,GK
+Stoke City,Mame Diouf,77,ST
+Stoke City,Jonathan Walters,74,ST
+Stoke City,Jack Butland,79,GK
+Stoke City,Ibrahim Afellay,78,CA
+Stoke City,Glen Johnson,77,RB
+Stoke City,Stephen Ireland,75,CA
+Stoke City,Shay Given,74,GK
+Stoke City,Marc Wilson,73,CB
+Stoke City,Dionatan Teixeira,62,CB
+Stoke City,Moha,61,LW
+Stoke City,Oliver Shenton,61,CM
+Stoke City,Eddy Lecygne,59,CM
+Stoke City,Dom Telford,55,ST
+Stoke City,Mark Waddington,53,CM
+Stoke City,Joel Taylor,62,LB
+Stoke City,Dániel Gyollai,59,GK
+Stoke City,Dominic Kurasik,59,GK
+Southampton,Fraser Forster,76,GK
+Southampton,Cuco Martina,69,RB
+Southampton,José Fonte,81,CB
+Southampton,Virgil van Dijk,77,CB
+Southampton,Ryan Bertrand,78,LB
+Southampton,Victor Wanyama,77,CD
+Southampton,Oriol Romeu,73,CD
+Southampton,Sadio Mané,78,CF
+Southampton,Dušan Tadić,78,LM
+Southampton,Steven Davis,76,CM
+Southampton,Shane Long,75,ST
+Southampton,Graziano Pellè,78,ST
+Southampton,James Ward-Prowse,75,CM
+Southampton,Cédric,77,RB
+Southampton,Maya Yoshida,72,CB
+Southampton,Maarten Stekelenburg,76,GK
+Southampton,Jay Rodriguez,76,LM
+Southampton,Harrison Reed,67,CD
+Southampton,Charlie Austin,77,ST
+Southampton,Florin Gardoş,73,CB
+Southampton,Juanmi,70,CA
+Southampton,Jordy Clasie,77,CD
+Southampton,Matt Targett,66,LB
+Southampton,Paulo Gazzaniga,65,GK
+Southampton,Sam Gallagher,64,ST
+Southampton,Jake Hesketh,62,CA
+Southampton,Ryan Seager,62,ST
+Southampton,Jake Flannigan,61,CM
+Southampton,Dominic Gape,60,CM
+Southampton,Josh Sims,60,LM
+Southampton,Joshua Debayo,58,CB
+Southampton,Olufela Olomola,58,ST
+Southampton,Will Wood,58,LB
+West Ham,Adrián,78,GK
+West Ham,Michail Antonio,75,RM
+West Ham,Winston Reid,80,CB
+West Ham,Angelo Ogbonna,79,CB
+West Ham,Aaron Cresswell,74,LB
+West Ham,Cheikhou Kouyaté,76,CD
+West Ham,Enner Valencia,76,ST
+West Ham,Mark Noble,77,CM
+West Ham,Manuel Lanzini,78,CA
+West Ham,Dimitri Payet,83,LM
+West Ham,Andy Carroll,77,ST
+West Ham,Victor Moses,76,LM
+West Ham,Pedro Obiang,74,CM
+West Ham,James Collins,75,CB
+West Ham,James Tomkins,75,CB
+West Ham,Darren Randolph,73,GK
+West Ham,Diafra Sakho,75,ST
+West Ham,Emmanuel Emenike,75,ST
+West Ham,Alexandre Song,78,CD
+West Ham,Carl Jenkinson,72,RB
+West Ham,Sam Byram,71,RM
+West Ham,Joey O'Brien,68,RB
+West Ham,Doneil Henry,67,CB
+West Ham,Reece Oxford,65,CB
+West Ham,Raphael Spiegel,59,GK
+West Ham,Stephen Hendrie,62,LB
+West Ham,Martin Samuelsen,62,RM
+West Ham,Djair Parfitt-Williams,59,RM
+West Ham,Marcus Browne,57,CA
+West Ham,George Dobson,52,CD
+West Ham,Lewis Page,59,LB
+West Ham,Grady Diangana,56,CA
+West Ham,Luka Belić,58,ST
+Swansea City,Łukasz Fabiański,78,GK
+Swansea City,Kyle Naughton,74,RB
+Swansea City,Federico Fernández,78,CB
+Swansea City,Ashley Williams,81,CB
+Swansea City,Neil Taylor,74,LB
+Swansea City,Jack Cork,77,CD
+Swansea City,Leroy Fer,75,CA
+Swansea City,Wayne Routledge,75,LM
+Swansea City,Jefferson Montero,77,LM
+Swansea City,Gylfi Sigurðsson,79,CA
+Swansea City,André Ayew,79,RM
+Swansea City,Ki Sung Yueng,77,CM
+Swansea City,Leon Britton,76,CM
+Swansea City,Àngel Rangel,76,RB
+Swansea City,Jordi Amat,75,CB
+Swansea City,Kristoffer Nordfeldt,72,GK
+Swansea City,Bafétimbi Gomis,77,ST
+Swansea City,Modou Barrow,69,RW
+Swansea City,Marvin Emnes,68,ST
+Swansea City,Kenji Gorré,65,LW
+Swansea City,Jay Fulton,63,CM
+Swansea City,Alberto Paloschi,77,ST
+Swansea City,Stephen Kingsley,61,LB
+Swansea City,Kyle Bartley,68,CB
+Swansea City,Gregor Zabret,61,GK
+Swansea City,Oliver Davies,59,GK
+Swansea City,Josh Sheehan,58,CM
+Swansea City,Raheem Hanley,59,LB
+Swansea City,Lee Lucas,59,CM
+Swansea City,Josh Vickers,58,GK
+Swansea City,Alex Bray,59,RM
+Swansea City,Henry Jones,58,CM
+Swansea City,Owain Jones,58,LM
+Leicester City,Kasper Schmeichel,78,GK
+Leicester City,Danny Simpson,72,RB
+Leicester City,Wes Morgan,78,CB
+Leicester City,Robert Huth,78,CB
+Leicester City,Christian Fuchs,76,LB
+Leicester City,Riyad Mahrez,81,RM
+Leicester City,Danny Drinkwater,76,CM
+Leicester City,N'Golo Kanté,79,CM
+Leicester City,Marc Albrighton,75,LM
+Leicester City,Shinji Okazaki,76,ST
+Leicester City,Jamie Vardy,79,ST
+Leicester City,Leonardo Ulloa,73,ST
+Leicester City,Daniel Amartey,70,CM
+Leicester City,Demarai Gray,68,LM
+Leicester City,Jeffrey Schlupp,69,LB
+Leicester City,Mark Schwarzer,73,GK
+Leicester City,Andy King,70,CM
+Leicester City,Marcin Wasilewski,72,CB
+Leicester City,Matty James,68,CM
+Leicester City,Gökhan Inler,77,CD
+Leicester City,Nathan Dyer,76,RM
+Leicester City,Liam Moore,70,CB
+Leicester City,Ben Chilwell,64,LB
+Leicester City,Ben Hamer,66,GK
+Leicester City,Joe Dodoo,61,RM
+Leicester City,Andre Olukanmi,60,LM
+Leicester City,Jonathan Maddison,54,GK
+Leicester City,Michael Cain,63,CM
+Leicester City,Callum Elder,60,LB
+Leicester City,Simonas Stankevičius,57,ST
+Leicester City,Kyle Bailey,56,ST
+Leicester City,Ryan Watson,56,CM
+Leicester City,Brandon Fox,55,ST
+Crystal Palace,Wayne Hennessey,74,GK
+Crystal Palace,Joel Ward,76,RB
+Crystal Palace,Scott Dann,78,CB
+Crystal Palace,Damien Delaney,74,CB
+Crystal Palace,Pape Souaré,75,LB
+Crystal Palace,James McArthur,76,CD
+Crystal Palace,Yohan Cabaye,80,CD
+Crystal Palace,Wilfried Zaha,78,RM
+Crystal Palace,Yannick Bolasie,77,LM
+Crystal Palace,Jason Puncheon,75,CA
+Crystal Palace,Connor Wickham,73,ST
+Crystal Palace,Mile Jedinák,76,CD
+Crystal Palace,Joe Ledley,74,CM
+Crystal Palace,Martin Kelly,74,RB
+Crystal Palace,Adrian Mariappa,71,RB
+Crystal Palace,Julián Speroni,76,GK
+Crystal Palace,Dwight Gayle,71,ST
+Crystal Palace,Bakary Sako,75,LM
+Crystal Palace,Emmanuel Adebayor,78,ST
+Crystal Palace,Marouane Chamakh,74,CA
+Crystal Palace,Fraizer Campbell,71,ST
+Crystal Palace,Jordon Mutch,71,CM
+Crystal Palace,Alex McCarthy,75,GK
+Crystal Palace,Lee Chung Yong,72,LM
+Crystal Palace,Patrick McCarthy,67,CB
+Crystal Palace,Luke Croll,54,CB
+Crystal Palace,Ezekiel Fryers,65,LB
+Crystal Palace,Chris Kettings,59,GK
+Crystal Palace,Connor Dymond,55,CD
+Crystal Palace,Kwesi Appiah,65,ST
+Crystal Palace,Keshi Anderson,64,ST
+Crystal Palace,Reise Allassani,56,LM
+Crystal Palace,Aaron Bissaka,57,RM
+Watford,Gomes,76,GK
+Watford,Allan-Roméo Nyom,77,RB
+Watford,Craig Cathcart,72,CB
+Watford,Miguel Angel Britos,74,CB
+Watford,Nathan Aké,72,LB
+Watford,Almen Abdi,72,RM
+Watford,Ben Watson,71,CD
+Watford,Etienne Capoue,77,CD
+Watford,Jurado,75,LM
+Watford,Odion Ighalo,77,ST
+Watford,Troy Deeney,76,ST
+Watford,Adlène Guédioura,70,CM
+Watford,Sebastian Prödl,76,CB
+Watford,Juan Carlos Paredes,70,RB
+Watford,Ikechi Anya,69,LW
+Watford,Costel Pantilimon,76,GK
+Watford,Nordin Amrabat,78,ST
+Watford,Mario Suárez,78,CM
+Watford,Steven Berghuis,75,RW
+Watford,Jose Holebas,77,LB
+Watford,Valon Behrami,76,CD
+Watford,Joel Ekstrand,71,CB
+Watford,Tommie Hoban,69,CB
+Watford,Sean Murray,68,CM
+Watford,Obbi Oulare,68,ST
+Watford,Dennon Lewis,63,LW
+Watford,Josh Doherty,50,LB
+Watford,Alfie Young,60,CB
+Watford,Bernard Mensah,58,ST
+Watford,Rene Gilmartin,57,GK
+Watford,Alex Jakubiak,57,ST
+Watford,George Byers,53,CM
+Watford,Nathan Gartside,53,GK
+Sunderland,Vito Mannone,74,GK
+Sunderland,DeAndre Yedlin,71,RB
+Sunderland,Lamine Koné,74,CB
+Sunderland,Younès Kaboul,76,CB
+Sunderland,Patrick van Aanholt,74,LB
+Sunderland,Jan Kirchhoff,75,CD
+Sunderland,Fabio Borini,75,RM
+Sunderland,Lee Cattermole,77,CD
+Sunderland,Yann M'Vila,78,CD
+Sunderland,Wahbi Khazri,78,LM
+Sunderland,Jermain Defoe,78,ST
+Sunderland,Sebastian Larsson,74,CM
+Sunderland,Duncan Watmore,67,RM
+Sunderland,John O'Shea,75,CB
+Sunderland,Billy Jones,71,RB
+Sunderland,Jordan Pickford,71,GK
+Sunderland,Dame N'Doye,76,ST
+Sunderland,Jack Rodwell,75,CM
+Sunderland,Jeremain Lens,79,LW
+Sunderland,Wes Brown,73,CB
+Sunderland,Rees Greenwood,60,LW
+Sunderland,George Honeyman,59,CA
+Sunderland,Thomas Robson,59,LB
+Sunderland,Ola Toivonen,73,CA
+Sunderland,Steve Harper,69,GK
+Sunderland,Valentin Roberge,69,CB
+Sunderland,Lynden Gooch,63,CA
+Sunderland,Tom Beadling,60,CB
+Sunderland,Mikael Mandron,60,ST
+Sunderland,Liam Agnew,58,CM
+Sunderland,Maksymilian Stryjek,57,GK
+Sunderland,Ethan Robson,56,CM
+Sunderland,Josh Robson,55,RB
+West Brom,Ben Foster,79,GK
+West Brom,Craig Dawson,66,RB
+West Brom,Gareth McAuley,75,CB
+West Brom,Jonas Olsson,77,CB
+West Brom,Jonny Evans,78,CB
+West Brom,Claudio Yacob,78,CD
+West Brom,Jonathan Leko,65,ST
+West Brom,Darren Fletcher,75,CM
+West Brom,Craig Gardner,75,CM
+West Brom,James McClean,73,LM
+West Brom,Salomón Rondón,79,ST
+West Brom,Saido Berahino,76,ST
+West Brom,Stéphane Sessègnon,77,CA
+West Brom,Sandro,73,CM
+West Brom,James Chester,72,CB
+West Brom,Boaz Myhill,72,GK
+West Brom,Rickie Lambert,75,ST
+West Brom,Tyler Roberts,60,ST
+West Brom,Alex Pritchard,71,CA
+West Brom,Sébastien Pocognoli,75,LB
+West Brom,Cristian Gamboa,74,RB
+West Brom,James Morrison,74,CM
+West Brom,Victor Anichebe,73,ST
+West Brom,Callum McManaman,73,RW
+West Brom,Chris Brunt,68,LB
+West Brom,Joe Ward,61,CM
+West Brom,Callam Jones,59,CB
+West Brom,Alex Palmer,54,GK
+West Brom,Andre Wright,61,ST
+West Brom,Zachary Elbouzedi,61,CA
+West Brom,Kyle Edwards,60,CA
+West Brom,Samir Nabi,59,CM
+West Brom,Jack Fitzwater,57,CB
+Aston Villa,Mark Bunn,73,GK
+Aston Villa,Alan Hutton,73,RB
+Aston Villa,Micah Richards,77,CB
+Aston Villa,Joleon Lescott,74,CB
+Aston Villa,Ciaran Clark,76,CB
+Aston Villa,Aly Cissokho,73,LB
+Aston Villa,Ashley Westwood,74,CM
+Aston Villa,Carlos Sánchez,76,CD
+Aston Villa,Idrissa Gueye,75,CM
+Aston Villa,Rudy Gestede,73,ST
+Aston Villa,Jordan Ayew,76,ST
+Aston Villa,Jordan Veretout,76,CM
+Aston Villa,Jack Grealish,71,LM
+Aston Villa,Leandro Bacuna,72,RB
+Aston Villa,Kevin Toner,61,CB
+Aston Villa,Brad Guzan,76,GK
+Aston Villa,Scott Sinclair,75,LW
+Aston Villa,Carles Gil,74,RM
+Aston Villa,Kieran Richardson,73,LB
+Aston Villa,Jordan Amavi,75,LB
+Aston Villa,Gabriel Agbonlahor,74,ST
+Aston Villa,Libor Kozák,74,ST
+Aston Villa,Charles N'Zogbia,73,CA
+Aston Villa,Jores Okore,77,CB
+Aston Villa,Adama,71,RW
+Aston Villa,André Green,62,LM
+Aston Villa,Rushian Hepburn-Murphy,61,ST
+Aston Villa,Jordan Lyden,58,CM
+Aston Villa,Easah Suliman,55,CB
+Aston Villa,Keinan Davis,53,ST
+Aston Villa,Niall Mason,50,CM
+Aston Villa,Corey Blackett-Taylor,48,ST
+Aston Villa,Bradley Watkins,46,GK
+Norwich,John Ruddy,75,GK
+Norwich,Russell Martin,73,CB
+Norwich,Ryan Bennett,71,CB
+Norwich,Timm Klose,76,CB
+Norwich,Martin Olsson,74,LB
+Norwich,Gary O'Neil,70,CM
+Norwich,Alexander Tettey,75,CD
+Norwich,Nathan Redmond,74,RM
+Norwich,Robbie Brady,75,LM
+Norwich,Steven Naismith,76,CA
+Norwich,Dieumerci Mbokani,78,ST
+Norwich,Wes Hoolahan,76,CA
+Norwich,Graham Dorrans,74,CM
+Norwich,Matt Jarvis,73,LM
+Norwich,Sébastien Bassong,74,CB
+Norwich,Declan Rudd,70,GK
+Norwich,Cameron Jerome,73,ST
+Norwich,Youssouf Mulumbu,76,CD
+Norwich,Ivo Pinto,74,RB
+Norwich,Vadis Odjidja-Ofoe,73,CM
+Norwich,Jonny Howson,72,RM
+Norwich,Patrick Bamford,70,ST
+Norwich,Steven Whittaker,70,RB
+Norwich,Andre Wisdom,70,RB
+Norwich,Tony Andreu,67,CA
+Norwich,Cameron King,58,CA
+Norwich,Adel Gafaiti,57,CB
+Norwich,Ben Godfrey,57,CM
+Norwich,Ebou Adams,56,CM
+Norwich,Jamie Eaton-Collins,56,RM
+Norwich,Reece Hall-Johnson,55,RB
+Norwich,Todd Cantwell,54,CA
+Norwich,Afolabi Coker,54,CB
+Bournemouth,Artur Boruc,76,GK
+Bournemouth,Simon Francis,72,RB
+Bournemouth,Tommy Elphick,71,CB
+Bournemouth,Steve Cook,72,CB
+Bournemouth,Charlie Daniels,71,LB
+Bournemouth,Matt Ritchie,74,RM
+Bournemouth,Andrew Surman,73,CM
+Bournemouth,Harry Arter,73,CM
+Bournemouth,Max Gradel,79,LW
+Bournemouth,Callum Wilson,75,ST
+Bournemouth,Joshua King,69,LM
+Bournemouth,Benik Afobe,73,ST
+Bournemouth,Lewis Grabban,69,ST
+Bournemouth,Junior Stanislas,69,LM
+Bournemouth,Sylvain Distin,77,CB
+Bournemouth,Adam Federici,73,GK
+Bournemouth,Dan Gosling,71,CM
+Bournemouth,Adam Smith,70,RB
+Bournemouth,Juan Manuel Iturbe,77,RW
+Bournemouth,Glenn Murray,72,ST
+Bournemouth,Marc Pugh,71,LM
+Bournemouth,Tyrone Mings,70,LB
+Bournemouth,Eunan O'Kane,68,CM
+Bournemouth,Rhoys Wiggins,68,LB
+Bournemouth,Shaun MacDonald,66,CM
+Bournemouth,Tokelo Rantie,66,ST
+Bournemouth,Baily Cargill,64,CB
+Bournemouth,Matthew Butcher,61,CM
+Bournemouth,Jordan Lee,58,RB
+Bournemouth,Jack Simpson,58,CB
+Bournemouth,Stéphane Zubar,62,CB
+Bournemouth,Joe Quigley,60,ST
+Bournemouth,Jonathan Muleba,55,CB

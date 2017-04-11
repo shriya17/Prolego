@@ -17,8 +17,13 @@ while no_of_pagedowns:
     time.sleep(0.5)
     no_of_pagedowns-=1
 
-post_elems = browser.find_elements_by_class_name("matchList")
-text_file = open("Output-2015.txt", "w")
-for post in post_elems:
-    text_file.write(post.text + "\n")
+uls = browser.find_elements_by_class_name("matchList")
+text_file = open("Matches-2015.txt", "w")
+for ul in uls:
+    post_elems = ul.find_elements_by_class_name("matchFixtureContainer")
+    for post in post_elems:
+        matchId = post.get_attribute("data-comp-match-item")
+        text_file.write(matchId + "\n")
+
+
 text_file.close()
