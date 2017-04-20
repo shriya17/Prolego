@@ -18,9 +18,9 @@ from selenium.common.exceptions import StaleElementReferenceException
 """
 
 browser = webdriver.Chrome()
-text_file = open("Stats-2014.txt","w")
+text_file = open("Stats-2015.txt","w")
 
-with open("Matches-2014.txt", "r") as ins:
+with open("Matches-2015.txt", "r") as ins:
     for line in ins:
         try:
             browser.get("https://www.premierleague.com/match/" + line)
