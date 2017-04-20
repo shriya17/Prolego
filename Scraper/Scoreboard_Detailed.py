@@ -101,6 +101,7 @@ with open("ScoreBoard_2015.txt","r") as ins:
         value_at_index = statsList.values()[idx]
         key_at_index = statsList.keys()[idx]
         val = str(line).rstrip('\n')
+        val = val.rstrip(',')
         val = key_at_index + "," + val
         val = val + value_at_index
         val = val.rstrip(',')
