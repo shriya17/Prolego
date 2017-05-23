@@ -58,7 +58,7 @@ browser = webdriver.Chrome()
 #sys.stdout = f
 #text_file = open("MatchSquads-2013.txt",'w')
 #getSquadUrl("Matches-2013.txt")
-with open("Matches-2013.txt", 'r') as ins, open('MatchSquads-2013.txt', 'w') as f:
+with open("Matches-2015.txt", 'r') as ins, open('MatchSquads-2015.txt', 'w') as f:
     # ins = list(islice(ins, 2))
     team1 = ""
     team2 = ""
