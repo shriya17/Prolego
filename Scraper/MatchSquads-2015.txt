@@ -1,4 +1,4 @@
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -64,7 +64,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 23
 Adam Federici
 Goalkeeper
@@ -128,7 +128,7 @@ Lewis Grabban
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -194,7 +194,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 5-3-2
+AVL Positions 5-3-2
 31
 Mark Bunn
 Goalkeeper
@@ -256,7 +256,7 @@ Forward
 Rushian Hepburn-Murphy
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -322,7 +322,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-2-3-1
+LEI Positions 4-2-3-1
 1
 Kasper Schmeichel
 Goalkeeper
@@ -386,7 +386,7 @@ Forward
 Leonardo Ulloa
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -452,7 +452,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -516,7 +516,7 @@ Robbie Brady
 10'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -582,7 +582,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -646,7 +646,7 @@ Midfielder
 Clinton N'Jie
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -712,7 +712,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 1
 Julian Speroni
 Goalkeeper
@@ -776,7 +776,7 @@ Midfielder
 Fraizer Campbell
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 24
 Shay Given
 Goalkeeper
@@ -842,7 +842,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-4-2
+WHU Positions 4-4-2
 1
 Darren Randolph
 Goalkeeper
@@ -906,7 +906,7 @@ Enner Valencia
 67'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-3-3
+SWAN Positions 4-3-3
 13
 Kristoffer Nordfeldt
 Goalkeeper
@@ -970,7 +970,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -1032,7 +1032,7 @@ Midfielder
 Wilfried Bony
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -1098,7 +1098,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 13
 Jordan Pickford
 Goalkeeper
@@ -1162,7 +1162,7 @@ Midfielder
 Jermain Defoe
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -1228,7 +1228,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 34
 Adam Bogdan
 Goalkeeper
@@ -1292,7 +1292,7 @@ Danny Ings
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-4-1-1
+LIV Positions 4-4-1-1
 22
 Simon Mignolet
 Goalkeeper
@@ -1358,7 +1358,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -1422,7 +1422,7 @@ Tammy Abraham
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-2-3-1
+NOR Positions 4-2-3-1
 1
 John Ruddy
 Goalkeeper
@@ -1488,7 +1488,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -1552,7 +1552,7 @@ Steven Berghuis
 54'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -1618,7 +1618,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -1680,7 +1680,7 @@ Midfielder
 Oumar Niasse
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-4-2
+WHU Positions 4-4-2
 1
 Darren Randolph
 Goalkeeper
@@ -1746,7 +1746,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -1810,7 +1810,7 @@ Midfielder
 Memphis Depay
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -1876,7 +1876,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -1940,7 +1940,7 @@ Steven Berghuis
 57'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -2006,7 +2006,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -2070,7 +2070,7 @@ Forward
 Joel Campbell
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -2134,7 +2134,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -2198,7 +2198,7 @@ Graziano Pellè
 65'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -2264,7 +2264,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-4-2
+EVE Positions 4-4-2
 1
 Joel Robles
 Goalkeeper
@@ -2328,7 +2328,7 @@ Midfielder
 Kieran Dowell
 Midfielder
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 5-3-2
+AVL Positions 5-3-2
 31
 Mark Bunn
 Goalkeeper
@@ -2390,7 +2390,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -2454,7 +2454,7 @@ Ayoze Pérez
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -2520,7 +2520,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -2582,7 +2582,7 @@ Saido Berahino
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -2647,7 +2647,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-1-4-1
+STK Positions 4-1-4-1
 29
 Jakob Haugaard
 Goalkeeper
@@ -2711,7 +2711,7 @@ Forward
 Joselu
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -2777,7 +2777,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -2841,7 +2841,7 @@ Forward
 Kenedy
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 1
 Darren Randolph
 Goalkeeper
@@ -2907,7 +2907,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-3
+SWAN Positions 4-3-3
 1
 Lukasz Fabianski
 Goalkeeper
@@ -2971,7 +2971,7 @@ Forward
 Marvin Emnes
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -3037,7 +3037,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -3098,7 +3098,7 @@ Morgan Schneiderlin
 78'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -3162,7 +3162,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -3226,7 +3226,7 @@ Midfielder
 Clinton N'Jie
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -3292,7 +3292,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -3354,7 +3354,7 @@ Midfielder
 Sergio Agüero
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -3420,7 +3420,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -3484,7 +3484,7 @@ Demarai Gray
 67'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -3548,7 +3548,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-4-1-1
+LIV Positions 4-4-1-1
 52
 Danny Ward
 Goalkeeper
@@ -3609,7 +3609,7 @@ Christian Benteke
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -3675,7 +3675,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -3739,7 +3739,7 @@ Dieumerci Mbokani
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -3805,7 +3805,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -3869,7 +3869,7 @@ Lewis Grabban
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -3935,7 +3935,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -3999,7 +3999,7 @@ Emmanuel Adebayor
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 29
 Jakob Haugaard
 Goalkeeper
@@ -4065,7 +4065,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -4129,7 +4129,7 @@ Duncan Watmore
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -4193,7 +4193,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 5-3-2
+AVL Positions 5-3-2
 31
 Mark Bunn
 Goalkeeper
@@ -4255,7 +4255,7 @@ Midfielder
 Jordan Veretout
 Midfielder
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -4321,7 +4321,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-4-2
+WHU Positions 4-4-2
 13
 Adrián
 Goalkeeper
@@ -4385,7 +4385,7 @@ Emmanuel Emenike
 66'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -4451,7 +4451,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 13
 Boaz Myhill
 Goalkeeper
@@ -4511,7 +4511,7 @@ Forward
 Victor Anichebe
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -4577,7 +4577,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-1-4-1
+SWAN Positions 4-1-4-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -4641,7 +4641,7 @@ Alberto Paloschi
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -4705,7 +4705,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -4769,7 +4769,7 @@ Danny Welbeck
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -4835,7 +4835,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -4897,7 +4897,7 @@ Midfielder
 Graziano Pellè
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -4963,7 +4963,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -5023,7 +5023,7 @@ Forward
 Falcao
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-1-2-1-2
+LIV Positions 4-1-2-1-2
 22
 Simon Mignolet
 Goalkeeper
@@ -5089,7 +5089,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -5153,7 +5153,7 @@ Aleksandar Mitrovic
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -5219,7 +5219,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 24
 Shay Given
 45'
@@ -5281,7 +5281,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -5347,7 +5347,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 1
 Ben Foster
 Goalkeeper
@@ -5411,7 +5411,7 @@ Salomón Rondón
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -5477,7 +5477,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -5541,7 +5541,7 @@ Forward
 Oumar Niasse
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -5607,7 +5607,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 1
 Julian Speroni
 Goalkeeper
@@ -5671,7 +5671,7 @@ Connor Wickham
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -5737,7 +5737,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -5801,7 +5801,7 @@ Steven Berghuis
 56'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -5867,7 +5867,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -5931,7 +5931,7 @@ Forward
 Kelechi Iheanacho
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 24
 Shay Given
 Goalkeeper
@@ -5995,7 +5995,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -6059,7 +6059,7 @@ Nacer Chadli
 84'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -6125,7 +6125,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -6189,7 +6189,7 @@ Emmanuel Adebayor
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -6255,7 +6255,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-4-1-1
+LIV Positions 4-4-1-1
 52
 Danny Ward
 Goalkeeper
@@ -6319,7 +6319,7 @@ Divock Origi
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -6385,7 +6385,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -6449,7 +6449,7 @@ Enner Valencia
 72'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -6515,7 +6515,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -6579,7 +6579,7 @@ Forward
 Wilfried Bony
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-3-3
+EVE Positions 4-3-3
 1
 Joel Robles
 Goalkeeper
@@ -6645,7 +6645,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-4-2
+SOT Positions 4-4-2
 44
 Fraser Forster
 Goalkeeper
@@ -6709,7 +6709,7 @@ Jay Rodriguez
 72'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -6775,7 +6775,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -6835,7 +6835,7 @@ Rudy Gestede
 82'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -6901,7 +6901,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -6965,7 +6965,7 @@ Modou Barrow
 57'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 1
 Ben Foster
 Goalkeeper
@@ -7031,7 +7031,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -7093,7 +7093,7 @@ Midfielder
 Steven Berghuis
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -7159,7 +7159,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -7223,7 +7223,7 @@ Duncan Watmore
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -7289,7 +7289,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -7353,7 +7353,7 @@ Forward
 Oumar Niasse
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-4-1-1
+LIV Positions 4-4-1-1
 22
 Simon Mignolet
 Goalkeeper
@@ -7419,7 +7419,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 29
 Jakob Haugaard
 Goalkeeper
@@ -7483,7 +7483,7 @@ Joselu
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -7549,7 +7549,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -7613,7 +7613,7 @@ Memphis Depay
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -7679,7 +7679,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -7743,7 +7743,7 @@ Demarai Gray
 81'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -7809,7 +7809,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -7871,7 +7871,7 @@ Midfielder
 Victor Anichebe
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-4-1-1
+AVL Positions 4-4-1-1
 1
 Brad Guzan
 Goalkeeper
@@ -7937,7 +7937,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -8001,7 +8001,7 @@ Callum Wilson
 90 +2'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-1-4-1
+CRY Positions 4-1-4-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -8067,7 +8067,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -8131,7 +8131,7 @@ Forward
 Cameron Jerome
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -8197,7 +8197,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -8261,7 +8261,7 @@ Papiss Demba Cissé
 70'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -8327,7 +8327,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -8391,7 +8391,7 @@ Falcao
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -8457,7 +8457,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -8521,7 +8521,7 @@ Forward
 Arouna Koné
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 3-4-2-1
+WHU Positions 3-4-2-1
 13
 Adrián
 Goalkeeper
@@ -8583,7 +8583,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 13
 David Ospina
 Goalkeeper
@@ -8647,7 +8647,7 @@ Olivier Giroud
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -8713,7 +8713,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-4-1-1
+EVE Positions 4-4-1-1
 1
 Joel Robles
 Goalkeeper
@@ -8775,7 +8775,7 @@ Forward
 Arouna Koné
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -8841,7 +8841,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 3-4-2-1
+SOT Positions 3-4-2-1
 44
 Fraser Forster
 Goalkeeper
@@ -8905,7 +8905,7 @@ Forward
 Jay Rodriguez
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -8971,7 +8971,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -9033,7 +9033,7 @@ Nacer Chadli
 66'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 13
 David Ospina
 Goalkeeper
@@ -9099,7 +9099,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -9163,7 +9163,7 @@ Midfielder
 Steven Berghuis
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -9229,7 +9229,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 13
 Willy Caballero
 Goalkeeper
@@ -9293,7 +9293,7 @@ Forward
 Wilfried Bony
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -9359,7 +9359,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 26
 Karl Darlow
 Goalkeeper
@@ -9421,7 +9421,7 @@ Ayoze Pérez
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 29
 Jakob Haugaard
 Goalkeeper
@@ -9485,7 +9485,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -9549,7 +9549,7 @@ Alberto Paloschi
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -9611,7 +9611,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -9675,7 +9675,7 @@ Victor Anichebe
 81'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -9741,7 +9741,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-1-4-1
+CRY Positions 4-1-4-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -9803,7 +9803,7 @@ Dwight Gayle
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -9869,7 +9869,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -9933,7 +9933,7 @@ Forward
 Falcao
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 50'
@@ -9999,7 +9999,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -10063,7 +10063,7 @@ Midfielder
 Memphis Depay
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -10129,7 +10129,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -10193,7 +10193,7 @@ Lewis Grabban
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -10259,7 +10259,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -10323,7 +10323,7 @@ Forward
 Jeremain Lens
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-4-2
+SOT Positions 4-4-2
 44
 Fraser Forster
 Goalkeeper
@@ -10389,7 +10389,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-4-2
+LIV Positions 4-4-2
 22
 Simon Mignolet
 Goalkeeper
@@ -10453,7 +10453,7 @@ Christian Benteke
 70'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -10519,7 +10519,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -10581,7 +10581,7 @@ Gabriel Agbonlahor
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -10647,7 +10647,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -10711,7 +10711,7 @@ Emmanuel Emenike
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -10777,7 +10777,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -10841,7 +10841,7 @@ Forward
 Demarai Gray
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -10907,7 +10907,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -10969,7 +10969,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -11035,7 +11035,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-2
+NOR Positions 4-4-2
 1
 John Ruddy
 Goalkeeper
@@ -11099,7 +11099,7 @@ Forward
 Cameron Jerome
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -11163,7 +11163,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 13
 David Ospina
 Goalkeeper
@@ -11227,7 +11227,7 @@ Olivier Giroud
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -11291,7 +11291,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -11355,7 +11355,7 @@ Seydou Doumbia
 87'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -11419,7 +11419,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -11483,7 +11483,7 @@ Tom Carroll
 78'
 Midfielder
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -11549,7 +11549,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -11613,7 +11613,7 @@ Marvin Emnes
 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -11679,7 +11679,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-4-2
+SOT Positions 4-4-2
 44
 Fraser Forster
 Goalkeeper
@@ -11743,7 +11743,7 @@ Midfielder
 Juanmi
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-2-3-1
+NOR Positions 4-2-3-1
 1
 John Ruddy
 Goalkeeper
@@ -11809,7 +11809,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -11873,7 +11873,7 @@ Kelechi Iheanacho
 77'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 1
 Ben Foster
 Goalkeeper
@@ -11939,7 +11939,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -12003,7 +12003,7 @@ Memphis Depay
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 12
 Alex McCarthy
 Goalkeeper
@@ -12069,7 +12069,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-4-1-1
+LIV Positions 4-4-1-1
 22
 Simon Mignolet
 Goalkeeper
@@ -12133,7 +12133,7 @@ Forward
 Daniel Sturridge
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -12199,7 +12199,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -12263,7 +12263,7 @@ Forward
 Leonardo Ulloa
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -12329,7 +12329,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -12393,7 +12393,7 @@ Forward
 Jonathan Walters
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 3-4-3
+EVE Positions 3-4-3
 1
 Joel Robles
 Goalkeeper
@@ -12459,7 +12459,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 3-4-2-1
+WHU Positions 3-4-2-1
 13
 Adrián
 Goalkeeper
@@ -12523,7 +12523,137 @@ Diafra Sakho
 61'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+MCFC Positions
+1
+Joe Hart
+Goalkeeper
+3
+Bacary Sagna 
+Defender
+4
+Vincent Kompany
+C 
+Defender
+30
+Nicolas Otamendi
+Defender
+22
+Gael Clichy 
+Defender
+15
+Jesus Navas 
+Midfielder
+42
+Yaya Toure
+80'
+Midfielder
+25
+Fernandinho 
+Midfielder
+21
+David Silva
+70'
+Midfielder
+14
+Wilfried Bony
+62'
+Forward
+10
+Sergio Aguero
+Forward
+Substitutes
+5
+Pablo Zabaleta 
+Defender
+7
+Raheem Sterling
+62'
+Midfielder
+11
+Aleksandar Kolarov 
+Defender
+13
+Willy Caballero 
+Goalkeeper
+20
+Eliaquim Mangala 
+Defender
+72
+Kelechi Iheanacho
+70'
+Forward
+76
+Manu García
+80'
+Midfielder
+..........
+NEXT TEAM 
+..........
+AVL Positions
+1
+Brad Guzan
+Goalkeeper
+4
+Micah Richards
+C 
+Defender
+16
+Joleon Lescott 
+Defender
+6
+Ciaran Clark 
+Defender
+21
+Alan Hutton 
+Defender
+15
+Ashley Westwood 
+Midfielder
+8
+Idrissa Gueye 
+Midfielder
+17
+Jordan Veretout
+74'
+Midfielder
+43
+Aly Cissokho
+Defender
+11
+Gabriel Agbonlahor
+70'
+Forward
+19
+Jordan Ayew
+80'
+Forward
+Substitutes
+5
+Jores Okore
+Defender 
+7
+Leandro Bacuna
+74'
+Midfielder
+9
+Scott Sinclair
+80'
+Midfielder
+25
+Carles Gil
+Midfielder 
+31
+Mark Bunn
+Goalkeeper 
+38
+Jordan Lyden 
+Midfielder
+39
+Rudy Gestede 
+70'
+Forward
+-----------------------END MATCH--------------------------------------
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -12589,7 +12719,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -12653,7 +12783,7 @@ Lewis Grabban
 69'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -12719,7 +12849,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -12783,7 +12913,7 @@ Jermain Defoe
 59'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -12849,7 +12979,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-2-3-1
+NOR Positions 4-2-3-1
 1
 John Ruddy
 Goalkeeper
@@ -12913,7 +13043,7 @@ Dieumerci Mbokani
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -12979,7 +13109,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 13
 David Ospina
 Goalkeeper
@@ -13043,7 +13173,7 @@ Olivier Giroud
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-4-1-1
+LIV Positions 4-4-1-1
 22
 Simon Mignolet
 Goalkeeper
@@ -13109,7 +13239,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -13173,7 +13303,7 @@ Kelechi Iheanacho
 55'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -13239,7 +13369,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -13303,7 +13433,7 @@ Nordin Amrabat
 75'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -13367,7 +13497,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -13431,7 +13561,7 @@ Forward
 Modou Barrow
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -13497,7 +13627,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -13561,7 +13691,7 @@ Ayoze Pérez
 84'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 13
 Adrián
 Goalkeeper
@@ -13627,7 +13757,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -13691,7 +13821,7 @@ Tom Carroll
 77'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 5-3-2
+AVL Positions 5-3-2
 1
 Brad Guzan
 Goalkeeper
@@ -13755,7 +13885,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -13819,7 +13949,7 @@ Forward
 Arouna Koné
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -13885,7 +14015,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 3-4-2-1
+SOT Positions 3-4-2-1
 44
 Fraser Forster
 Goalkeeper
@@ -13949,7 +14079,7 @@ Graziano Pellè
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -14015,7 +14145,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 1
 Ben Foster
 Goalkeeper
@@ -14079,7 +14209,7 @@ Victor Anichebe
 90 +2'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 5-4-1
+NOR Positions 5-4-1
 1
 John Ruddy
 Goalkeeper
@@ -14143,7 +14273,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -14207,7 +14337,7 @@ Forward
 Loïc Remy
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -14272,7 +14402,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -14336,7 +14466,7 @@ Emmanuel Adebayor
 84'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-1-4-1
+MUFC Positions 4-1-4-1
 1
 David de Gea
 Goalkeeper
@@ -14402,7 +14532,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -14466,7 +14596,7 @@ Olivier Giroud
 63'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -14532,7 +14662,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-2-1
+SWAN Positions 4-3-2-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -14596,7 +14726,7 @@ Modou Barrow
 88'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 1
 Ben Foster
 Goalkeeper
@@ -14662,7 +14792,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -14726,7 +14856,7 @@ Dwight Gayle
 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -14792,7 +14922,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 5-4-1
+NOR Positions 5-4-1
 1
 John Ruddy
 Goalkeeper
@@ -14856,7 +14986,7 @@ Dieumerci Mbokani
 90 +2'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 3-5-2
+SOT Positions 3-5-2
 44
 Fraser Forster
 Goalkeeper
@@ -14922,7 +15052,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -14986,7 +15116,7 @@ Forward
 Loïc Remy
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -15052,7 +15182,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-2-1
+AVL Positions 4-3-2-1
 31
 Mark Bunn
 Goalkeeper
@@ -15114,7 +15244,7 @@ Rudy Gestede
 77'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-3-3
+WAT Positions 4-3-3
 1
 Heurelho Gomes
 Goalkeeper
@@ -15178,7 +15308,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -15242,7 +15372,7 @@ Max Gradel
 23'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -15308,7 +15438,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -15368,7 +15498,7 @@ Forward
 Ola Toivonen
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -15432,7 +15562,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -15496,7 +15626,7 @@ Tom Carroll
 72'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-4-1-1
+AVL Positions 4-4-1-1
 31
 Mark Bunn
 Goalkeeper
@@ -15562,7 +15692,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-4-2
+LIV Positions 4-4-2
 22
 Simon Mignolet
 Goalkeeper
@@ -15626,7 +15756,7 @@ Christian Benteke
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -15692,7 +15822,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -15756,7 +15886,7 @@ Forward
 Leonardo Ulloa
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -15822,7 +15952,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -15886,7 +16016,7 @@ Seydou Doumbia
 70'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -15952,7 +16082,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -16016,7 +16146,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-1-4-1
+CRY Positions 4-1-4-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -16080,7 +16210,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-3-3
+WAT Positions 4-3-3
 1
 Heurelho Gomes
 Goalkeeper
@@ -16142,7 +16272,7 @@ Almen Abdi
 62'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -16208,7 +16338,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -16272,7 +16402,7 @@ Victor Anichebe
 72'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -16338,7 +16468,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -16402,7 +16532,7 @@ Emmanuel Emenike
 70'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -16468,7 +16598,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 3-5-2
+SOT Positions 3-5-2
 44
 Fraser Forster
 Goalkeeper
@@ -16532,7 +16662,7 @@ Charlie Austin
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -16598,7 +16728,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -16662,7 +16792,7 @@ Memphis Depay
 62'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -16728,7 +16858,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -16792,7 +16922,7 @@ Memphis Depay
 87'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -16858,7 +16988,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -16922,7 +17052,7 @@ Forward
 Joel Campbell
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 3-4-2-1
+SOT Positions 3-4-2-1
 44
 Fraser Forster
 Goalkeeper
@@ -16988,7 +17118,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 3-4-1-2
+WHU Positions 3-4-1-2
 13
 Adrián
 Goalkeeper
@@ -17052,7 +17182,7 @@ Emmanuel Emenike
 73'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-2-1
+AVL Positions 4-3-2-1
 31
 Mark Bunn
 Goalkeeper
@@ -17114,7 +17244,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -17178,7 +17308,7 @@ Forward
 Cameron Jerome
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -17244,7 +17374,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -17308,7 +17438,7 @@ Forward
 Ola Toivonen
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -17372,7 +17502,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 1
 Ben Foster
 Goalkeeper
@@ -17436,7 +17566,7 @@ Saido Berahino
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-3-3
+STK Positions 4-3-3
 1
 Jack Butland
 Goalkeeper
@@ -17502,7 +17632,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -17566,7 +17696,7 @@ Arouna Koné
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -17632,7 +17762,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -17696,7 +17826,7 @@ Marouane Chamakh
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -17762,7 +17892,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-2-3-1
+WAT Positions 4-2-3-1
 1
 Heurelho Gomes
 Goalkeeper
@@ -17826,7 +17956,7 @@ Troy Deeney
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -17892,7 +18022,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -17956,7 +18086,7 @@ Demarai Gray
 77'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 1
 Joel Robles
 Goalkeeper
@@ -18018,7 +18148,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-1-4-1
+NUFC Positions 4-1-4-1
 21
 Robert Elliot
 Goalkeeper
@@ -18082,7 +18212,7 @@ Aleksandar Mitrovic
 55'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-3-1-2
+WAT Positions 4-3-1-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -18148,7 +18278,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -18208,7 +18338,7 @@ Midfielder
 Kenedy
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -18274,7 +18404,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -18338,7 +18468,7 @@ Joshua King
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -18404,7 +18534,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -18466,7 +18596,7 @@ Forward
 Joselu
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-2-3-1
+WBA Positions 4-2-3-1
 1
 Ben Foster
 Goalkeeper
@@ -18532,7 +18662,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -18596,7 +18726,7 @@ Alberto Paloschi
 45 +2'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -18660,7 +18790,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -18724,7 +18854,7 @@ Graziano Pellè
 69'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -18790,7 +18920,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -18854,7 +18984,7 @@ Christian Benteke
 66'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -18918,7 +19048,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -18982,7 +19112,7 @@ Tom Carroll
 70'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 25
 Vito Mannone
 Goalkeeper
@@ -19048,7 +19178,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -19112,7 +19242,7 @@ Raheem Sterling
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -19178,7 +19308,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-1-2
+AVL Positions 4-3-1-2
 31
 Mark Bunn
 Goalkeeper
@@ -19240,7 +19370,7 @@ Midfielder
 Jordan Lyden
 Midfielder
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -19306,7 +19436,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -19368,7 +19498,7 @@ Loïc Remy
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-3-3
+EVE Positions 4-3-3
 24
 Tim Howard
 Goalkeeper
@@ -19434,7 +19564,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -19498,7 +19628,7 @@ Eder
 89'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -19564,7 +19694,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -19628,7 +19758,7 @@ Kelechi Iheanacho
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-4-1-1
+CRY Positions 4-4-1-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -19692,7 +19822,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -19756,7 +19886,7 @@ Nabil Bentaleb
 88'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -19820,7 +19950,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -19884,7 +20014,7 @@ Peter Crouch
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 3-4-1-2
+MUFC Positions 3-4-1-2
 1
 David de Gea
 Goalkeeper
@@ -19950,7 +20080,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 3-4-2-1
+SOT Positions 3-4-2-1
 44
 Fraser Forster
 Goalkeeper
@@ -20014,7 +20144,7 @@ Charlie Austin
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 25
 Vito Mannone
 Goalkeeper
@@ -20078,7 +20208,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -20142,7 +20272,7 @@ Lewis Grabban
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-3-1-2
+WAT Positions 4-3-1-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -20208,7 +20338,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 3-4-2-1
+NUFC Positions 3-4-2-1
 21
 Robert Elliot
 Goalkeeper
@@ -20272,7 +20402,7 @@ Ayoze Pérez
 59'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 1
 Ben Foster
 Goalkeeper
@@ -20338,7 +20468,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 31
 Mark Bunn
 Goalkeeper
@@ -20399,7 +20529,7 @@ Rudy Gestede
 64' 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -20465,7 +20595,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -20529,7 +20659,7 @@ Christian Benteke
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -20595,7 +20725,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -20657,7 +20787,7 @@ Obbi Oularé
 87'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -20723,7 +20853,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -20785,7 +20915,7 @@ Midfielder
 Mikel Arteta
 Midfielder
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -20851,7 +20981,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -20915,7 +21045,7 @@ Memphis Depay
 72'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 31
 Mark Bunn
 Goalkeeper
@@ -20979,7 +21109,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -21043,7 +21173,7 @@ Demarai Gray
 85'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -21109,7 +21239,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -21173,7 +21303,7 @@ Cameron Jerome
 56'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -21239,7 +21369,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -21303,7 +21433,7 @@ Forward
 Arouna Koné
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -21369,7 +21499,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-5-1
+CRY Positions 4-5-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -21433,7 +21563,7 @@ Marouane Chamakh
 66'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -21499,7 +21629,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -21563,7 +21693,7 @@ Nikica Jelavic
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 3-4-2-1
+SOT Positions 3-4-2-1
 44
 Fraser Forster
 Goalkeeper
@@ -21629,7 +21759,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 13
 Boaz Myhill
 Goalkeeper
@@ -21693,7 +21823,7 @@ Saido Berahino
 63'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -21759,7 +21889,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 13
 Jordan Pickford
 Goalkeeper
@@ -21823,7 +21953,7 @@ Forward
 Fabio Borini
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -21889,7 +22019,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -21953,7 +22083,7 @@ Alex Oxlade-Chamberlain
 75'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -22019,7 +22149,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -22083,7 +22213,7 @@ Forward
 Demarai Gray
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -22147,7 +22277,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 13
 Boaz Myhill
 Goalkeeper
@@ -22211,7 +22341,7 @@ Saido Berahino
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -22273,7 +22403,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -22335,7 +22465,7 @@ Arouna Koné
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 44
 Fraser Forster
 Goalkeeper
@@ -22401,7 +22531,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -22465,7 +22595,7 @@ Víctor Ibarbo
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -22531,7 +22661,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -22595,7 +22725,7 @@ Cameron Jerome
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -22661,7 +22791,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 25
 Vito Mannone
 Goalkeeper
@@ -22725,7 +22855,7 @@ Forward
 Steven Fletcher
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 31
 Mark Bunn
 Goalkeeper
@@ -22787,7 +22917,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -22851,7 +22981,7 @@ Marouane Chamakh
 62'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -22917,7 +23047,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 13
 Adrián
 Goalkeeper
@@ -22981,7 +23111,7 @@ Nikica Jelavic
 15'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -23047,7 +23177,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -23109,7 +23239,7 @@ Memphis Depay
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-3-3
+EVE Positions 4-3-3
 24
 Tim Howard
 Goalkeeper
@@ -23173,7 +23303,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -23237,7 +23367,7 @@ Midfielder
 Nabil Bentaleb
 Midfielder
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -23303,7 +23433,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -23365,7 +23495,7 @@ Pedro
 16'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -23427,7 +23557,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -23491,7 +23621,7 @@ Wilfried Bony
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -23557,7 +23687,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -23619,7 +23749,7 @@ Midfielder
 Ivan Toney
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -23685,7 +23815,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -23747,7 +23877,7 @@ Forward
 Tokelo Rantie
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -23813,7 +23943,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -23877,7 +24007,7 @@ Modou Barrow
 62'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -23943,7 +24073,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -24007,7 +24137,7 @@ Midfielder
 Ryan Seager
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 25
 Vito Mannone
 Goalkeeper
@@ -24073,7 +24203,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -24136,7 +24266,7 @@ Adama Traoré
 57' 89'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 13
 Boaz Myhill
 Goalkeeper
@@ -24200,7 +24330,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -24264,7 +24394,7 @@ Jonathan Walters
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-4-2
+WHU Positions 4-4-2
 13
 Adrián
 Goalkeeper
@@ -24330,7 +24460,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -24394,7 +24524,7 @@ Midfielder
 Cameron Brannagan
 Midfielder
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-5-1
+SUN Positions 4-5-1
 25
 Vito Mannone
 Goalkeeper
@@ -24460,7 +24590,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -24524,7 +24654,7 @@ Lucas Leiva
 61'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-5-1
+LEI Positions 4-5-1
 1
 Kasper Schmeichel
 Goalkeeper
@@ -24590,7 +24720,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -24654,7 +24784,7 @@ Kelechi Iheanacho
 89'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -24720,7 +24850,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -24784,7 +24914,7 @@ Forward
 Tokelo Rantie
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -24850,7 +24980,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -24912,7 +25042,7 @@ Midfielder
 Kenedy
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -24978,7 +25108,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -25042,7 +25172,7 @@ Juanmi
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -25108,7 +25238,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-1-2
+SWAN Positions 4-3-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -25172,7 +25302,7 @@ Ki Sung-yueng
 56'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-3-3
+EVE Positions 4-3-3
 24
 Tim Howard
 Goalkeeper
@@ -25235,7 +25365,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -25299,7 +25429,7 @@ Jonathan Walters
 78'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -25365,7 +25495,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -25429,7 +25559,7 @@ Rudy Gestede
 69'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -25495,7 +25625,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 3-4-2-1
+TOT Positions 3-4-2-1
 1
 Hugo Lloris
 Goalkeeper
@@ -25559,7 +25689,7 @@ Nacer Chadli
 81'
 Midfielder
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 13
 Boaz Myhill
 Goalkeeper
@@ -25625,7 +25755,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 26
 Karl Darlow
 Goalkeeper
@@ -25689,7 +25819,7 @@ Midfielder
 Yoan Gouffran
 Midfielder
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -25755,7 +25885,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -25819,7 +25949,7 @@ Midfielder
 Jeff Reine-Adelaide
 Midfielder
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -25881,7 +26011,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-3-3
+EVE Positions 4-3-3
 24
 Tim Howard
 Goalkeeper
@@ -25945,7 +26075,7 @@ Forward
 Arouna Koné
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-1-2
+AVL Positions 4-3-1-2
 1
 Brad Guzan
 Goalkeeper
@@ -26009,7 +26139,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-3-1-2
+WHU Positions 4-3-1-2
 13
 Adrián
 Goalkeeper
@@ -26073,7 +26203,7 @@ Midfielder
 Josh Cullen
 Midfielder
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -26139,7 +26269,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -26203,7 +26333,7 @@ Marouane Chamakh
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -26267,7 +26397,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -26331,7 +26461,7 @@ Forward
 Steven Berghuis
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -26397,7 +26527,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -26461,7 +26591,7 @@ Andrej Kramaric
 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -26526,7 +26656,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-3-3
+SUN Positions 4-3-3
 25
 Vito Mannone
 Goalkeeper
@@ -26590,7 +26720,7 @@ Forward
 Jermain Defoe
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -26656,7 +26786,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 13
 Boaz Myhill
 Goalkeeper
@@ -26720,7 +26850,7 @@ Saido Berahino
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -26786,7 +26916,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -26850,7 +26980,7 @@ Dieumerci Mbokani
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-3-3
+STK Positions 4-3-3
 1
 Jack Butland
 Goalkeeper
@@ -26916,7 +27046,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -26978,7 +27108,7 @@ Wayne Rooney
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -27044,7 +27174,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-4-1-1
+MCFC Positions 4-4-1-1
 1
 Joe Hart
 Goalkeeper
@@ -27108,7 +27238,7 @@ Forward
 Kelechi Iheanacho
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-1-2-1-2
+SWAN Positions 4-1-2-1-2
 1
 Lukasz Fabianski
 Goalkeeper
@@ -27174,7 +27304,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -27238,7 +27368,7 @@ Enner Valencia
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -27304,7 +27434,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 34
 Adam Bogdan
 Goalkeeper
@@ -27368,7 +27498,7 @@ Christian Benteke
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 21
 Robert Elliot
 Goalkeeper
@@ -27434,7 +27564,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-1-2
+AVL Positions 4-3-1-2
 1
 Brad Guzan
 Goalkeeper
@@ -27494,7 +27624,7 @@ Rudy Gestede
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -27560,7 +27690,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 5-3-2
+SUN Positions 5-3-2
 1
 Costel Pantilimon
 Goalkeeper
@@ -27624,7 +27754,7 @@ Fabio Borini
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-3-3
+EVE Positions 4-3-3
 24
 Tim Howard
 Goalkeeper
@@ -27688,7 +27818,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -27752,7 +27882,7 @@ Forward
 Andrej Kramaric
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -27814,7 +27944,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 13
 Declan Rudd
 Goalkeeper
@@ -27878,7 +28008,7 @@ Dieumerci Mbokani
 82'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 25
 Paulo Gazzaniga
 Goalkeeper
@@ -27944,7 +28074,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -28008,7 +28138,7 @@ Tom Carroll
 79'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-3-3
+STK Positions 4-3-3
 1
 Jack Butland
 Goalkeeper
@@ -28072,7 +28202,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -28136,7 +28266,7 @@ Marouane Chamakh
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 13
 Boaz Myhill
 Goalkeeper
@@ -28202,7 +28332,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -28266,7 +28396,7 @@ Tokelo Rantie
 82'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -28332,7 +28462,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -28396,7 +28526,7 @@ Loïc Remy
 65'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -28462,7 +28592,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 13
 Boaz Myhill
 Goalkeeper
@@ -28522,7 +28652,7 @@ Forward
 Saido Berahino
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -28586,7 +28716,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-4-1-1
+NUFC Positions 4-4-1-1
 21
 Robert Elliot
 Goalkeeper
@@ -28650,7 +28780,7 @@ Ayoze Pérez
 63'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -28716,7 +28846,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -28780,7 +28910,7 @@ Alex Oxlade-Chamberlain
 64'
 Midfielder
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -28844,7 +28974,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -28908,7 +29038,7 @@ Midfielder
 Morgan Schneiderlin
 Midfielder
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -28972,7 +29102,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 3-4-2-1
+SOT Positions 3-4-2-1
 25
 Paulo Gazzaniga
 Goalkeeper
@@ -29036,7 +29166,7 @@ Graziano Pellè
 67'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -29102,7 +29232,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-3
+SWAN Positions 4-3-3
 1
 Lukasz Fabianski
 Goalkeeper
@@ -29166,7 +29296,7 @@ Modou Barrow
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 5-4-1
+SUN Positions 5-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -29232,7 +29362,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -29294,7 +29424,7 @@ Forward
 Steven Berghuis
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -29358,7 +29488,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-3-3
+STK Positions 4-3-3
 1
 Jack Butland
 Goalkeeper
@@ -29422,7 +29552,7 @@ Forward
 Joselu
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-2-3-1
+NOR Positions 4-2-3-1
 13
 Declan Rudd
 Goalkeeper
@@ -29486,7 +29616,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -29548,7 +29678,7 @@ Midfielder
 Steven Naismith
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -29610,7 +29740,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-1-4-1
+CRY Positions 4-1-4-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -29672,7 +29802,7 @@ Forward
 Patrick Bamford
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-4-1-1
+NUFC Positions 4-4-1-1
 21
 Robert Elliot
 Goalkeeper
@@ -29738,7 +29868,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -29802,7 +29932,7 @@ Daniel Sturridge
 62'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -29868,7 +29998,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 1
 Artur Boruc
 Goalkeeper
@@ -29928,7 +30058,7 @@ Forward
 Tokelo Rantie
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -29994,7 +30124,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 5-4-1
+SUN Positions 5-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -30058,7 +30188,7 @@ Forward
 Danny Graham
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -30124,7 +30254,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -30188,7 +30318,7 @@ Midfielder
 Nikica Jelavic
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -30254,7 +30384,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -30318,7 +30448,7 @@ Gabriel Agbonlahor
 90 +5'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -30384,7 +30514,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -30446,7 +30576,7 @@ Midfielder
 Shinji Okazaki
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -30512,7 +30642,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-1-4-1
+NOR Positions 4-1-4-1
 13
 Declan Rudd
 Goalkeeper
@@ -30576,7 +30706,7 @@ Dieumerci Mbokani
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 13
 Boaz Myhill
 Goalkeeper
@@ -30638,7 +30768,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -30700,7 +30830,7 @@ Clinton N'Jie
 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-5-1
+STK Positions 4-5-1
 1
 Jack Butland
 Goalkeeper
@@ -30766,7 +30896,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -30831,7 +30961,7 @@ Kelechi Iheanacho
 57'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -30897,7 +31027,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-1-4-1
+SWAN Positions 4-1-4-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -30961,7 +31091,7 @@ Bafétimbi Gomis
 69'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -31027,7 +31157,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -31091,7 +31221,7 @@ Joel Campbell
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -31157,7 +31287,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 13
 Boaz Myhill
 Goalkeeper
@@ -31217,7 +31347,7 @@ Forward
 Saido Berahino
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-3-2-1
+TOT Positions 4-3-2-1
 1
 Hugo Lloris
 Goalkeeper
@@ -31281,7 +31411,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -31343,7 +31473,7 @@ Kenedy
 89'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -31409,7 +31539,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 3-4-1-2
+MUFC Positions 3-4-1-2
 1
 David de Gea
 Goalkeeper
@@ -31469,7 +31599,7 @@ Forward
 Marcus Rashford
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -31533,7 +31663,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 67'
@@ -31597,7 +31727,7 @@ Forward
 Steven Berghuis
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 23
 Adam Federici
 45'
@@ -31663,7 +31793,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -31727,7 +31857,7 @@ Forward
 Steven Naismith
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-1-4-1
+CRY Positions 4-1-4-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -31793,7 +31923,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -31857,7 +31987,7 @@ Midfielder
 Aleksandar Mitrovic
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 13
 Willy Caballero
 Goalkeeper
@@ -31923,7 +32053,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-1-4-1
+SOT Positions 4-1-4-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -31987,7 +32117,7 @@ Juanmi
 77'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 5-3-2
+SUN Positions 5-3-2
 1
 Costel Pantilimon
 Goalkeeper
@@ -32053,7 +32183,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -32117,7 +32247,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -32182,7 +32312,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 5-3-2
+SUN Positions 5-3-2
 1
 Costel Pantilimon
 Goalkeeper
@@ -32246,7 +32376,7 @@ Forward
 Ola Toivonen
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -32312,7 +32442,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -32376,7 +32506,7 @@ Nikica Jelavic
 63'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -32442,7 +32572,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -32506,7 +32636,7 @@ Christian Benteke
 77'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -32572,7 +32702,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -32636,7 +32766,7 @@ Cameron Jerome
 73'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -32702,7 +32832,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-5-1
+AVL Positions 4-5-1
 1
 Brad Guzan
 Goalkeeper
@@ -32766,7 +32896,7 @@ Rudy Gestede
 57'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -32832,7 +32962,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -32896,7 +33026,7 @@ Shinji Okazaki
 73'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -32962,7 +33092,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -33026,7 +33156,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -33092,7 +33222,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 23
 Adam Federici
 Goalkeeper
@@ -33156,7 +33286,7 @@ Forward
 Yann Kermorgant
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-1-1
+WBA Positions 4-4-1-1
 13
 Boaz Myhill
 Goalkeeper
@@ -33222,7 +33352,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -33285,7 +33415,7 @@ Joel Campbell
 63'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -33349,7 +33479,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-2-2
+MUFC Positions 4-2-2-2
 1
 David de Gea
 Goalkeeper
@@ -33413,7 +33543,7 @@ Midfielder
 Marcus Rashford
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -33479,7 +33609,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -33543,7 +33673,7 @@ Midfielder
 Tom Carroll
 Midfielder
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -33609,7 +33739,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-4-2
+CRY Positions 4-4-2
 13
 Wayne Hennessey
 Goalkeeper
@@ -33673,7 +33803,7 @@ Forward
 Patrick Bamford
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -33739,7 +33869,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -33803,7 +33933,7 @@ Kelechi Iheanacho
 84'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -33869,7 +33999,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -33933,7 +34063,7 @@ Loïc Remy
 77'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -33999,7 +34129,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -34061,7 +34191,7 @@ Alessandro Diamanti
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -34127,7 +34257,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-5-1
+WBA Positions 4-5-1
 13
 Boaz Myhill
 Goalkeeper
@@ -34191,7 +34321,7 @@ Rickie Lambert
 72'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -34255,7 +34385,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -34319,7 +34449,7 @@ Eder
 87'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -34385,7 +34515,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-1-4-1
+SOT Positions 4-1-4-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -34449,7 +34579,7 @@ Juanmi
 83'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -34514,7 +34644,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -34576,7 +34706,7 @@ Midfielder
 Steven Naismith
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-1-4-1
+BOU Positions 4-1-4-1
 23
 Adam Federici
 Goalkeeper
@@ -34642,7 +34772,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -34706,7 +34836,7 @@ Papiss Demba Cissé
 63'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -34772,7 +34902,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -34836,7 +34966,7 @@ Rudy Gestede
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -34902,7 +35032,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 23
 Adam Federici
 Goalkeeper
@@ -34966,7 +35096,7 @@ Lee Tomlin
 73'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -35032,7 +35162,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 3-4-1-2
+SUN Positions 3-4-1-2
 1
 Costel Pantilimon
 Goalkeeper
@@ -35096,7 +35226,7 @@ Forward
 Danny Graham
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-1-4-1
+CRY Positions 4-1-4-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -35158,7 +35288,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -35222,7 +35352,7 @@ Midfielder
 Michael Carrick
 Midfielder
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -35288,7 +35418,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 5-4-1
+NOR Positions 5-4-1
 1
 John Ruddy
 Goalkeeper
@@ -35352,7 +35482,7 @@ Lewis Grabban
 87'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -35416,7 +35546,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -35480,7 +35610,7 @@ Peter Crouch
 90'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -35546,7 +35676,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -35610,7 +35740,7 @@ Midfielder
 Mathieu Flamini
 Midfielder
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -35676,7 +35806,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -35740,7 +35870,7 @@ Nikica Jelavic
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 13
 Boaz Myhill
 Goalkeeper
@@ -35806,7 +35936,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -35870,7 +36000,7 @@ Shinji Okazaki
 88'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -35936,7 +36066,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-2-1
+LIV Positions 4-3-2-1
 22
 Simon Mignolet
 Goalkeeper
@@ -36000,7 +36130,7 @@ Christian Benteke
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-3-2-1
+LIV Positions 4-3-2-1
 22
 Simon Mignolet
 Goalkeeper
@@ -36066,7 +36196,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -36130,7 +36260,7 @@ Juanmi
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -36196,7 +36326,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -36260,7 +36390,7 @@ Clinton N'Jie
 85'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -36326,7 +36456,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -36390,7 +36520,7 @@ Kelechi Iheanacho
 83'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -36456,7 +36586,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -36520,7 +36650,7 @@ Midfielder
 Papiss Demba Cissé
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -36584,7 +36714,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -36648,7 +36778,7 @@ Forward
 Steven Naismith
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -36712,7 +36842,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -36776,7 +36906,7 @@ Eder
 90'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-1-1
+LEI Positions 4-4-1-1
 1
 Kasper Schmeichel
 Goalkeeper
@@ -36840,7 +36970,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -36904,7 +37034,7 @@ Patrick Bamford
 57'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-1-4-1
+NOR Positions 4-1-4-1
 1
 John Ruddy
 Goalkeeper
@@ -36966,7 +37096,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 13
 Boaz Myhill
 Goalkeeper
@@ -37028,7 +37158,7 @@ Rickie Lambert
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -37094,7 +37224,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -37158,7 +37288,7 @@ Forward
 Víctor Ibarbo
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 13
 Adrián
 Goalkeeper
@@ -37224,7 +37354,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -37288,7 +37418,7 @@ Falcao
 82'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -37354,7 +37484,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -37418,7 +37548,7 @@ Midfielder
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 21
 Robert Elliot
 Goalkeeper
@@ -37484,7 +37614,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-1-4-1
+NOR Positions 4-1-4-1
 1
 John Ruddy
 Goalkeeper
@@ -37548,7 +37678,7 @@ Cameron Jerome
 84'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -37614,7 +37744,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -37678,7 +37808,7 @@ Olivier Giroud
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -37744,7 +37874,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -37806,7 +37936,7 @@ Adama Traoré
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -37872,7 +38002,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -37936,7 +38066,7 @@ Nikica Jelavic
 85'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -38000,7 +38130,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -38064,7 +38194,7 @@ Midfielder
 Memphis Depay
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -38130,7 +38260,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 23
 Adam Federici
 Goalkeeper
@@ -38194,7 +38324,7 @@ Joshua King
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-1-4-1
+SOT Positions 4-1-4-1
 1
 Kelvin Davis
 Goalkeeper
@@ -38260,7 +38390,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -38322,7 +38452,7 @@ Riyad Mahrez
 45'
 Midfielder
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 13
 Boaz Myhill
 Goalkeeper
@@ -38386,7 +38516,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -38450,7 +38580,7 @@ Jermain Defoe
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -38514,7 +38644,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -38576,7 +38706,7 @@ Midfielder
 Jerome Sinclair
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -38642,7 +38772,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -38706,7 +38836,7 @@ James Wilson
 82'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -38770,7 +38900,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -38834,7 +38964,7 @@ Clinton N'Jie
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -38898,7 +39028,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 3-5-2
+LIV Positions 3-5-2
 22
 Simon Mignolet
 Goalkeeper
@@ -38960,7 +39090,7 @@ Midfielder
 Divock Origi
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -39025,7 +39155,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -39089,7 +39219,7 @@ Jay Rodriguez
 78'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 3-5-2
+AVL Positions 3-5-2
 1
 Brad Guzan
 Goalkeeper
@@ -39155,7 +39285,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -39219,7 +39349,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -39283,7 +39413,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -39347,7 +39477,7 @@ Víctor Ibarbo
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -39413,7 +39543,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 1
 Tim Krul
 Goalkeeper
@@ -39477,7 +39607,7 @@ Midfielder
 Papiss Demba Cissé
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -39543,7 +39673,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -39607,7 +39737,7 @@ Forward
 Riyad Mahrez
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -39673,7 +39803,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 13
 Adrián
 Goalkeeper
@@ -39737,7 +39867,7 @@ Nikica Jelavic
 58'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-3-3
+CRY Positions 4-3-3
 13
 Wayne Hennessey
 Goalkeeper
@@ -39801,7 +39931,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-3-3
+WBA Positions 4-3-3
 13
 Boaz Myhill
 Goalkeeper
@@ -39865,7 +39995,7 @@ Forward
 Victor Anichebe
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-3-3
+WBA Positions 4-3-3
 13
 Boaz Myhill
 Goalkeeper
@@ -39931,7 +40061,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -39995,7 +40125,7 @@ Arouna Koné
 72'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -40061,7 +40191,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 13
 Wayne Hennessey
 Goalkeeper
@@ -40125,7 +40255,7 @@ Fraizer Campbell
 85'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-4-2
+NUFC Positions 4-4-2
 1
 Tim Krul
 Goalkeeper
@@ -40191,7 +40321,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -40255,7 +40385,7 @@ Falcao
 61'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -40321,7 +40451,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -40385,7 +40515,7 @@ Olivier Giroud
 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 3-4-1-2
+LIV Positions 3-4-1-2
 22
 Simon Mignolet
 Goalkeeper
@@ -40447,7 +40577,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-5-1
+AVL Positions 4-5-1
 1
 Brad Guzan
 Goalkeeper
@@ -40509,7 +40639,7 @@ Forward
 Jordan Ayew
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -40575,7 +40705,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -40637,7 +40767,7 @@ Forward
 Jermain Defoe
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -40703,7 +40833,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-3-2-1
+SWAN Positions 4-3-2-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -40767,7 +40897,7 @@ Eder
 45'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -40833,7 +40963,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -40897,7 +41027,7 @@ Joshua King
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 13
 Adrián
 Goalkeeper
@@ -40963,7 +41093,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-2-3-1
+NOR Positions 4-2-3-1
 1
 John Ruddy
 Goalkeeper
@@ -41027,7 +41157,7 @@ Dieumerci Mbokani
 64'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -41093,7 +41223,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 13
 Willy Caballero
 Goalkeeper
@@ -41157,7 +41287,7 @@ Samir Nasri
 69'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 3-4-1-2
+LIV Positions 3-4-1-2
 22
 Simon Mignolet
 Goalkeeper
@@ -41223,7 +41353,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-1-4-1
+NOR Positions 4-1-4-1
 1
 John Ruddy
 Goalkeeper
@@ -41285,7 +41415,7 @@ Lewis Grabban
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -41351,7 +41481,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -41415,7 +41545,7 @@ Midfielder
 Ashley Young
 Midfielder
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -41481,7 +41611,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 12
 Alex McCarthy
 Goalkeeper
@@ -41545,7 +41675,7 @@ Patrick Bamford
 84'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -41611,7 +41741,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-1-4-1
+WHU Positions 4-1-4-1
 13
 Adrián
 Goalkeeper
@@ -41675,7 +41805,7 @@ Forward
 Andy Carroll
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-4-1-1
+AVL Positions 4-4-1-1
 1
 Brad Guzan
 Goalkeeper
@@ -41741,7 +41871,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-3-3
+WBA Positions 4-3-3
 13
 Boaz Myhill
 Goalkeeper
@@ -41805,7 +41935,7 @@ Rickie Lambert
 90 +1'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -41871,7 +42001,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -41935,7 +42065,7 @@ Steven Fletcher
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-1-4-1
+NUFC Positions 4-1-4-1
 1
 Tim Krul
 Goalkeeper
@@ -42001,7 +42131,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -42065,7 +42195,7 @@ Steven Berghuis
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -42131,7 +42261,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -42195,7 +42325,7 @@ Forward
 Andrej Kramaric
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -42261,7 +42391,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -42323,7 +42453,7 @@ Gerard Deulofeu
 65'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -42389,7 +42519,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -42453,7 +42583,7 @@ Olivier Giroud
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-2-3-1
+WHU Positions 4-2-3-1
 1
 Darren Randolph
 Goalkeeper
@@ -42519,7 +42649,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 1
 Tim Krul
 Goalkeeper
@@ -42583,7 +42713,7 @@ Ayoze Pérez
 60'
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -42649,7 +42779,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-2-3-1
+AVL Positions 4-2-3-1
 1
 Brad Guzan
 Goalkeeper
@@ -42713,7 +42843,7 @@ Rudy Gestede
 75'
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-2-3-1
+SUN Positions 4-2-3-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -42779,7 +42909,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -42843,7 +42973,7 @@ Tom Carroll
 85'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 1
 David de Gea
 Goalkeeper
@@ -42909,7 +43039,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -42973,7 +43103,7 @@ Divock Origi
 74'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -43039,7 +43169,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -43101,7 +43231,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 12
 Alex McCarthy
 Goalkeeper
@@ -43167,7 +43297,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-4-2
+MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
@@ -43231,7 +43361,7 @@ Kelechi Iheanacho
 89'
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -43297,7 +43427,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -43361,7 +43491,7 @@ Yann Kermorgant
 57'
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-4-2
+WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
@@ -43427,7 +43557,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -43491,7 +43621,7 @@ Eder
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 13
 Boaz Myhill
 Goalkeeper
@@ -43557,7 +43687,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-1-4-1
+SOT Positions 4-1-4-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -43619,7 +43749,7 @@ Forward
 Juanmi
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-3-1-2
+EVE Positions 4-3-1-2
 24
 Tim Howard
 Goalkeeper
@@ -43685,7 +43815,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -43749,7 +43879,7 @@ Falcao
 70'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -43815,7 +43945,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 20
 Sergio Romero
 Goalkeeper
@@ -43879,7 +44009,7 @@ Midfielder
 Chicharito
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -43945,7 +44075,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -44009,7 +44139,7 @@ Gary Hooper
 89'
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -44073,7 +44203,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -44137,7 +44267,7 @@ Steven Naismith
 69'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -44199,7 +44329,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-3-3
+SUN Positions 4-3-3
 1
 Costel Pantilimon
 Goalkeeper
@@ -44263,7 +44393,7 @@ Forward
 Duncan Watmore
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-1-1
+BOU Positions 4-4-1-1
 1
 Artur Boruc
 Goalkeeper
@@ -44328,7 +44458,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-1-4-1
+LEI Positions 4-1-4-1
 1
 Kasper Schmeichel
 Goalkeeper
@@ -44392,7 +44522,7 @@ Joseph Dodoo
 71'
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -44458,7 +44588,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 12
 Alex McCarthy
 Goalkeeper
@@ -44522,7 +44652,7 @@ Midfielder
 Dwight Gayle
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -44588,7 +44718,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 1
 Darren Randolph
 Goalkeeper
@@ -44652,7 +44782,7 @@ Midfielder
 Elliot Lee
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -44712,7 +44842,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-2-4-0
+WAT Positions 4-2-4-0
 1
 Heurelho Gomes
 Goalkeeper
@@ -44770,7 +44900,7 @@ Forward
 Matej Vydra
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -44836,7 +44966,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-5-1
+WBA Positions 4-5-1
 13
 Boaz Myhill
 Goalkeeper
@@ -44900,7 +45030,7 @@ Rickie Lambert
 35'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 1
 Tim Krul
 Goalkeeper
@@ -44966,7 +45096,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -45028,7 +45158,7 @@ Olivier Giroud
 70'
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -45092,7 +45222,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-3-3
+LIV Positions 4-3-3
 22
 Simon Mignolet
 Goalkeeper
@@ -45156,7 +45286,7 @@ Forward
 Divock Origi
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -45222,7 +45352,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -45286,7 +45416,7 @@ Forward
 Kelechi Iheanacho
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-2-3-1
+WAT Positions 4-2-3-1
 1
 Heurelho Gomes
 Goalkeeper
@@ -45350,7 +45480,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 3-4-1-2
+SOT Positions 3-4-1-2
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -45414,7 +45544,7 @@ Jay Rodriguez
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-1-4-1
+WBA Positions 4-1-4-1
 13
 Boaz Myhill
 Goalkeeper
@@ -45480,7 +45610,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -45544,7 +45674,7 @@ Falcao
 78'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-2-3-1
+CRY Positions 4-2-3-1
 12
 Alex McCarthy
 Goalkeeper
@@ -45610,7 +45740,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-1-2
+AVL Positions 4-3-1-2
 1
 Brad Guzan
 Goalkeeper
@@ -45670,7 +45800,7 @@ Forward
 Jordan Ayew
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -45736,7 +45866,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -45800,7 +45930,7 @@ Tom Carroll
 77'
 Midfielder
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-4-1-1
+NOR Positions 4-4-1-1
 1
 John Ruddy
 Goalkeeper
@@ -45864,7 +45994,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -45928,7 +46058,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -45994,7 +46124,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -46054,7 +46184,7 @@ Eder
 76'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 1
 Darren Randolph
 Goalkeeper
@@ -46120,7 +46250,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -46184,7 +46314,7 @@ Midfielder
 Yann Kermorgant
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 20
 Sergio Romero
 Goalkeeper
@@ -46250,7 +46380,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 1
 Tim Krul
 Goalkeeper
@@ -46314,7 +46444,7 @@ Papiss Demba Cissé
 88'
 Forward
 -----------------------END MATCH--------------------------------------
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -46380,7 +46510,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -46444,7 +46574,7 @@ Lee Tomlin
 61'
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -46510,7 +46640,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 1
 Asmir Begovic
 Goalkeeper
@@ -46574,7 +46704,7 @@ Falcao
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-Crystal Palace Positions 4-5-1
+CRY Positions 4-5-1
 12
 Alex McCarthy
 Goalkeeper
@@ -46640,7 +46770,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -46704,7 +46834,7 @@ Midfielder
 Theo Walcott
 Forward
 -----------------------END MATCH--------------------------------------
-Sunderland Positions 4-4-2
+SUN Positions 4-4-2
 1
 Costel Pantilimon
 Goalkeeper
@@ -46768,7 +46898,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Norwich City Positions 4-2-3-1
+NOR Positions 4-2-3-1
 1
 John Ruddy
 Goalkeeper
@@ -46832,7 +46962,7 @@ Lewis Grabban
 68'
 Forward
 -----------------------END MATCH--------------------------------------
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -46898,7 +47028,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 1
 Tim Krul
 Goalkeeper
@@ -46962,7 +47092,7 @@ Forward
 Ayoze Pérez
 Forward
 -----------------------END MATCH--------------------------------------
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
@@ -47026,7 +47156,7 @@ Midfielder
 ..........
 NEXT TEAM 
 ..........
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -47090,7 +47220,7 @@ Forward
 Peter Crouch
 Forward
 -----------------------END MATCH--------------------------------------
-Watford Positions 4-2-3-1
+WAT Positions 4-2-3-1
 1
 Heurelho Gomes
 Goalkeeper
@@ -47154,7 +47284,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 13
 Boaz Myhill
 Goalkeeper
@@ -47218,7 +47348,7 @@ Salomón Rondón
 62'
 Forward
 -----------------------END MATCH--------------------------------------
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -47284,7 +47414,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -47348,7 +47478,7 @@ Forward
 Leonardo Ulloa
 Forward
 -----------------------END MATCH--------------------------------------
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -47414,7 +47544,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -47478,7 +47608,7 @@ Steven Naismith
 80'
 Forward
 -----------------------END MATCH--------------------------------------
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -47542,7 +47672,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 20
 Sergio Romero
 Goalkeeper
@@ -47606,7 +47736,7 @@ Midfielder
 Chicharito
 Forward
 -----------------------END MATCH--------------------------------------
-West Bromwich Albion Positions 4-4-2
+WBA Positions 4-4-2
 13
 Boaz Myhill
 Goalkeeper
@@ -47672,7 +47802,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Manchester City Positions 4-2-3-1
+MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
@@ -47736,7 +47866,7 @@ Forward
 Kelechi Iheanacho
 Forward
 -----------------------END MATCH--------------------------------------
-Stoke City Positions 4-2-3-1
+STK Positions 4-2-3-1
 1
 Jack Butland
 Goalkeeper
@@ -47802,7 +47932,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Liverpool Positions 4-2-3-1
+LIV Positions 4-2-3-1
 22
 Simon Mignolet
 Goalkeeper
@@ -47864,7 +47994,7 @@ Forward
 Divock Origi
 Forward
 -----------------------END MATCH--------------------------------------
-Arsenal Positions 4-2-3-1
+ARS Positions 4-2-3-1
 33
 Petr Cech
 Goalkeeper
@@ -47928,7 +48058,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-West Ham United Positions 4-3-3
+WHU Positions 4-3-3
 13
 Adrián
 Goalkeeper
@@ -47992,7 +48122,7 @@ Modibo Maiga
 90'
 Forward
 -----------------------END MATCH--------------------------------------
-Newcastle United Positions 4-2-3-1
+NUFC Positions 4-2-3-1
 1
 Tim Krul
 Goalkeeper
@@ -48058,7 +48188,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Southampton Positions 4-2-3-1
+SOT Positions 4-2-3-1
 22
 Maarten Stekelenburg
 Goalkeeper
@@ -48120,7 +48250,7 @@ Forward
 Juanmi
 Forward
 -----------------------END MATCH--------------------------------------
-Chelsea Positions 4-2-3-1
+CHE Positions 4-2-3-1
 13
 Thibaut Courtois
 Goalkeeper
@@ -48186,7 +48316,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Swansea City Positions 4-2-3-1
+SWAN Positions 4-2-3-1
 1
 Lukasz Fabianski
 Goalkeeper
@@ -48250,7 +48380,7 @@ Eder
 79'
 Forward
 -----------------------END MATCH--------------------------------------
-AFC Bournemouth Positions 4-4-2
+BOU Positions 4-4-2
 1
 Artur Boruc
 Goalkeeper
@@ -48316,7 +48446,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Aston Villa Positions 4-3-3
+AVL Positions 4-3-3
 1
 Brad Guzan
 Goalkeeper
@@ -48380,7 +48510,7 @@ Rudy Gestede
 59'
 Forward
 -----------------------END MATCH--------------------------------------
-Everton Positions 4-2-3-1
+EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
@@ -48446,7 +48576,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Watford Positions 4-4-1-1
+WAT Positions 4-4-1-1
 1
 Heurelho Gomes
 Goalkeeper
@@ -48510,7 +48640,7 @@ Forward
 Matej Vydra
 Forward
 -----------------------END MATCH--------------------------------------
-Leicester City Positions 4-4-2
+LEI Positions 4-4-2
 1
 Kasper Schmeichel
 Goalkeeper
@@ -48576,7 +48706,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Sunderland Positions 4-1-4-1
+SUN Positions 4-1-4-1
 1
 Costel Pantilimon
 Goalkeeper
@@ -48638,7 +48768,7 @@ Forward
 Danny Graham
 Forward
 -----------------------END MATCH--------------------------------------
-Norwich City Positions 4-1-4-1
+NOR Positions 4-1-4-1
 1
 John Ruddy
 Goalkeeper
@@ -48704,7 +48834,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Crystal Palace Positions 4-4-1-1
+CRY Positions 4-4-1-1
 12
 Alex McCarthy
 Goalkeeper
@@ -48768,7 +48898,7 @@ Forward
 Patrick Bamford
 Forward
 -----------------------END MATCH--------------------------------------
-Manchester United Positions 4-2-3-1
+MUFC Positions 4-2-3-1
 20
 Sergio Romero
 Goalkeeper
@@ -48834,7 +48964,7 @@ Forward
 ..........
 NEXT TEAM 
 ..........
-Tottenham Hotspur Positions 4-2-3-1
+TOT Positions 4-2-3-1
 13
 Michel Vorm
 Goalkeeper
