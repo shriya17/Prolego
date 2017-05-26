@@ -1,10 +1,12 @@
 import string
 
-"""
-
-This
 
 """
+
+
+
+"""
+
 
 def cleanFile(text_file):
     with open(text_file,"r") as fin, open("MatchSquads-2015_final.txt","w") as fout:
@@ -32,11 +34,33 @@ def cleanFile(text_file):
     fout.close()
 
 
+
+def removeSquadNumbers():
+    # Removing squad numbers
+    with open("MatchSquads-2015_final.txt", "r") as fin, open("MatchSquads_2015-final.txt", "w") as fout:
+        for line in fin:
+            var = str(line)
+            var = var.rstrip('\n')
+            if "Positions" not in var and "END,MATCH" not in var and "NEXT,TEAM" not in var and "..." not in var and "Substitutes" not in var:
+                x = var.split(',')
+                x.pop(0)
+                new_var = ""
+                for y in x:
+                    if new_var == "":
+                        new_var = y
+                    else:
+                        new_var = new_var + "," + y
+                fout.write(new_var + '\n')
+            else:
+                fout.write(var + '\n')
+
+    fin.close()
+    fout.close()
+
+
 #Text file open
 #ratings_file = open("PlayerRatings-2013-Final.txt","r")
-cleanFile("MatchSquads-2015.txt")
+#cleanFile("MatchSquads-2015.txt")
+removeSquadNumbers()
 
-#Removing squad numbers
-with open("MatchSquads-2013_final.txt","r") as fin:
-    for line in fin:
-        var = str(line)
+
