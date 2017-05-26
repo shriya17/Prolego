@@ -27,7 +27,6 @@ Midfielder
 10
 Wayne Rooney
 Midfielder
-C
 9
 Anthony Martial
 84'
@@ -74,7 +73,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -141,7 +139,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -209,7 +206,6 @@ Defender
 Joleon Lescott
 65'
 Defender
-C
 46
 Kevin Toner
 Defender
@@ -270,7 +266,6 @@ Defender
 Branislav Ivanovic
 60'
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -335,7 +330,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 28
 Christian Fuchs
 Defender
@@ -400,7 +394,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 3
 Leighton Baines
 Defender
@@ -462,7 +455,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 50'
@@ -547,7 +539,6 @@ Midfielder
 Moussa Sissoko
 84'
 Midfielder
-C
 25
 Andros Townsend
 Midfielder
@@ -586,7 +577,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 71'
@@ -656,7 +646,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -732,7 +721,6 @@ Defender
 15
 Mile Jedinak
 Midfielder
-C
 18
 James McArthur
 78'
@@ -787,7 +775,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -865,7 +852,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -928,7 +914,6 @@ Midfielder
 7
 Leon Britton
 Midfielder
-C
 8
 Leroy Fer
 Midfielder
@@ -974,7 +959,6 @@ MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
-C
 3
 Bacary Sagna
 Defender
@@ -1069,7 +1053,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -1112,7 +1095,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 34
 Thomas Robson
 Defender
@@ -1182,7 +1164,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -1241,7 +1222,6 @@ Defender
 21
 Lucas Leiva
 Defender
-C
 44
 Brad Smith
 Defender
@@ -1317,7 +1297,6 @@ Midfielder
 James Milner
 75'
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -1368,7 +1347,6 @@ Defender
 24
 Gary Cahill
 Defender
-C
 12
 John Obi Mikel
 Defender
@@ -1435,7 +1413,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 23
 Martin Olsson
 Defender
@@ -1525,7 +1502,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -1579,7 +1555,6 @@ Midfielder
 Lee Cattermole
 79'
 Midfielder
-C
 21
 Yann M'Vila
 Midfielder
@@ -1637,7 +1612,6 @@ Defender
 18
 Gareth Barry
 Midfielder
-C
 16
 James McCarthy
 Midfielder
@@ -1706,7 +1680,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 27
 Dimitri Payet
 90 +1'
@@ -1777,7 +1750,6 @@ Midfielder
 10
 Wayne Rooney
 Midfielder
-C
 9
 Anthony Martial
 Midfielder
@@ -1823,7 +1795,6 @@ Defender
 21
 Lucas Leiva
 Defender
-C
 18
 Alberto Moreno
 88'
@@ -1913,7 +1884,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -1944,7 +1914,6 @@ MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
-C
 3
 Bacary Sagna
 Defender
@@ -2019,7 +1988,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -2074,7 +2042,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -2144,7 +2111,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -2211,7 +2177,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 28
 Christian Fuchs
 Defender
@@ -2280,7 +2245,6 @@ Defender
 3
 Leighton Baines
 Defender
-C
 12
 Aaron Lennon
 Midfielder
@@ -2341,7 +2305,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -2420,7 +2383,6 @@ Midfielder
 7
 Moussa Sissoko
 Midfielder
-C
 5
 Georginio Wijnaldum
 Midfielder
@@ -2464,7 +2426,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -2542,7 +2503,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 45
 Jonathan Leko
 86'
@@ -2595,7 +2555,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -2657,7 +2616,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 20
 Geoff Cameron
 Defender
@@ -2739,7 +2697,6 @@ Midfielder
 Lee Cattermole
 71'
 Midfielder
-C
 21
 Yann M'Vila
 Midfielder
@@ -2791,7 +2748,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -2860,7 +2816,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 77'
@@ -2929,7 +2884,6 @@ Midfielder
 24
 Jack Cork
 Midfielder
-C
 4
 Ki Sung-yueng
 Midfielder
@@ -2981,7 +2935,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -3074,7 +3027,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -3111,7 +3063,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -3166,7 +3117,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -3236,7 +3186,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -3296,7 +3245,6 @@ MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
-C
 5
 Pablo Zabaleta
 Defender
@@ -3384,7 +3332,6 @@ Midfielder
 10
 Wayne Rooney
 Midfielder
-C
 9
 Anthony Martial
 Midfielder
@@ -3430,7 +3377,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -3497,7 +3443,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -3558,7 +3503,6 @@ Defender
 37
 Martin Skrtel
 Defender
-C
 6
 Dejan Lovren
 Defender
@@ -3620,7 +3564,6 @@ Defender
 Per Mertesacker
 51'
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -3685,7 +3628,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 89'
@@ -3743,7 +3685,6 @@ EVE Positions 4-2-3-1
 24
 Tim Howard
 Goalkeeper
-C
 17
 Muhamed Besic
 45'
@@ -3815,7 +3756,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -3898,7 +3838,6 @@ Midfielder
 7
 Moussa Sissoko
 Midfielder
-C
 5
 Georginio Wijnaldum
 80'
@@ -3957,7 +3896,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 42
 Jason Puncheon
 73'
@@ -4009,7 +3947,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 20
 Geoff Cameron
 Defender
@@ -4095,7 +4032,6 @@ Midfielder
 6
 Lee Cattermole
 Midfielder
-C
 22
 Wahbi Khazri
 60'
@@ -4162,7 +4098,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -4206,7 +4141,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 46
 Kevin Toner
 Defender
@@ -4274,7 +4208,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 62'
@@ -4344,7 +4277,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -4389,7 +4321,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -4477,7 +4408,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 8
 Craig Gardner
 Midfielder
@@ -4521,7 +4451,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -4590,7 +4519,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -4671,7 +4599,6 @@ Midfielder
 6
 Lee Cattermole
 Midfielder
-C
 22
 Wahbi Khazri
 Midfielder
@@ -4715,7 +4642,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -4780,7 +4706,6 @@ Defender
 Micah Richards
 45'
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -4845,7 +4770,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -4907,7 +4831,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -4976,7 +4899,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -5046,7 +4968,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 24
 Joe Allen
 72'
@@ -5118,7 +5039,6 @@ Midfielder
 7
 Moussa Sissoko
 Midfielder
-C
 17
 Ayoze Pérez
 45'
@@ -5179,7 +5099,6 @@ Midfielder
 42
 Yaya Touré
 Midfielder
-C
 21
 David Silva
 57'
@@ -5230,7 +5149,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -5291,7 +5209,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -5373,7 +5290,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 30
 Sandro
 45'
@@ -5431,7 +5347,6 @@ Defender
 James Milner
 81'
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -5501,7 +5416,6 @@ Midfielder
 Gareth Barry
 45'
 Midfielder
-C
 11
 Kevin Mirallas
 Midfielder
@@ -5571,7 +5485,6 @@ Midfielder
 Wayne Rooney
 78'
 Midfielder
-C
 9
 Anthony Martial
 Midfielder
@@ -5630,7 +5543,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 11
 Wilfried Zaha
 Midfielder
@@ -5690,7 +5602,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -5741,7 +5652,6 @@ WAT Positions 4-4-2
 1
 Heurelho Gomes
 Goalkeeper
-C
 14
 Juan Carlos Paredes
 Defender
@@ -5830,7 +5740,6 @@ Midfielder
 7
 Moussa Sissoko
 Midfielder
-C
 17
 Ayoze Pérez
 90 +2'
@@ -5877,7 +5786,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 20
 Eliaquim Mangala
 Defender
@@ -5941,7 +5849,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -5999,7 +5906,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -6072,7 +5978,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -6152,7 +6057,6 @@ Midfielder
 Mile Jedinak
 45'
 Midfielder
-C
 28
 Joe Ledley
 Midfielder
@@ -6199,7 +6103,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -6269,7 +6172,6 @@ Defender
 21
 Lucas Leiva
 Defender
-C
 44
 Brad Smith
 Defender
@@ -6329,7 +6231,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -6412,7 +6313,6 @@ Midfielder
 Mark Noble
 63'
 Midfielder
-C
 20
 Victor Moses
 72'
@@ -6462,7 +6362,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -6538,7 +6437,6 @@ Midfielder
 42
 Yaya Touré
 Midfielder
-C
 15
 Jesús Navas
 Midfielder
@@ -6606,7 +6504,6 @@ Midfielder
 21
 Leon Osman
 Midfielder
-C
 19
 Gerard Deulofeu
 64'
@@ -6656,7 +6553,6 @@ Defender
 José Fonte
 38'
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -6739,7 +6635,6 @@ Midfielder
 Wayne Rooney
 67'
 Midfielder
-C
 7
 Memphis Depay
 Midfielder
@@ -6785,7 +6680,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -6864,7 +6758,6 @@ Midfielder
 7
 Moussa Sissoko
 Midfielder
-C
 5
 Georginio Wijnaldum
 73'
@@ -6914,7 +6807,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -6988,7 +6880,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 75'
@@ -7067,7 +6958,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -7116,7 +7006,6 @@ Midfielder
 28
 Gary O'Neil
 Midfielder
-C
 8
 Jonny Howson
 Midfielder
@@ -7189,7 +7078,6 @@ Midfielder
 6
 Lee Cattermole
 Midfielder
-C
 22
 Wahbi Khazri
 45'
@@ -7249,7 +7137,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 42
 Jason Puncheon
 Midfielder
@@ -7311,7 +7198,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 9
 Arouna Koné
 54'
@@ -7376,7 +7262,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 35
 Kevin Stewart
 Midfielder
@@ -7429,7 +7314,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -7487,7 +7371,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -7572,7 +7455,6 @@ Midfielder
 16
 Michael Carrick
 Midfielder
-C
 8
 Juan Mata
 76'
@@ -7643,7 +7525,6 @@ Midfielder
 6
 Lee Cattermole
 Midfielder
-C
 22
 Wahbi Khazri
 68'
@@ -7689,7 +7570,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -7747,7 +7627,6 @@ MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
-C
 5
 Pablo Zabaleta
 Defender
@@ -7831,7 +7710,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 29
 Stéphane Sessegnon
 80'
@@ -7881,7 +7759,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -7947,7 +7824,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -8020,7 +7896,6 @@ Defender
 15
 Mile Jedinak
 Midfielder
-C
 10
 Yannick Bolasie
 Midfielder
@@ -8091,7 +7966,6 @@ Midfielder
 28
 Gary O'Neil
 Midfielder
-C
 8
 Jonny Howson
 Midfielder
@@ -8141,7 +8015,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -8221,7 +8094,6 @@ Midfielder
 12
 Jonjo Shelvey
 Midfielder
-C
 25
 Andros Townsend
 Midfielder
@@ -8274,7 +8146,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -8341,7 +8212,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -8425,7 +8295,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -8471,7 +8340,6 @@ Defender
 Phil Jagielka
 90'
 Defender
-C
 3
 Leighton Baines
 Defender
@@ -8544,7 +8412,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 3
 Aaron Cresswell
 Midfielder
@@ -8596,7 +8463,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -8669,7 +8535,6 @@ Defender
 Michael Carrick
 58'
 Midfielder
-C
 8
 Juan Mata
 Midfielder
@@ -8726,7 +8591,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 3
 Leighton Baines
 Defender
@@ -8785,7 +8649,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -8851,7 +8714,6 @@ Defender
 6
 José Fonte
 Defender
-C
 21
 Ryan Bertrand
 Defender
@@ -8924,7 +8786,6 @@ Defender
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -8975,7 +8836,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -9046,7 +8906,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -9136,7 +8995,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -9174,7 +9032,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -9236,7 +9093,6 @@ Goalkeeper
 5
 Pablo Zabaleta
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -9319,7 +9175,6 @@ Midfielder
 28
 Gary O'Neil
 Midfielder
-C
 12
 Robbie Brady
 Midfielder
@@ -9379,7 +9234,6 @@ Defender
 12
 Jonjo Shelvey
 Midfielder
-C
 24
 Cheick Tioté
 45'
@@ -9441,7 +9295,6 @@ Defender
 Glenn Whelan
 81'
 Midfielder
-C
 21
 Giannelli Imbula
 Midfielder
@@ -9498,7 +9351,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 26
 Kyle Naughton
 82'
@@ -9574,7 +9426,6 @@ Midfielder
 6
 Lee Cattermole
 Midfielder
-C
 21
 Yann M'Vila
 Midfielder
@@ -9640,7 +9491,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 18
 Saido Berahino
 78'
@@ -9695,7 +9545,6 @@ Defender
 Mark Noble
 80'
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -9760,7 +9609,6 @@ Defender
 15
 Mile Jedinak
 Midfielder
-C
 11
 Wilfried Zaha
 45'
@@ -9813,7 +9661,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -9882,7 +9729,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -9954,7 +9800,6 @@ Defender
 42
 Yaya Touré
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -10020,7 +9865,6 @@ Defender
 16
 Michael Carrick
 Midfielder
-C
 8
 Juan Mata
 70'
@@ -10067,7 +9911,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -10139,7 +9982,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -10214,7 +10056,6 @@ Defender
 12
 Jonjo Shelvey
 Midfielder
-C
 5
 Georginio Wijnaldum
 Midfielder
@@ -10273,7 +10114,6 @@ Defender
 Younes Kaboul
 73'
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -10333,7 +10173,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -10396,7 +10235,6 @@ Goalkeeper
 38
 Jon Flanagan
 Defender
-C
 6
 Dejan Lovren
 45'
@@ -10463,7 +10301,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 33
 Federico Fernández
 Defender
@@ -10529,7 +10366,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -10594,7 +10430,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -10673,7 +10508,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 28
 Manuel Lanzini
 82'
@@ -10737,7 +10571,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 28
 Joe Ledley
 79'
@@ -10787,7 +10620,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -10878,7 +10710,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -10926,7 +10757,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 21
 Giannelli Imbula
 Midfielder
@@ -10989,7 +10819,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -11042,7 +10871,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 17
 Timm Klose
 Defender
@@ -11109,7 +10937,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -11176,7 +11003,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -11237,7 +11063,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -11315,7 +11140,6 @@ Midfielder
 Jonjo Shelvey
 87'
 Midfielder
-C
 17
 Ayoze Pérez
 71'
@@ -11368,7 +11192,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 43
 Aly Cissokho
 Defender
@@ -11423,7 +11246,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -11493,7 +11315,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -11562,7 +11383,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -11623,7 +11443,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -11699,7 +11518,6 @@ Defender
 8
 Steven Davis
 Midfielder
-C
 14
 Oriol Romeu
 Midfielder
@@ -11750,7 +11568,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -11820,7 +11637,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -11897,7 +11713,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -11959,7 +11774,6 @@ Defender
 16
 Michael Carrick
 Midfielder
-C
 35
 Jesse Lingard
 Midfielder
@@ -12029,7 +11843,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 28
 Joe Ledley
 82'
@@ -12092,7 +11905,6 @@ Midfielder
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -12170,7 +11982,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -12209,7 +12020,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -12276,7 +12086,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -12349,7 +12158,6 @@ Defender
 Glenn Whelan
 75'
 Midfielder
-C
 21
 Giannelli Imbula
 Midfielder
@@ -12404,7 +12212,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -12483,7 +12290,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 3
 Aaron Cresswell
 Midfielder
@@ -12532,7 +12338,7 @@ Bacary Sagna
 Defender
 4
 Vincent Kompany
-C 
+ 
 Defender
 30
 Nicolas Otamendi
@@ -12595,7 +12401,7 @@ Brad Guzan
 Goalkeeper
 4
 Micah Richards
-C 
+ 
 Defender
 16
 Joleon Lescott 
@@ -12673,7 +12479,6 @@ Defender
 12
 Jonjo Shelvey
 Midfielder
-C
 4
 Jack Colback
 Midfielder
@@ -12729,7 +12534,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -12793,7 +12597,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -12862,7 +12665,6 @@ Defender
 15
 Younes Kaboul
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -12926,7 +12728,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -12989,7 +12790,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 17
 Timm Klose
 Defender
@@ -13047,7 +12847,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -13119,7 +12918,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 5
 Gabriel
 Defender
@@ -13196,7 +12994,6 @@ Midfielder
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -13249,7 +13046,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -13334,7 +13130,6 @@ Midfielder
 Juan Mata
 89'
 Midfielder
-C
 7
 Memphis Depay
 Midfielder
@@ -13402,7 +13197,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 75'
@@ -13443,7 +13237,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 5
 Gabriel
 Defender
@@ -13510,7 +13303,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 35
 Stephen Kingsley
 Defender
@@ -13584,7 +13376,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 22
 Xherdan Shaqiri
 Midfielder
@@ -13646,7 +13437,6 @@ Defender
 12
 Jonjo Shelvey
 Midfielder
-C
 4
 Jack Colback
 84'
@@ -13714,7 +13504,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 30
 Michail Antonio
 Midfielder
@@ -13761,7 +13550,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 16
 Kieran Trippier
 Defender
@@ -13831,7 +13619,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -13896,7 +13683,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -13959,7 +13745,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -14025,7 +13810,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 35'
@@ -14089,7 +13873,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -14168,7 +13951,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -14223,7 +14005,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 17
 Timm Klose
 Defender
@@ -14286,7 +14067,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 16
 Kenedy
 69'
@@ -14351,7 +14131,6 @@ Defender
 John O'Shea
 28'
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -14425,7 +14204,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 11
 Wilfried Zaha
 Midfielder
@@ -14476,7 +14254,6 @@ Defender
 16
 Michael Carrick
 Defender
-C
 17
 Daley Blind
 Defender
@@ -14545,7 +14322,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -14600,7 +14376,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -14675,7 +14450,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -14750,7 +14524,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -14805,7 +14578,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 2
 Joel Ward
 Defender
@@ -14867,7 +14639,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -14935,7 +14706,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 17
 Timm Klose
 90 +2'
@@ -14996,7 +14766,6 @@ Defender
 6
 José Fonte
 Defender
-C
 21
 Ryan Bertrand
 Defender
@@ -15065,7 +14834,6 @@ Defender
 2
 Branislav Ivanovic
 Defender
-C
 6
 Abdul Rahman Baba
 45'
@@ -15135,7 +14903,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 21
 Giannelli Imbula
 Midfielder
@@ -15195,7 +14962,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 43
 Aly Cissokho
 Defender
@@ -15280,7 +15046,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 18
 Costel Pantilimon
@@ -15318,7 +15083,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -15392,7 +15156,6 @@ Defender
 Mark Noble
 82'
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -15451,7 +15214,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -15508,7 +15270,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -15566,7 +15327,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -15634,7 +15394,6 @@ Goalkeeper
 Micah Richards
 85'
 Defender
-C
 5
 Jores Okore
 Defender
@@ -15714,7 +15473,6 @@ Midfielder
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -15766,7 +15524,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 45'
@@ -15832,7 +15589,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -15900,7 +15656,6 @@ Defender
 John Terry
 38'
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -15965,7 +15720,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 16
 Rolando Aarons
 Defender
@@ -16026,7 +15780,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -16103,7 +15856,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 21
 Giannelli Imbula
 Midfielder
@@ -16165,7 +15917,6 @@ Defender
 15
 Mile Jedinak
 Midfielder
-C
 11
 Wilfried Zaha
 Midfielder
@@ -16239,7 +15990,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -16282,7 +16032,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -16357,7 +16106,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -16409,7 +16157,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 17
 Timm Klose
 Defender
@@ -16487,7 +16234,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 4
 Alexandre Song
 62'
@@ -16546,7 +16292,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -16608,7 +16353,6 @@ Defender
 6
 José Fonte
 Defender
-C
 21
 Ryan Bertrand
 Defender
@@ -16675,7 +16419,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -16765,7 +16508,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -16806,7 +16548,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -16895,7 +16636,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -16932,7 +16672,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -17001,7 +16740,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -17062,7 +16800,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 Defender
@@ -17139,7 +16876,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 4
 Alexandre Song
 Midfielder
@@ -17190,7 +16926,6 @@ Goalkeeper
 Micah Richards
 90 +1'
 Defender
-C
 5
 Jores Okore
 Defender
@@ -17251,7 +16986,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 17
 Timm Klose
 Defender
@@ -17329,7 +17063,6 @@ Defender
 Jordan Henderson
 86'
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -17388,7 +17121,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -17451,7 +17183,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 16
 Rolando Aarons
 Defender
@@ -17535,7 +17266,6 @@ Midfielder
 24
 Darren Fletcher
 Forward
-C
 10
 Victor Anichebe
 74'
@@ -17589,7 +17319,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 21
 Giannelli Imbula
 Midfielder
@@ -17642,7 +17371,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -17710,7 +17438,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -17785,7 +17512,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 11
 Wilfried Zaha
 Midfielder
@@ -17830,7 +17556,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 16
 Kieran Trippier
 Defender
@@ -17896,7 +17621,6 @@ WAT Positions 4-2-3-1
 1
 Heurelho Gomes
 Goalkeeper
-C
 2
 Nyom
 Defender
@@ -17980,7 +17704,6 @@ Midfielder
 Yaya Touré
 52'
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -18032,7 +17755,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -18096,7 +17818,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -18162,7 +17883,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 45'
@@ -18246,7 +17966,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -18291,7 +18010,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -18357,7 +18075,6 @@ Defender
 15
 Mile Jedinak
 Midfielder
-C
 18
 James McArthur
 45'
@@ -18414,7 +18131,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -18505,7 +18221,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -18554,7 +18269,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 14
 Ibrahim Afellay
 Midfielder
@@ -18627,7 +18341,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 14
 James McClean
 Midfielder
@@ -18675,7 +18388,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 59'
@@ -18739,7 +18451,6 @@ Defender
 6
 Laurent Koscielny
 Defender
-C
 18
 Nacho Monreal
 Defender
@@ -18800,7 +18511,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -18864,7 +18574,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -18947,7 +18656,6 @@ Midfielder
 Jordan Henderson
 66'
 Midfielder
-C
 20
 Adam Lallana
 Midfielder
@@ -19006,7 +18714,6 @@ Midfielder
 27
 Alexander Tettey
 Midfielder
-C
 21
 Youssouf Mulumbu
 Midfielder
@@ -19052,7 +18759,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -19125,7 +18831,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -19205,7 +18910,6 @@ Midfielder
 Yaya Touré
 79'
 Midfielder
-C
 21
 David Silva
 Midfielder
@@ -19268,7 +18972,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 30
 Michail Antonio
 89'
@@ -19315,7 +19018,6 @@ Goalkeeper
 4
 Micah Richards
 Defender
-C
 5
 Jores Okore
 Defender
@@ -19380,7 +19082,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -19449,7 +19150,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -19521,7 +19221,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 17
 Muhamed Besic
 11'
@@ -19578,7 +19277,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -19654,7 +19352,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 30
 Michail Antonio
 65'
@@ -19713,7 +19410,6 @@ Defender
 42
 Yaya Touré
 Midfielder
-C
 18
 Fabian Delph
 76'
@@ -19771,7 +19467,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -19826,7 +19521,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 16
 Kieran Trippier
 Defender
@@ -19896,7 +19590,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -19961,7 +19654,6 @@ Defender
 Ryan Shawcross
 30'
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -20051,7 +19743,6 @@ Forward
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -20090,7 +19781,6 @@ Defender
 6
 José Fonte
 Defender
-C
 21
 Ryan Bertrand
 Defender
@@ -20154,7 +19844,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 5
 Wes Brown
 Defender
@@ -20218,7 +19907,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -20306,7 +19994,6 @@ Midfielder
 Troy Deeney
 90 +3'
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -20349,7 +20036,6 @@ Defender
 Fabricio Coloccini
 88'
 Defender
-C
 18
 Chancel Mbemba
 Defender
@@ -20425,7 +20111,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -20475,7 +20160,6 @@ Goalkeeper
 4
 Micah Richards
 Defender
-C
 5
 Jores Okore
 Defender
@@ -20539,7 +20223,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -20616,7 +20299,6 @@ Defender
 Jordan Henderson
 76'
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -20672,7 +20354,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -20761,7 +20442,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -20797,7 +20477,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -20863,7 +20542,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -20935,7 +20613,6 @@ Defender
 14
 Jordan Henderson
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -21018,7 +20695,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -21058,7 +20734,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 43
 Aly Cissokho
 Defender
@@ -21119,7 +20794,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -21183,7 +20857,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -21246,7 +20919,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -21316,7 +20988,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -21383,7 +21054,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 3
 Leighton Baines
 Defender
@@ -21437,7 +21107,6 @@ MCFC Positions 4-4-2
 1
 Joe Hart
 Goalkeeper
-C
 5
 Pablo Zabaleta
 Defender
@@ -21512,7 +21181,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -21576,7 +21244,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 57'
@@ -21649,7 +21316,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 14
 Pedro Obiang
 45'
@@ -21703,7 +21369,6 @@ Defender
 6
 José Fonte
 Defender
-C
 21
 Ryan Bertrand
 Defender
@@ -21787,7 +21452,6 @@ Midfielder
 Darren Fletcher
 45'
 Midfielder
-C
 8
 Craig Gardner
 Midfielder
@@ -21827,7 +21491,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 16
 Kieran Trippier
 Defender
@@ -21899,7 +21562,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 5
 Wes Brown
 Defender
@@ -21972,7 +21634,6 @@ Defender
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 82'
@@ -22029,7 +21690,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -22087,7 +21747,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -22159,7 +21818,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -22226,7 +21884,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -22303,7 +21960,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 7
 James Morrison
 7'
@@ -22363,7 +22019,6 @@ Midfielder
 42
 Yaya Touré
 Midfielder
-C
 6
 Fernando
 Midfielder
@@ -22413,7 +22068,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -22479,7 +22133,6 @@ Defender
 6
 José Fonte
 Defender
-C
 21
 Ryan Bertrand
 Defender
@@ -22568,7 +22221,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -22605,7 +22257,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -22668,7 +22319,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -22738,7 +22388,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -22801,7 +22450,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 5
 Wes Brown
 Defender
@@ -22868,7 +22516,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 43
 Aly Cissokho
 Defender
@@ -22930,7 +22577,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -22991,7 +22637,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -23070,7 +22715,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 11
 Enner Valencia
 Midfielder
@@ -23124,7 +22768,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -23213,7 +22856,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -23261,7 +22903,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 15
 Tom Cleverley
 Midfielder
@@ -23307,7 +22948,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -23390,7 +23030,6 @@ Midfielder
 Mile Jedinak
 67'
 Midfielder
-C
 18
 James McArthur
 Midfielder
@@ -23446,7 +23085,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -23530,7 +23168,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -23577,7 +23214,6 @@ Defender
 42
 Yaya Touré
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -23631,7 +23267,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -23700,7 +23335,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -23760,7 +23394,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -23825,7 +23458,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -23914,7 +23546,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -23956,7 +23587,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -24014,7 +23644,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -24083,7 +23712,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -24147,7 +23775,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 5
 Wes Brown
 Defender
@@ -24214,7 +23841,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -24288,7 +23914,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 85'
@@ -24340,7 +23965,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -24420,7 +24044,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 28
 Manuel Lanzini
 39'
@@ -24484,7 +24107,6 @@ Midfielder
 21
 Lucas Leiva
 Midfielder
-C
 33
 Jordon Ibe
 Midfielder
@@ -24544,7 +24166,6 @@ Defender
 6
 Lee Cattermole
 Midfielder
-C
 21
 Yann M'Vila
 Midfielder
@@ -24610,7 +24231,6 @@ Defender
 Jordan Henderson
 61'
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -24664,7 +24284,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -24739,7 +24358,6 @@ Defender
 42
 Yaya Touré
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -24794,7 +24412,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 5
 Gabriel
 Defender
@@ -24860,7 +24477,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -24951,7 +24567,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -24993,7 +24608,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -25061,7 +24675,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -25119,7 +24732,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -25195,7 +24807,6 @@ Midfielder
 15
 Mile Jedinak
 Midfielder
-C
 11
 Wilfried Zaha
 Midfielder
@@ -25252,7 +24863,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -25324,7 +24934,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 16
 James McCarthy
 26'
@@ -25375,7 +24984,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -25436,7 +25044,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -25505,7 +25112,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -25596,7 +25202,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -25629,7 +25234,6 @@ TOT Positions 3-4-2-1
 1
 Hugo Lloris
 Goalkeeper
-C
 4
 Toby Alderweireld
 Defender
@@ -25718,7 +25322,6 @@ Midfielder
 11
 Chris Brunt
 Midfielder
-C
 7
 James Morrison
 70'
@@ -25768,7 +25371,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -25829,7 +25431,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -25895,7 +25496,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -25962,7 +25562,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -26034,7 +25633,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 15
 Tom Cleverley
 Midfielder
@@ -26088,7 +25686,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 7
 Leandro Bacuna
 Defender
@@ -26166,7 +25763,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 10
 Mauro Zárate
 85'
@@ -26213,7 +25809,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -26282,7 +25877,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -26346,7 +25940,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -26434,7 +26027,6 @@ Forward
 Troy Deeney
 90 +3'
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -26480,7 +26072,6 @@ Defender
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -26537,7 +26128,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -26612,7 +26202,6 @@ Defender
 Yaya Touré
 62'
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -26669,7 +26258,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -26733,7 +26321,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -26810,7 +26397,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 81'
@@ -26854,7 +26440,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -26923,7 +26508,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -26990,7 +26574,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -27065,7 +26648,6 @@ Defender
 16
 Michael Carrick
 Midfielder
-C
 21
 Ander Herrera
 82'
@@ -27118,7 +26700,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -27196,7 +26777,6 @@ Midfielder
 42
 Yaya Touré
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -27252,7 +26832,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -27334,7 +26913,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 10
 Mauro Zárate
 60'
@@ -27401,7 +26979,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 88'
@@ -27454,7 +27031,6 @@ Defender
 14
 Jordan Henderson
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -27511,7 +27087,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -27577,7 +27152,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 7
 Leandro Bacuna
 Defender
@@ -27637,7 +27211,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -27704,7 +27277,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -27776,7 +27348,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 15
 Tom Cleverley
 Midfielder
@@ -27831,7 +27402,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 28
 Christian Fuchs
 Defender
@@ -27917,7 +27487,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -27951,7 +27520,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -28018,7 +27586,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -28078,7 +27645,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -28148,7 +27714,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -28215,7 +27780,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -28290,7 +27854,6 @@ Midfielder
 Darren Fletcher
 90 +1'
 Midfielder
-C
 6
 Jonny Evans
 Midfielder
@@ -28342,7 +27905,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -28406,7 +27968,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -28476,7 +28037,6 @@ Defender
 John Terry
 53'
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -28546,7 +28106,6 @@ Defender
 14
 Jordan Henderson
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -28617,7 +28176,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 7
 James Morrison
 Midfielder
@@ -28656,7 +28214,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -28729,7 +28286,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -28793,7 +28349,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 7
 Leandro Bacuna
 Defender
@@ -28856,7 +28411,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -28920,7 +28474,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -28994,7 +28547,6 @@ Defender
 16
 Michael Carrick
 Midfielder
-C
 27
 Marouane Fellaini
 74'
@@ -29051,7 +28603,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -29112,7 +28663,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 67'
@@ -29185,7 +28735,6 @@ Defender
 42
 Yaya Touré
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -29245,7 +28794,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -29310,7 +28858,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 2
 Billy Jones
 Defender
@@ -29395,7 +28942,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -29454,7 +29000,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 10
 Mauro Zárate
 Midfielder
@@ -29498,7 +29043,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -29563,7 +29107,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -29638,7 +29181,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 19
 Gerard Deulofeu
 69'
@@ -29701,7 +29243,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 19
 Gerard Deulofeu
 Midfielder
@@ -29759,7 +29300,6 @@ Defender
 15
 Mile Jedinak
 Midfielder
-C
 10
 Yannick Bolasie
 Midfielder
@@ -29815,7 +29355,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -29901,7 +29440,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 9
 Christian Benteke
 62'
@@ -29939,7 +29477,6 @@ Goalkeeper
 2
 Branislav Ivanovic
 Defender
-C
 5
 Kurt Zouma
 Defender
@@ -30008,7 +29545,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -30068,7 +29604,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -30137,7 +29672,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -30199,7 +29733,6 @@ Defender
 12
 Chris Smalling
 Defender
-C
 17
 Daley Blind
 Defender
@@ -30281,7 +29814,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -30328,7 +29860,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -30397,7 +29928,6 @@ Defender
 16
 Joleon Lescott
 Defender
-C
 7
 Leandro Bacuna
 78'
@@ -30461,7 +29991,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -30524,7 +30053,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -30613,7 +30141,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -30661,7 +30188,6 @@ Defender
 27
 Alexander Tettey
 Midfielder
-C
 22
 Nathan Redmond
 45'
@@ -30732,7 +30258,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 7
 James Morrison
 Midfielder
@@ -30772,7 +30297,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -30840,7 +30364,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -30900,7 +30423,6 @@ MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
-C
 3
 Bacary Sagna
 Defender
@@ -30980,7 +30502,6 @@ Defender
 7
 James Milner
 Midfielder
-C
 23
 Emre Can
 Midfielder
@@ -31040,7 +30561,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -31114,7 +30634,6 @@ Midfielder
 28
 Gary O'Neil
 Midfielder
-C
 18
 Graham Dorrans
 Midfielder
@@ -31167,7 +30686,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 11'
@@ -31231,7 +30749,6 @@ Defender
 2
 Winston Reid
 Defender
-C
 21
 Angelo Ogbonna
 Defender
@@ -31310,7 +30827,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -31351,7 +30867,6 @@ TOT Positions 4-3-2-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -31418,7 +30933,6 @@ Goalkeeper
 2
 Branislav Ivanovic
 Defender
-C
 5
 Kurt Zouma
 Defender
@@ -31484,7 +30998,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -31574,7 +31087,6 @@ Forward
 Wayne Rooney
 68'
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -31609,7 +31121,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -31697,7 +31208,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -31735,7 +31245,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 45'
@@ -31816,7 +31325,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 19
 Gerard Deulofeu
 86'
@@ -31870,7 +31378,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -31936,7 +31443,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -32016,7 +31522,6 @@ Midfielder
 42
 Yaya Touré
 Midfielder
-C
 7
 Raheem Sterling
 75'
@@ -32064,7 +31569,6 @@ Defender
 José Fonte
 36'
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -32131,7 +31635,6 @@ Defender
 John O'Shea
 74'
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -32193,7 +31696,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -32260,7 +31762,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -32325,7 +31826,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -32380,7 +31880,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -32468,7 +31967,6 @@ Midfielder
 Mark Noble
 80'
 Midfielder
-C
 28
 Manuel Lanzini
 Midfielder
@@ -32526,7 +32024,6 @@ Defender
 Yaya Touré
 45'
 Midfielder
-C
 6
 Fernando
 Midfielder
@@ -32591,7 +32088,6 @@ Defender
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -32649,7 +32145,6 @@ Defender
 26
 John Terry
 Defender
-C
 16
 Kenedy
 Defender
@@ -32725,7 +32220,6 @@ Midfielder
 28
 Gary O'Neil
 Midfielder
-C
 21
 Youssouf Mulumbu
 73'
@@ -32789,7 +32283,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 19
 Gerard Deulofeu
 74'
@@ -32842,7 +32335,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -32909,7 +32401,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -32972,7 +32463,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -33037,7 +32527,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -33102,7 +32591,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -33169,7 +32657,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -33229,7 +32716,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -33309,7 +32795,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -33362,7 +32847,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -33451,7 +32935,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -33493,7 +32976,6 @@ Defender
 12
 Chris Smalling
 Defender
-C
 17
 Daley Blind
 Defender
@@ -33554,7 +33036,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -33613,7 +33094,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -33697,7 +33177,6 @@ Midfielder
 21
 Lucas Leiva
 Midfielder
-C
 33
 Jordon Ibe
 87'
@@ -33752,7 +33231,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -33813,7 +33291,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -33879,7 +33356,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -33943,7 +33419,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -34012,7 +33487,6 @@ Defender
 26
 John Terry
 Defender
-C
 6
 Abdul Rahman Baba
 70'
@@ -34073,7 +33547,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -34165,7 +33638,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -34222,7 +33694,6 @@ Midfielder
 Wayne Rooney
 82'
 Midfielder
-C
 35
 Jesse Lingard
 Midfielder
@@ -34277,7 +33748,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -34343,7 +33813,6 @@ Midfielder
 27
 Alexander Tettey
 Midfielder
-C
 28
 Gary O'Neil
 Midfielder
@@ -34398,7 +33867,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -34462,7 +33930,6 @@ Defender
 15
 Younes Kaboul
 Defender
-C
 2
 Billy Jones
 Defender
@@ -34525,7 +33992,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -34604,7 +34070,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 28
 Manuel Lanzini
 Midfielder
@@ -34666,7 +34131,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 19
 Gerard Deulofeu
 83'
@@ -34716,7 +34180,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 25
 Sylvain Distin
 Defender
@@ -34785,7 +34248,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -34840,7 +34302,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -34939,7 +34400,6 @@ Midfielder
 Gabriel Agbonlahor
 45'
 Forward
-C
 Substitutes
 31
 Mark Bunn
@@ -34977,7 +34437,6 @@ Defender
 José Fonte
 45'
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -35042,7 +34501,6 @@ Defender
 2
 Simon Francis
 Defender
-C
 25
 Sylvain Distin
 Defender
@@ -35119,7 +34577,6 @@ Midfielder
 18
 Gareth Barry
 Midfielder
-C
 19
 Gerard Deulofeu
 65'
@@ -35183,7 +34640,6 @@ Midfielder
 Lee Cattermole
 38'
 Midfielder
-C
 21
 Yann M'Vila
 Midfielder
@@ -35239,7 +34695,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 2
 Joel Ward
 Defender
@@ -35325,7 +34780,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -35362,7 +34816,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -35431,7 +34884,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -35496,7 +34948,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 Defender
@@ -35556,7 +35007,6 @@ Defender
 17
 Ryan Shawcross
 Defender
-C
 26
 Philipp Wollscheid
 Defender
@@ -35623,7 +35073,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -35686,7 +35135,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -35777,7 +35225,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -35833,7 +35280,6 @@ Midfielder
 Mark Noble
 76'
 Midfielder
-C
 28
 Manuel Lanzini
 45'
@@ -35897,7 +35343,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 14
 James McClean
 Midfielder
@@ -35946,7 +35391,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -36013,7 +35457,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 76'
@@ -36086,7 +35529,6 @@ Defender
 James Milner
 64'
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -36149,7 +35591,6 @@ Defender
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -36206,7 +35647,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -36267,7 +35707,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -36330,7 +35769,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 82'
@@ -36427,7 +35865,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 20
 Sergio Romero
@@ -36466,7 +35903,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 30
 Nicolás Otamendi
 Defender
@@ -36531,7 +35967,6 @@ Defender
 John O'Shea
 37'
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -36599,7 +36034,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 78'
@@ -36669,7 +36103,6 @@ Defender
 19
 Santiago Cazorla
 Midfielder
-C
 34
 Francis Coquelin
 Midfielder
@@ -36729,7 +36162,6 @@ Defender
 Phil Jagielka
 52'
 Defender
-C
 32
 Brendan Galloway
 Defender
@@ -36788,7 +36220,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -36855,7 +36286,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -36919,7 +36349,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 28
 Christian Fuchs
 Defender
@@ -36981,7 +36410,6 @@ Defender
 6
 Scott Dann
 Defender
-C
 4
 Brede Hangeland
 Defender
@@ -37041,7 +36469,6 @@ Goalkeeper
 5
 Russell Martin
 Defender
-C
 24
 Ryan Bennett
 Defender
@@ -37118,7 +36545,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -37181,7 +36607,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 22
 Xherdan Shaqiri
 60'
@@ -37257,7 +36682,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 89'
@@ -37308,7 +36732,6 @@ Defender
 Mark Noble
 90 +2'
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -37367,7 +36790,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 87'
@@ -37431,7 +36853,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -37503,7 +36924,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 16
 Charlie Adam
 70'
@@ -37561,7 +36981,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 3
 Paul Dummett
 65'
@@ -37624,7 +37043,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -37715,7 +37133,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 13
 Rene Gilmartin
@@ -37754,7 +37171,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -37821,7 +37237,6 @@ Defender
 26
 John Terry
 Defender
-C
 6
 Abdul Rahman Baba
 Defender
@@ -37884,7 +37299,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -37946,7 +37360,6 @@ Defender
 6
 Scott Dann
 Defender
-C
 4
 Brede Hangeland
 Defender
@@ -38029,7 +37442,6 @@ Midfielder
 Mark Noble
 62'
 Midfielder
-C
 28
 Manuel Lanzini
 Midfielder
@@ -38079,7 +37491,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 32
 Brendan Galloway
 Defender
@@ -38167,7 +37578,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 50
 Sam Johnstone
@@ -38214,7 +37624,6 @@ Defender
 Yaya Touré
 45'
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -38267,7 +37676,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -38335,7 +37743,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -38400,7 +37807,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 6
 Robert Huth
 Defender
@@ -38474,7 +37880,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -38526,7 +37931,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -38584,7 +37988,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -38669,7 +38072,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 20
 Adam Lallana
 81'
@@ -38716,7 +38118,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 5
 Gabriel
 Defender
@@ -38802,7 +38203,6 @@ Midfielder
 10
 Wayne Rooney
 Midfielder
-C
 7
 Memphis Depay
 45'
@@ -38849,7 +38249,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -38904,7 +38303,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -38974,7 +38372,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -39047,7 +38444,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 79'
@@ -39103,7 +38499,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -39165,7 +38560,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -39229,7 +38623,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 45'
@@ -39307,7 +38700,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 18
 Mame Biram Diouf
 86'
@@ -39356,7 +38748,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -39447,7 +38838,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -39481,7 +38871,6 @@ MCFC Positions 4-2-3-1
 1
 Joe Hart
 Goalkeeper
-C
 5
 Pablo Zabaleta
 Defender
@@ -39556,7 +38945,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 43
 Kevin Mbabu
 53'
@@ -39617,7 +39005,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -39687,7 +39074,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 28
 Christian Fuchs
 Defender
@@ -39750,7 +39136,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 2
 Billy Jones
 Defender
@@ -39827,7 +39212,6 @@ Midfielder
 Mark Noble
 79'
 Midfielder
-C
 28
 Manuel Lanzini
 Midfielder
@@ -39877,7 +39261,6 @@ Defender
 6
 Scott Dann
 Defender
-C
 4
 Brede Hangeland
 Defender
@@ -39951,7 +39334,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -40015,7 +39397,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 85'
@@ -40072,7 +39453,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 25
 Ramiro Funes Mori
 Defender
@@ -40159,7 +39539,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -40201,7 +39580,6 @@ Defender
 6
 Scott Dann
 Defender
-C
 4
 Brede Hangeland
 Defender
@@ -40268,7 +39646,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 43
 Kevin Mbabu
 Defender
@@ -40328,7 +39705,6 @@ Goalkeeper
 2
 Branislav Ivanovic
 Defender
-C
 5
 Kurt Zouma
 Defender
@@ -40398,7 +39774,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -40461,7 +39836,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -40534,7 +39908,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 Midfielder
@@ -40587,7 +39960,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -40669,7 +40041,6 @@ Midfielder
 10
 Wayne Rooney
 Midfielder
-C
 7
 Memphis Depay
 77'
@@ -40715,7 +40086,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -40777,7 +40147,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -40846,7 +40215,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -40916,7 +40284,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 16
 Charlie Adam
 75'
@@ -40970,7 +40337,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -41047,7 +40413,6 @@ Defender
 Mark Noble
 85'
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -41103,7 +40468,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -41161,7 +40525,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -41253,7 +40616,6 @@ Midfielder
 Yaya Touré
 56'
 Midfielder
-C
 7
 Raheem Sterling
 Midfielder
@@ -41306,7 +40668,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 72'
@@ -41363,7 +40724,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -41425,7 +40785,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -41512,7 +40871,6 @@ Midfielder
 10
 Wayne Rooney
 Midfielder
-C
 7
 Memphis Depay
 Midfielder
@@ -41549,7 +40907,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -41624,7 +40981,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -41696,7 +41052,6 @@ Defender
 42
 Yaya Touré
 Midfielder
-C
 25
 Fernandinho
 Midfielder
@@ -41768,7 +41123,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 28
 Manuel Lanzini
 69'
@@ -41815,7 +41169,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -41890,7 +41243,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -41942,7 +41294,6 @@ Goalkeeper
 2
 Simon Francis
 Defender
-C
 3
 Steve Cook
 Defender
@@ -42014,7 +41365,6 @@ Defender
 15
 Younes Kaboul
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -42078,7 +41428,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 19
 Massadio Haidara
 80'
@@ -42165,7 +41514,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 24
 Odion Ighalo
 Forward
@@ -42214,7 +41562,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 15
 Marco van Ginkel
 79'
@@ -42274,7 +41621,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -42338,7 +41684,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -42404,7 +41749,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 32
 Brendan Galloway
 Defender
@@ -42460,7 +41804,6 @@ Goalkeeper
 2
 Branislav Ivanovic
 Defender
-C
 5
 Kurt Zouma
 Defender
@@ -42542,7 +41885,6 @@ Midfielder
 19
 Santiago Cazorla
 Midfielder
-C
 16
 Aaron Ramsey
 Midfielder
@@ -42603,7 +41945,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 8
 Cheikhou Kouyaté
 Midfielder
@@ -42662,7 +42003,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 19
 Massadio Haidara
 Defender
@@ -42726,7 +42066,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -42790,7 +42129,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 16
 Joleon Lescott
 Defender
@@ -42853,7 +42191,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -42913,7 +42250,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -42993,7 +42329,6 @@ Defender
 Michael Carrick
 72'
 Midfielder
-C
 31
 Bastian Schweinsteiger
 Midfielder
@@ -43058,7 +42393,6 @@ Defender
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 87'
@@ -43122,7 +42456,6 @@ Defender
 19
 Santiago Cazorla
 Midfielder
-C
 34
 Francis Coquelin
 Midfielder
@@ -43191,7 +42524,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 22
 Xherdan Shaqiri
 Midfielder
@@ -43241,7 +42573,6 @@ Defender
 6
 Scott Dann
 Defender
-C
 4
 Brede Hangeland
 Defender
@@ -43307,7 +42638,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 20
 Eliaquim Mangala
 Defender
@@ -43371,7 +42701,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -43437,7 +42766,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -43524,7 +42852,6 @@ Midfielder
 Troy Deeney
 84'
 Forward
-C
 24
 Odion Ighalo
 71'
@@ -43570,7 +42897,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -43645,7 +42971,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -43698,7 +43023,6 @@ Defender
 6
 José Fonte
 Defender
-C
 17
 Virgil van Dijk
 Defender
@@ -43763,7 +43087,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 32
 Brendan Galloway
 Defender
@@ -43828,7 +43151,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -43892,7 +43214,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -43982,7 +43303,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 50
 Sam Johnstone
@@ -44020,7 +43340,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 Defender
@@ -44085,7 +43404,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -44143,7 +43461,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -44216,7 +43533,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 8
 Bryan Oviedo
 Defender
@@ -44277,7 +43593,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -44339,7 +43654,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 15
 Younes Kaboul
 Defender
@@ -44403,7 +43717,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -44472,7 +43785,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -44529,7 +43841,6 @@ Goalkeeper
 2
 Branislav Ivanovic
 Defender
-C
 5
 Kurt Zouma
 Defender
@@ -44601,7 +43912,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -44679,7 +43989,6 @@ Midfielder
 7
 James Milner
 Midfielder
-C
 11
 Roberto Firmino
 61'
@@ -44743,7 +44052,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 28
 Manuel Lanzini
 82'
@@ -44792,7 +44100,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 20
 Eliaquim Mangala
 Defender
@@ -44867,7 +44174,6 @@ Midfielder
 9
 Troy Deeney
 Midfielder
-C
 7
 Jurado
 Midfielder
@@ -44920,7 +44226,6 @@ Defender
 6
 Glenn Whelan
 Midfielder
-C
 15
 Marco van Ginkel
 Midfielder
@@ -44985,7 +44290,6 @@ Defender
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 35'
@@ -45043,7 +44347,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 19
 Massadio Haidara
 Defender
@@ -45118,7 +44421,6 @@ Midfielder
 19
 Santiago Cazorla
 Midfielder
-C
 15
 Alex Oxlade-Chamberlain
 81'
@@ -45181,7 +44483,6 @@ Midfielder
 19
 Santiago Cazorla
 Midfielder
-C
 16
 Aaron Ramsey
 Midfielder
@@ -45241,7 +44542,6 @@ Defender
 7
 James Milner
 Midfielder
-C
 21
 Lucas Leiva
 76'
@@ -45299,7 +44599,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 32
 Brendan Galloway
 45 +2'
@@ -45362,7 +44661,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 20
 Eliaquim Mangala
 Defender
@@ -45452,7 +44750,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 Substitutes
 34
 Giedrius Arlauskis
@@ -45490,7 +44787,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 Defender
@@ -45574,7 +44870,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 14
 James McClean
 60'
@@ -45623,7 +44918,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -45687,7 +44981,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -45750,7 +45043,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -45813,7 +45105,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -45870,7 +45161,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -45940,7 +45230,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -46017,7 +45306,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 22
 Xherdan Shaqiri
 Midfielder
@@ -46071,7 +45359,6 @@ Defender
 16
 John O'Shea
 Defender
-C
 3
 Patrick van Aanholt
 Defender
@@ -46137,7 +45424,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -46214,7 +45500,6 @@ Midfielder
 Kevin Nolan
 45'
 Forward
-C
 15
 Diafra Sakho
 73'
@@ -46260,7 +45545,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -46351,7 +45635,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 50
 Sam Johnstone
@@ -46393,7 +45676,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 19
 Massadio Haidara
 Defender
@@ -46467,7 +45749,6 @@ Midfielder
 Jordan Henderson
 52'
 Midfielder
-C
 10
 Philippe Coutinho
 81'
@@ -46520,7 +45801,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -46584,7 +45864,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 20
 Eliaquim Mangala
 Defender
@@ -46654,7 +45933,6 @@ Defender
 John Terry
 45'
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -46717,7 +45995,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -46780,7 +46057,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -46857,7 +46133,6 @@ Midfielder
 6
 Lee Cattermole
 Midfielder
-C
 21
 Yann M'Vila
 Midfielder
@@ -46908,7 +46183,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -46975,7 +46249,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -47041,7 +46314,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 19
 Massadio Haidara
 Defender
@@ -47096,7 +46368,6 @@ TOT Positions 4-2-3-1
 1
 Hugo Lloris
 Goalkeeper
-C
 2
 Kyle Walker
 Defender
@@ -47179,7 +46450,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 19
 Jonathan Walters
 59'
@@ -47256,7 +46526,6 @@ Midfielder
 9
 Troy Deeney
 Forward
-C
 Substitutes
 13
 Rene Gilmartin
@@ -47306,7 +46575,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 5
 Claudio Yacob
 Midfielder
@@ -47367,7 +46635,6 @@ Defender
 16
 Mark Noble
 Midfielder
-C
 35
 Reece Oxford
 45'
@@ -47428,7 +46695,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -47488,7 +46754,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 Defender
@@ -47557,7 +46822,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 32
 Brendan Galloway
 88'
@@ -47618,7 +46882,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -47709,7 +46972,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 50
 Sam Johnstone
@@ -47758,7 +47020,6 @@ Midfielder
 24
 Darren Fletcher
 Midfielder
-C
 7
 James Morrison
 Midfielder
@@ -47812,7 +47073,6 @@ Defender
 4
 Vincent Kompany
 Defender
-C
 20
 Eliaquim Mangala
 Defender
@@ -47889,7 +47149,6 @@ Midfielder
 6
 Glenn Whelan
 Midfielder
-C
 19
 Jonathan Walters
 Midfielder
@@ -47954,7 +47213,6 @@ Midfielder
 14
 Jordan Henderson
 Midfielder
-C
 33
 Jordon Ibe
 78'
@@ -48005,7 +47263,6 @@ Defender
 4
 Per Mertesacker
 Defender
-C
 6
 Laurent Koscielny
 Defender
@@ -48084,7 +47341,6 @@ Midfielder
 16
 Mark Noble
 Midfielder
-C
 10
 Mauro Zárate
 63'
@@ -48135,7 +47391,6 @@ Defender
 2
 Fabricio Coloccini
 Defender
-C
 19
 Massadio Haidara
 Defender
@@ -48199,7 +47454,6 @@ Defender
 6
 José Fonte
 Defender
-C
 3
 Maya Yoshida
 Defender
@@ -48263,7 +47517,6 @@ Defender
 26
 John Terry
 Defender
-C
 28
 César Azpilicueta
 Defender
@@ -48329,7 +47582,6 @@ Defender
 6
 Ashley Williams
 Defender
-C
 3
 Neil Taylor
 Defender
@@ -48390,7 +47642,6 @@ Defender
 5
 Tommy Elphick
 Defender
-C
 3
 Steve Cook
 Defender
@@ -48456,7 +47707,6 @@ Defender
 4
 Micah Richards
 Defender
-C
 6
 Ciaran Clark
 Defender
@@ -48523,7 +47773,6 @@ Defender
 6
 Phil Jagielka
 Defender
-C
 32
 Brendan Galloway
 63'
@@ -48613,7 +47862,6 @@ Forward
 9
 Troy Deeney
 Forward
-C
 Substitutes
 13
 Rene Gilmartin
@@ -48654,7 +47902,6 @@ Defender
 5
 Wes Morgan
 Defender
-C
 15
 Jeffrey Schlupp
 Defender
@@ -48727,7 +47974,6 @@ Defender
 Lee Cattermole
 30'
 Midfielder
-C
 11
 Adam Johnson
 Midfielder
@@ -48778,7 +48024,6 @@ Defender
 5
 Russell Martin
 Defender
-C
 6
 Sebastien Bassong
 Defender
@@ -48847,7 +48092,6 @@ Defender
 27
 Damien Delaney
 Defender
-C
 23
 Pape Souaré
 Defender
@@ -48935,7 +48179,6 @@ Midfielder
 10
 Wayne Rooney
 Forward
-C
 Substitutes
 50
 Sam Johnstone
@@ -48977,7 +48220,6 @@ Defender
 5
 Jan Vertonghen
 Defender
-C
 33
 Ben Davies
 Defender
