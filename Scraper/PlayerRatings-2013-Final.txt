@@ -48,7 +48,7 @@ MCFC,James Milner,80,MID
 MCFC,Negredo,83,ATT
 MCFC,Jesús Navas,83,MID
 MCFC,Javi García,79,MID
-MCFC,ATTevan Jovetić,83,ATT
+MCFC,Stevan Jovetić,83,ATT
 MCFC,Joleon Lescott,79,DEF
 MCFC,Micah Richards,78,DEF
 MCFC,Matija Nastasić,77,DEF
@@ -163,39 +163,39 @@ TOT,Roman Michael-Percil,58,DEF
 TOT,Giancarlo Gallifuoco,58,MID
 TOT,Jordan Archer,57,GK
 TOT,Jonathan Miles,56,GK
-LFC,Simon Mignolet,82,GK
-LFC,Glen Johnson,78,DEF
-LFC,Martin Škrtel,81,DEF
-LFC,Daniel Agger,81,DEF
-LFC,Jon Flanagan,70,DEF
-LFC,ATTeven Gerrard,83,MID
-LFC,Jordan Henderson,78,MID
-LFC,Joe Allen,77,MID
-LFC,Coutinho,81,ATT
-LFC,Daniel Sturridge,83,ATT
-LFC,Raheem Sterling,79,ATT
-LFC,Brad Jones,71,GK
-LFC,Kolo Touré,79,DEF
-LFC,Iago Aspas,76,ATT
-LFC,Victor Moses,75,MID
-LFC,Mamadou Sakho,81,DEF
-LFC,Aly Cissokho,74,DEF
-LFC,Lucas Leiva,80,MID
-LFC,José Enrique,79,DEF
-LFC,Luis Alberto,72,ATT
-LFC,Martin Kelly,74,DEF
-LFC,Teixeira,58,ATT
-LFC,Samed Yesil,64,ATT
-LFC,Villyan Bijev,56,ATT
-LFC,Danny Ward,57,GK
-LFC,Yalany Baio,58,MID
-LFC,ATTmeron Brannagan,56,ATT
-LFC,Marc Pelosi,56,MID
-LFC,Harry Wilson,56,MID
-LFC,Lloyd Jones,56,DEF
-LFC,Yusuf Mersin,56,GK
-LFC,ATTephen Sama,62,DEF
-LFC,Luis Suárez,89,ATT
+LIV,Simon Mignolet,82,GK
+LIV,Glen Johnson,78,DEF
+LIV,Martin Škrtel,81,DEF
+LIV,Daniel Agger,81,DEF
+LIV,Jon Flanagan,70,DEF
+LIV,ATTeven Gerrard,83,MID
+LIV,Jordan Henderson,78,MID
+LIV,Joe Allen,77,MID
+LIV,Coutinho,81,ATT
+LIV,Daniel Sturridge,83,ATT
+LIV,Raheem Sterling,79,ATT
+LIV,Brad Jones,71,GK
+LIV,Kolo Touré,79,DEF
+LIV,Iago Aspas,76,ATT
+LIV,Victor Moses,75,MID
+LIV,Mamadou Sakho,81,DEF
+LIV,Aly Cissokho,74,DEF
+LIV,Lucas Leiva,80,MID
+LIV,José Enrique,79,DEF
+LIV,Luis Alberto,72,ATT
+LIV,Martin Kelly,74,DEF
+LIV,Teixeira,58,ATT
+LIV,Samed Yesil,64,ATT
+LIV,Villyan Bijev,56,ATT
+LIV,Danny Ward,57,GK
+LIV,Yalany Baio,58,MID
+LIV,ATTmeron Brannagan,56,ATT
+LIV,Marc Pelosi,56,MID
+LIV,Harry Wilson,56,MID
+LIV,Lloyd Jones,56,DEF
+LIV,Yusuf Mersin,56,GK
+LIV,ATTephen Sama,62,DEF
+LIV,Luis Suárez,89,ATT
 EVE,Tim Howard,81,GK
 EVE,Séamus Coleman,76,DEF
 EVE,Phil Jagielka,80,DEF
@@ -593,7 +593,7 @@ HUL,Dougie Wilson,54,MID
 HUL,Paul McElroy,54,DEF
 CAR,David Marshall,75,GK
 CAR,Kévin Théophile-Catherine,72,DEF
-CAR,ATTeven Caulker,76,DEF
+CAR,Steven Caulker,76,DEF
 CAR,Juan Cala,73,DEF
 CAR,Fábio,72,DEF
 CAR,Gary Medel,76,MID
