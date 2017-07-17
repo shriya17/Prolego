@@ -188,7 +188,7 @@ def calculateMatchRatings(text_file):
                     fin_name = " ".join(temp_name)
                     #print fin_name
                     playerName = getMatch(fin_name,cur_team)
-                    print playerName
+                    print playerName, map2013[playerName][1]
 
                 elif substitute == True:
                     x = var.split(',')
@@ -201,7 +201,7 @@ def calculateMatchRatings(text_file):
                     fin_name = " ".join(temp_name)
                     #print fin_name
                     playerName = getMatch(fin_name,cur_team)
-                    print playerName
+                    print playerName, map2013[playerName][2]
 
 
 
