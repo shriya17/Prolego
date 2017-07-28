@@ -16270,7 +16270,7 @@ Massadio Haidara,Defender
 Steven Taylor 90,Defender
 Mehdi Abeid,Midfielder
 Siem de Jong,70',Midfielder
-Ayoze Pérez,77' 90,Forward
+Ayoze Pérez,77',Forward
 Gabriel Obertan,Forward
 -----------------------END,MATCH--------------------------------------
 BUR,Positions
