@@ -1432,7 +1432,7 @@ NEXT,TEAM,
 MCFC,Positions
 Joe Hart,Goalkeeper
 Martín Demichelis,Defender
-Eliaquim Mangala,Defender
+Eliaquim Mangala,76',Defender
 Pablo Zabaleta,Defender
 Aleksandar Kolarov,Defender
 David Silva,Midfielder
@@ -1446,7 +1446,7 @@ Willy Caballero,Goalkeeper
 Gaël Clichy,Defender
 Dedryck Boyata,89',Defender
 Bacary Sagna,Defender
-Samir Nasri,73',76',Midfielder
+Samir Nasri,73',Midfielder
 Wilfried Bony,76',Forward
 Edin Dzeko,Forward
 -----------------------END,MATCH--------------------------------------
@@ -3271,8 +3271,8 @@ Kurt Zouma,Defender
 Filipe Luis,Defender
 Juan Cuadrado,63',Midfielder
 Ramires,Midfielder
-Diego Costa,45',57',Forward
-Didier Drogba,57',Forward
+Diego Costa,Forward
+Didier Drogba,45',Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -5402,12 +5402,12 @@ Stewart Downing,Forward
 Diafra Sakho,Forward
 Substitutes
 Jussi Jääskeläinen,Goalkeeper
-James Collins,87',Defender
+James Collins,Defender
 Guy Demel,Midfielder
 Kevin Nolan,Midfielder
 Joey,O'Brien,Midfielder
 Matthew Jarvis,75',Midfielder
-Carlton Cole,68',87',Forward
+Carlton Cole,68',Forward
 -----------------------END,MATCH--------------------------------------
 MCFC,Positions
 Joe Hart,Goalkeeper
@@ -6040,8 +6040,8 @@ Substitutes
 Wojciech Szczesny,Goalkeeper
 Kieran Gibbs,Defender
 Gabriel,Defender
-Aaron Ramsey,73',82',Midfielder
-Mathieu Flamini,82',Midfielder
+Aaron Ramsey,73',Midfielder
+Mathieu Flamini,Midfielder
 Danny Welbeck,Forward
 Olivier Giroud,68',Forward
 ..........
@@ -8007,7 +8007,7 @@ HUL,Positions
 Allan McGregor,Goalkeeper
 Curtis Davies,Defender
 Alex Bruce,Defender
-James Chester,Defender
+James Chester,56',Defender
 Andrew Robertson,23',Defender
 Ahmed Elmohamady,Midfielder
 Gastón Ramírez,45',Midfielder
@@ -8017,7 +8017,7 @@ Nikica Jelavic,Forward
 Abel Hernández,Forward
 Substitutes
 Steve Harper,Goalkeeper
-Liam Rosenior,23',56',Defender
+Liam Rosenior,23',Defender
 Harry Maguire,56',Defender
 Tom Ince,Midfielder
 Robbie Brady,45',Midfielder
@@ -8172,8 +8172,8 @@ Danny Ings,Forward
 Ashley Barnes,Forward
 Substitutes
 Matthew Gilks,Goalkeeper
-Kevin Long,17',37',Defender
-Steven Reid,37',Defender
+Kevin Long,Defender
+Steven Reid,17',Defender
 Michael Kightly,32',Midfielder
 Marvin Sordell,Forward
 Lukas Jutkiewicz,Forward
@@ -10257,14 +10257,14 @@ Yaya Touré,Midfielder
 James Milner,Midfielder
 Fernando,Midfielder
 Sergio Agüero,7',Forward
-Samir Nasri,Forward
+Samir Nasri,63',Forward
 Substitutes
 Willy Caballero,Goalkeeper
 Aleksandar Kolarov,Defender
 Dedryck Boyata,Defender
 Bacary Sagna,Defender
 Frank Lampard,78',Midfielder
-José Pozo,7',63',Forward
+José Pozo,7',Forward
 Edin Dzeko,63',Forward
 ..........
 NEXT,TEAM,
@@ -11211,7 +11211,7 @@ Marc Muniesa,Defender
 Oliver Shenton,Defender
 Stephen Ireland,Midfielder
 Charlie Adam,45',Midfielder
-Glenn Whelan,22',45',Midfielder
+Glenn Whelan,67',Midfielder
 Peter Crouch,88',Forward
 -----------------------END,MATCH--------------------------------------
 MUFC,Positions
@@ -11606,7 +11606,7 @@ Anders Lindegaard,Goalkeeper
 Ander Herrera,Midfielder
 Adnan Januzaj,Midfielder
 Darren Fletcher,89',Midfielder
-Ashley Young,16',89',Midfielder
+Ashley Young,17',Midfielder
 James Wilson,75',Forward
 Juan Mata,Forward
 -----------------------END,MATCH--------------------------------------
@@ -12092,7 +12092,7 @@ Pablo Zabaleta,Defender
 Frank Lampard,68',Midfielder
 James Milner,74',Midfielder
 Stevan Jovetic,Forward
-Edin Dzeko,64',68',Forward
+Edin Dzeko,86',Forward
 -----------------------END,MATCH--------------------------------------
 BUR,Positions
 Tom Heaton,Goalkeeper
@@ -15611,7 +15611,7 @@ Robert Huth,Defender
 Charlie Adam,65',Midfielder
 Marko Arnautovic,Midfielder
 Bojan,Forward
-Peter Odemwingie,45',65',Forward
+Peter Odemwingie,70',Forward
 -----------------------END,MATCH--------------------------------------
 NUFC,Positions
 Tim Krul,Goalkeeper
