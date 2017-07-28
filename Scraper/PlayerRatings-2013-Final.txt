@@ -15,7 +15,7 @@ MUFC,Marouane Fellaini,80,MID
 MUFC,Darren Fletcher,75,MID
 MUFC,Antonio Valencia,81,MID
 MUFC,Adnan Januzaj,73,MID
-MUFC,Javier Hernández,82,ATT
+MUFC,Chicharito,82,ATT
 MUFC,Ashley Young,79,MID
 MUFC,Nani,82,MID
 MUFC,Chris Smalling,76,DEF
@@ -116,7 +116,7 @@ ARS,Yaya Sanogo,68,ATT
 ARS,Alex Oxlade-Chamberlain,78,MID
 ARS,Thomas Vermaelen,79,DEF
 ARS,Tomáš Rosický,81,ATT
-ARS,ATTrl Jenkinson,71,DEF
+ARS,Carl Jenkinson,71,DEF
 ARS,Theo Walcott,81,MID
 ARS,Kim Källström,74,MID
 ARS,Abou Diaby,76,MID
@@ -168,7 +168,7 @@ LIV,Glen Johnson,78,DEF
 LIV,Martin Škrtel,81,DEF
 LIV,Daniel Agger,81,DEF
 LIV,Jon Flanagan,70,DEF
-LIV,ATTeven Gerrard,83,MID
+LIV,Steven Gerrard,83,MID
 LIV,Jordan Henderson,78,MID
 LIV,Joe Allen,77,MID
 LIV,Coutinho,81,ATT
@@ -204,14 +204,14 @@ EVE,Leighton Baines,82,DEF
 EVE,James McCarthy,77,MID
 EVE,Gareth Barry,80,MID
 EVE,Kevin Mirallas,81,MID
-EVE,ATTeven Pienaar,80,MID
+EVE,Steven Pienaar,80,MID
 EVE,Ross Barkley,77,ATT
 EVE,Romelu Lukaku,80,ATT
 EVE,Joel Robles,70,GK
 EVE,Aiden McGeady,78,MID
 EVE,Deulofeu,76,ATT
 EVE,Leon Osman,76,MID
-EVE,ATTeven Naismith,75,ATT
+EVE,Steven Naismith,75,ATT
 EVE,Antolín Alcaraz,74,DEF
 EVE,John Stones,69,DEF
 EVE,Tony Hibbert,73,DEF
@@ -275,7 +275,7 @@ NUFC,Luuk de Jong,75,ATT
 NUFC,Loïc Rémy,80,ATT
 NUFC,Rob Elliot,68,GK
 NUFC,Paul Dummett,64,DEF
-NUFC,ATTeven Taylor,75,DEF
+NUFC,Steven Taylor,75,DEF
 NUFC,Mapou Yanga-M'Biwa,76,DEF
 NUFC,Gael Bigirimana,63,MID
 NUFC,Sammy Ameobi,68,MID
@@ -303,11 +303,11 @@ SOT,Luke Shaw,74,DEF
 SOT,Jack Cork,75,MID
 SOT,Morgan Schneiderlin,78,MID
 SOT,James Ward-Prowse,73,MID
-SOT,ATTeven Davis,75,MID
+SOT,Steven Davis,75,MID
 SOT,Adam Lallana,79,ATT
 SOT,Rickie Lambert,76,ATT
 SOT,Paulo Gazzaniga,64,GK
-SOT,ATTlum Chambers,69,DEF
+SOT,Calum Chambers,69,DEF
 SOT,Jos Hooiveld,70,DEF
 SOT,Harrison Reed,61,MID
 SOT,Gastón Ramirez,78,ATT
@@ -335,9 +335,9 @@ FUL,Brede Hangeland,77,DEF
 FUL,Fernando Amorebieta,75,DEF
 FUL,Alexander Kačaniklić,72,MID
 FUL,Scott Parker,76,MID
-FUL,ATTeve Sidwell,75,MID
+FUL,Steve Sidwell,75,MID
 FUL,Kieran Richardson,74,DEF
-FUL,ATTuley Woodrow,62,ATT
+FUL,Cauley Woodrow,62,ATT
 FUL,Hugo Rodallega,73,ATT
 FUL,Jesse Joronen,56,GK
 FUL,Pajtim Kasami,73,ATT
@@ -368,7 +368,7 @@ WHU,Winston Reid,75,DEF
 WHU,George McCartney,70,DEF
 WHU,Mark Noble,75,MID
 WHU,Matthew Taylor,68,MID
-WHU,ATTewart Downing,77,MID
+WHU,Stewart Downing,77,MID
 WHU,Matthew Jarvis,76,MID
 WHU,Kevin Nolan,75,ATT
 WHU,Andy Carroll,77,ATT
@@ -378,7 +378,7 @@ WHU,James Collins,74,DEF
 WHU,Mohamed Diamé,73,MID
 WHU,Ricardo Vaz Tê,69,MID
 WHU,Joe Cole,75,MID
-WHU,ATTrlton Cole,72,ATT
+WHU,Carlton Cole,72,ATT
 WHU,Antonio Nocerino,75,MID
 WHU,Marco Borriello,75,ATT
 WHU,Alou Diarra,72,MID
@@ -401,8 +401,8 @@ STK,Marc Wilson,71,DEF
 STK,Erik Pieters,72,DEF
 STK,Glenn Whelan,73,MID
 STK,Peter Odemwingie,71,MID
-STK,ATTephen Ireland,75,ATT
-STK,ATTeven N'Zonzi,78,MID
+STK,Stephen Ireland,75,ATT
+STK,Steven N'Zonzi,78,MID
 STK,Marko Arnautović,76,MID
 STK,Peter Crouch,76,ATT
 STK,Thomas Sørensen,72,GK
@@ -427,6 +427,7 @@ STK,Charlie Ward,57,ATT
 STK,Peter Skapetis,55,ATT
 STK,Ben Glasgow,54,DEF
 STK,James Campbell,54,DEF
+STK,Jermaine Pennant,74,MID
 NOR,John Ruddy,79,GK
 NOR,Russell Martin,73,DEF
 NOR,Michael Turner,74,DEF
@@ -439,7 +440,7 @@ NOR,Jonathan Howson,73,MID
 NOR,Nathan Redmond,73,MID
 NOR,Johan Elmander,73,ATT
 NOR,Mark Bunn,69,GK
-NOR,ATTeven Whittaker,71,DEF
+NOR,Steven Whittaker,71,DEF
 NOR,Leroy Fer,76,MID
 NOR,Gary Hooper,75,ATT
 NOR,Elliott Bennett,71,MID
@@ -454,7 +455,7 @@ NOR,Garrido,73,DEF
 NOR,Jamar Loza,56,ATT
 NOR,Luciano Becchio,70,ATT
 NOR,David Fox,67,MID
-NOR,ATTrlo Nash,63,GK
+NOR,Carlo Nash,63,GK
 NOR,Ewan McNeil,53,DEF
 NOR,ATTrlton Morris,53,ATT
 NOR,Adel Gafaiti,53,DEF
@@ -476,7 +477,7 @@ SUN,Ondřej Čelůstka,67,DEF
 SUN,Liam Bridcutt,73,MID
 SUN,El Hadji Ba,59,MID
 SUN,Emanuele Giaccherini,78,MID
-SUN,ATTeven Fletcher,76,ATT
+SUN,Steven Fletcher,76,ATT
 SUN,Jozy Altidore,74,ATT
 SUN,Charis Mavrias,69,MID
 SUN,Craig Gardner,74,MID
@@ -485,7 +486,7 @@ SUN,Keiren Westwood,74,GK
 SUN,Ignacio Scocco,74,ATT
 SUN,Liam Agnew,58,ATT
 SUN,Valentin Roberge,73,DEF
-SUN,ATTrlos Cuéllar,72,DEF
+SUN,Carlos Cuéllar,72,DEF
 SUN,Andrea Dossena,70,DEF
 SUN,Marcos Alonso,66,DEF
 SUN,Mikael Mandron,60,ATT
@@ -509,7 +510,7 @@ AVL,Ciaran Clark,73,DEF
 AVL,Karim El Ahmadi,74,MID
 AVL,Yacouba Sylla,68,MID
 AVL,Grant Holt,72,ATT
-AVL,ATTllum Robinson,60,ATT
+AVL,Callum Robinson,60,ATT
 AVL,Jack Grealish,63,MID
 AVL,Christian Benteke,81,ATT
 AVL,Shay Given,75,GK
@@ -527,7 +528,7 @@ AVL,Samir Carruthers,64,MID
 AVL,Daniel Johnson,62,MID
 AVL,Janoi Donacien,60,DEF
 WBA,Ben Foster,78,GK
-WBA,ATTeven Reid,70,DEF
+WBA,Steven Reid,70,DEF
 WBA,Gareth McAuley,73,DEF
 WBA,Jonas Olsson,76,DEF
 WBA,Billy Jones,70,DEF
@@ -535,7 +536,7 @@ WBA,Morgan Amalfitano,75,MID
 WBA,Youssouf Mulumbu,77,MID
 WBA,Graham Dorrans,73,MID
 WBA,Chris Brunt,74,MID
-WBA,ATTéphane Sessègnon,77,ATT
+WBA,Stéphane Sessègnon,77,ATT
 WBA,Saido Berahino,67,ATT
 WBA,Boaz Myhill,72,GK
 WBA,Claudio Yacob,78,MID
@@ -569,10 +570,10 @@ HUL,Tom Huddlestone,77,MID
 HUL,David Meyler,67,MID
 HUL,Shane Long,75,ATT
 HUL,Nikica Jelavić,75,ATT
-HUL,ATTeve Harper,68,GK
+HUL,Steve Harper,68,GK
 HUL,Liam Rosenior,67,DEF
 HUL,Robert Koren,72,ATT
-HUL,ATTephen Quinn,68,MID
+HUL,Stephen Quinn,68,MID
 HUL,George Boyd,68,MID
 HUL,Yannick Sagbo,72,ATT
 HUL,Matt Fryatt,70,ATT
@@ -598,7 +599,7 @@ CAR,Juan Cala,73,DEF
 CAR,Fábio,72,DEF
 CAR,Gary Medel,76,MID
 CAR,Peter Whittingham,73,MID
-CAR,Craig Noone,72,MID
+CAR,Craig Bellamy,72,MID
 CAR,Mats Møller Dæhli,68,MID
 CAR,Jordon Mutch,71,ATT
 CAR,Fraizer Campbell,72,ATT
@@ -607,7 +608,7 @@ CAR,Declan John,63,DEF
 CAR,Ben Turner,68,DEF
 CAR,Bo Kyung Kim,71,ATT
 CAR,Magnus Wolff Eikrem,70,MID
-CAR,Kenwyne Jones,73,ATT
+CAR,Kenwyne Jones,73,ATT,STK
 CAR,Don Cowie,67,MID
 CAR,Jo Inge Berget,71,ATT
 CAR,Kevin McNaughton,69,DEF
@@ -637,11 +638,11 @@ CRY,Marouane Chamakh,75,ATT
 CRY,Dwight Gayle,70,ATT
 CRY,Julián Speroni,74,GK
 CRY,Kagisho Dikgacoi,68,MID
-CRY,ATTuart O'Keefe,67,MID
+CRY,Stuart O'Keefe,67,MID
 CRY,Thomas Ince,72,MID
 CRY,Glenn Murray,71,ATT
 CRY,Danny Gabbidon,69,DEF
-CRY,ATTmeron Jerome,72,ATT
+CRY,Cameron Jerome,72,ATT
 CRY,Jerome Thomas,71,MID
 CRY,Barry Bannan,70,MID
 CRY,Jonathan Parr,69,DEF
