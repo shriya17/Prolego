@@ -6637,7 +6637,7 @@ Dwight Tiendalli,Defender
 Jordi Amat 90,Defender
 Matt Grimes,Midfielder
 Nélson Oliveira,Forward
-Modou Barrow,16' 90,Forward
+Modou Barrow,16',Forward
 -----------------------END,MATCH--------------------------------------
 ARS,Positions
 David Ospina,Goalkeeper
