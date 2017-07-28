@@ -10,7 +10,7 @@ import string
 map2013 = {}
 map2014 = {}
 map2015 = {}
-mNameTorName13 = set()
+mNameTorName13 = {}
 mNameTorName14 = set()
 mNameTorName15 = set()
 
@@ -101,7 +101,12 @@ def loadPlayerRatings(text_file):
     with open(text_file,"r") as fin:
         for line in fin:
             x = line.split(',')
-            map2013[x[1]] = [x[0],x[2],x[3]]
+            ln = len(x)
+            if ln > 4:
+                #print "NEBUG:", x[4]
+                map2013[x[1]] = [x[0], x[2], x[3],x[4]]
+            else:
+                map2013[x[1]] = [x[0],x[2],x[3]]
 
 
     fin.close()
@@ -116,6 +121,9 @@ def loadPlayerRatings(text_file):
 def digInString(var):
     return any(char.isdigit() for char in var)
 
+def findDig(var):
+    ret = ''.join(c for c in var if c.isdigit())
+    return ret
 
 def editDistDP(str1, str2, m, n):
     dp = [[0 for x in range(n + 1)] for x in range(m + 1)]
@@ -142,42 +150,100 @@ def getMatch(name,team):
     if name not in mNameTorName13:
         mn = 10000000
         for i in map2013:
-            if team == map2013[i][0]:
+            temp_team = ""
+            if len(map2013[i]) > 3:
+                #print "NEBUG:" , i , team
+                if map2013[i][0] == team:
+                    temp = editDistDP(name, i, len(name), len(i))
+                    if temp < mn:
+                        mn = temp
+                        ret = i
+                elif map2013[i][3] == team:
+                    temp = editDistDP(name, i, len(name), len(i))
+                    if temp < mn:
+                        mn = temp
+                        ret = i
+
+                mNameTorName13[i] = 1
+            elif map2013[i][0] == team:
                 temp = editDistDP(name, i, len(name),len(i))
                 if temp < mn:
                     mn = temp
                     ret = i
 
-        mNameTorName13.add(i)
+                mNameTorName13[i] = 1
+
+    else:
+        ret = name
 
     return ret
 
 
 
-
-
-
 def calculateMatchRatings(text_file):
     cur_team = ""
+    team_cnt = 0
+    home_team = 0
     cur_team_def_rating = 0
     cur_team_mid_rating = 0
     cur_team_att_rating = 0
     cur_team_rating = 0
     starting_eleven_cnt = 0
-    with open(text_file,"r") as fin:
+    with open(text_file,"r") as fin,open("MatchSquadRatings2013.txt","w") as fout:
         for line in fin:
             var = str(line)
             var = var.rstrip('\n')
             if "Positions" in var:
                 x = var.split(',')
                 cur_team = x[0]
+                if team_cnt > 0 and home_team%2 == 0:
+                    temp_str = "HOME_TEAM_PLAYERS:" +  str(starting_eleven_cnt)
+                    fout.write(temp_str + "\n")
+                    print "HOME_TEAM_RATING:", cur_team_rating
+                    temp_str = "HOME_TEAM_RATING:" + str(cur_team_rating)
+                    fout.write(temp_str + "\n")
+                    print "HOME_ATT_RATING:", cur_team_att_rating
+                    temp_str = "HOME_ATT_RATING:" + str(cur_team_att_rating)
+                    fout.write(temp_str + "\n")
+                    print "HOME_MID_RATING:", cur_team_mid_rating
+                    temp_str = "HOME_MID_RATING:" + str(cur_team_mid_rating)
+                    fout.write(temp_str + "\n")
+                    print "HOME_DEF_RATING:", cur_team_def_rating
+                    temp_str = "HOME_DEF_RATING:" + str(cur_team_def_rating)
+                    fout.write(temp_str + "\n")
+
+                    home_team = 1
+                elif team_cnt > 0 and home_team%2 == 1:
+                    print "AWAY_TEAM_PLAYERS:", starting_eleven_cnt
+                    temp_str = "AWAY_TEAM_PLAYERS:" + str(starting_eleven_cnt)
+                    fout.write(temp_str + "\n")
+                    print "AWAY_TEAM_RATING:", cur_team_rating
+                    temp_str = "AWAY_TEAM_RATING:" + str(cur_team_rating)
+                    fout.write(temp_str + "\n")
+                    print "AWAY_ATT_RATING:", cur_team_att_rating
+                    temp_str = "AWAY_ATT_RATING:" + str(cur_team_att_rating)
+                    fout.write(temp_str + "\n")
+                    print "AWAY_MID_RATING:", cur_team_mid_rating
+                    temp_str = "AWAY_MID_RATING:" + str(cur_team_mid_rating)
+                    fout.write(temp_str + "\n")
+                    print "AWAY_DEF_RATING:", cur_team_def_rating
+                    temp_str = "AWAY_DEF_RATING:" + str(cur_team_def_rating)
+                    fout.write(temp_str + "\n")
+                    home_team = 2
+
                 starting_eleven_cnt = 0
-                print cur_team
+                cur_team_def_rating = 0
+                cur_team_mid_rating = 0
+                cur_team_att_rating = 0
+                cur_team_rating = 0
+                team_cnt += 1
+                print cur_team,
 
             elif "Positions" not in var and "END,MATCH" not in var and "NEXT,TEAM" not in var and "..." not in var and "Substitutes" not in var:
                 substitute = digInString(var)
-                starting_eleven_cnt += 1
+                #print "DEBUG: " , var
                 if starting_eleven_cnt < 11:
+                    starting_eleven_cnt += 1
                     x = var.split(',')
                     temp_name = x[0]
                     temp_name = temp_name.split(' ')
@@ -188,9 +254,60 @@ def calculateMatchRatings(text_file):
                     fin_name = " ".join(temp_name)
                     #print fin_name
                     playerName = getMatch(fin_name,cur_team)
-                    print playerName, map2013[playerName][1]
+                    #print playerName
+                    rating = int(map2013[playerName][1])
+                    cat = str(map2013[playerName][2])
+                    cat = cat.rstrip('\n')
+                    if substitute == True:
+                        #print "Subbed off at " , x[1]
+                        sub_off_time = findDig(var)
+                        sub_off_time = int(sub_off_time)
+                        #print sub_off_time
+                        #print playerName, "Subbed off", sub_off_time
+                        #print sub_off_time
+                        weighted_rating = float(sub_off_time)/90.0
+                        weighted_rating = rating*weighted_rating
+                        #print weighted_rating
+                        print playerName,weighted_rating
+                        cur_team_rating += weighted_rating
+                        if cat == "ATT":
+                            cur_team_att_rating += weighted_rating
+                        elif cat == "GK":
+                            cur_team_def_rating += weighted_rating
+                        elif cat == "DEF":
+                            cur_team_def_rating += weighted_rating
+                        elif cat == "MID":
+                            cur_team_mid_rating += weighted_rating
+                        else:
+                            print "No position found for player", playerName , cat
+
+                    else:
+                        # print "TYPE",type(map2013[playerName][2])
+                        print playerName, rating
+                        cur_team_rating += rating
+                        if cat == "ATT":
+                            cur_team_att_rating += rating
+                        elif cat == "GK":
+                            cur_team_def_rating += rating
+                        elif cat == "DEF":
+                            cur_team_def_rating += rating
+                        elif cat == "MID":
+                            cur_team_mid_rating += rating
+                        else:
+                            print "No position found for player", playerName, cat
+
+                            # print map2013[playerName][1], map2013[playerName][2]
+
+
 
                 elif substitute == True:
+                    #print "Subbed off at " , x[1]
+                    sub_on_time = findDig(var)
+                    sub_on_time = int(sub_off_time)
+                    #print sub_off_time
+                    #print sub_off_time
+
+                    starting_eleven_cnt += 1
                     x = var.split(',')
                     temp_name = x[0]
                     temp_name = temp_name.split(' ')
@@ -201,9 +318,47 @@ def calculateMatchRatings(text_file):
                     fin_name = " ".join(temp_name)
                     #print fin_name
                     playerName = getMatch(fin_name,cur_team)
-                    print playerName, map2013[playerName][2]
+                    #print playerName, "Subbed on", sub_on_time
+                    rating = int(map2013[playerName][1])
+                    weighted_rating = float(90 - sub_on_time) / 90.0
+                    if sub_on_time == 90:
+                        weighted_rating = float(90-sub_on_time+1) / 90.0
+                    weighted_rating = rating * weighted_rating
+                    print playerName,weighted_rating
+                    #print "SUB RATING:", playerName, weighted_rating
+                    cat = str(map2013[playerName][2])
+                    cat = cat.rstrip('\n')
+                    cur_team_rating += weighted_rating
+                    if cat == "ATT":
+                        cur_team_att_rating += weighted_rating
+                    elif cat == "GK":
+                        cur_team_def_rating += weighted_rating
+                    elif cat == "DEF":
+                        cur_team_def_rating += weighted_rating
+                    elif cat == "MID":
+                        cur_team_mid_rating += weighted_rating
+                    else:
+                        print "No position found for player", playerName, cat
+
+                    #print map2013[playerName][1], map2013[playerName][2]
 
 
+        print "HOME_TEAM_PLAYERS:", starting_eleven_cnt
+        temp_str = "HOME_TEAM_PLAYERS:" + str(starting_eleven_cnt)
+        fout.write(temp_str + "\n")
+        print "HOME_TOTAL_TEAM_RATING:", cur_team_rating
+        temp_str = "HOME_TOTAL_TEAM_RATING:" + str(cur_team_rating)
+        fout.write(temp_str + "\n")
+        print "HOME_ATT_RATING:", cur_team_att_rating
+        temp_str = "HOME_ATT_RATING:" + str(cur_team_att_rating)
+        fout.write(temp_str + "\n")
+        print "HOME_MID_RATING:", cur_team_mid_rating
+        temp_str = "HOME_MID_RATING:" + str(cur_team_mid_rating)
+        fout.write(temp_str + "\n")
+        print "HOME_DEF_RATING:", cur_team_def_rating
+        temp_str = "HOME_DEF_RATING:" + str(cur_team_def_rating)
+        fout.write(temp_str + "\n")
+        print "DEBUG:",team_cnt
 
 
 #Text file open
