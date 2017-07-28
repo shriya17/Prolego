@@ -1,4 +1,4 @@
-import string
+import string,csv
 
 
 """
@@ -197,37 +197,29 @@ def calculateMatchRatings(text_file):
                 x = var.split(',')
                 cur_team = x[0]
                 if team_cnt > 0 and home_team%2 == 0:
-                    temp_str = "HOME_TEAM_PLAYERS:" +  str(starting_eleven_cnt)
-                    fout.write(temp_str + "\n")
+                    temp_str = str(starting_eleven_cnt)
                     print "HOME_TEAM_RATING:", cur_team_rating
-                    temp_str = "HOME_TEAM_RATING:" + str(cur_team_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_rating)
                     print "HOME_ATT_RATING:", cur_team_att_rating
-                    temp_str = "HOME_ATT_RATING:" + str(cur_team_att_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_att_rating)
                     print "HOME_MID_RATING:", cur_team_mid_rating
-                    temp_str = "HOME_MID_RATING:" + str(cur_team_mid_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_mid_rating)
                     print "HOME_DEF_RATING:", cur_team_def_rating
-                    temp_str = "HOME_DEF_RATING:" + str(cur_team_def_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_def_rating)
+                    #fout.write(temp_str + "\n")
 
                     home_team = 1
                 elif team_cnt > 0 and home_team%2 == 1:
                     print "AWAY_TEAM_PLAYERS:", starting_eleven_cnt
-                    temp_str = "AWAY_TEAM_PLAYERS:" + str(starting_eleven_cnt)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(starting_eleven_cnt)
                     print "AWAY_TEAM_RATING:", cur_team_rating
-                    temp_str = "AWAY_TEAM_RATING:" + str(cur_team_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_rating)
                     print "AWAY_ATT_RATING:", cur_team_att_rating
-                    temp_str = "AWAY_ATT_RATING:" + str(cur_team_att_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_att_rating)
                     print "AWAY_MID_RATING:", cur_team_mid_rating
-                    temp_str = "AWAY_MID_RATING:" + str(cur_team_mid_rating)
-                    fout.write(temp_str + "\n")
+                    temp_str += "," + str(cur_team_mid_rating)
                     print "AWAY_DEF_RATING:", cur_team_def_rating
-                    temp_str = "AWAY_DEF_RATING:" + str(cur_team_def_rating)
+                    temp_str += "," + str(cur_team_def_rating)
                     fout.write(temp_str + "\n")
                     home_team = 2
 
@@ -343,22 +335,37 @@ def calculateMatchRatings(text_file):
                     #print map2013[playerName][1], map2013[playerName][2]
 
 
-        print "HOME_TEAM_PLAYERS:", starting_eleven_cnt
-        temp_str = "HOME_TEAM_PLAYERS:" + str(starting_eleven_cnt)
-        fout.write(temp_str + "\n")
-        print "HOME_TOTAL_TEAM_RATING:", cur_team_rating
-        temp_str = "HOME_TOTAL_TEAM_RATING:" + str(cur_team_rating)
-        fout.write(temp_str + "\n")
-        print "HOME_ATT_RATING:", cur_team_att_rating
-        temp_str = "HOME_ATT_RATING:" + str(cur_team_att_rating)
-        fout.write(temp_str + "\n")
-        print "HOME_MID_RATING:", cur_team_mid_rating
-        temp_str = "HOME_MID_RATING:" + str(cur_team_mid_rating)
-        fout.write(temp_str + "\n")
-        print "HOME_DEF_RATING:", cur_team_def_rating
-        temp_str = "HOME_DEF_RATING:" + str(cur_team_def_rating)
+        print "AWAY_TEAM_PLAYERS:", starting_eleven_cnt
+        temp_str += "," + str(starting_eleven_cnt)
+        print "AWAY_TOTAL_TEAM_RATING:", cur_team_rating
+        temp_str += "," + str(cur_team_rating)
+        print "AWAY_ATT_RATING:", cur_team_att_rating
+        temp_str += "," + str(cur_team_att_rating)
+        print "AWAY_MID_RATING:", cur_team_mid_rating
+        temp_str += "," + str(cur_team_mid_rating)
+        print "AWAY_DEF_RATING:", cur_team_def_rating
+        temp_str += "," + str(cur_team_def_rating)
         fout.write(temp_str + "\n")
         print "DEBUG:",team_cnt
+
+def transferToCsv(data, fileName):
+
+    """
+    :param data:string
+    :param fileName:string
+    :param season:string
+    :return:none
+
+    This function takes the listoflists (data) and adds the corresponding matches for a particular seasons
+    into the variable data. After that, the data variable is written line by line into the Scoreboard_all.csv file
+    """
+
+    with open(fileName, "r") as ins:
+        for line in ins:
+            val = str(line)
+            #val = season + "," + val
+            x = val.split(",")
+            data.append(x)
 
 
 #Text file open
@@ -369,3 +376,30 @@ def calculateMatchRatings(text_file):
 #identifyPlayerNames()
 loadPlayerRatings("PlayerRatings-2013-Final.txt")
 calculateMatchRatings("MatchSquads-2013_final.txt")
+
+
+data = []
+
+# Initializing a blank .csv file
+with open("MatchSquadRatings2013.csv", "wb") as csv_file:
+    writer = csv.writer(csv_file, delimiter=',')
+    for line in data:
+        writer.writerow(line)
+
+
+
+csv_file.close()
+
+# Appending the Column data for the .csv file
+data.append("Home Team Players,Home Team Rating,Home Team Attack Rating,Home Team Midfield Rating,Home Team Defence Rating,Away Team Players,Away Team Rating,Away Team Attack Rating,Away Team Midfield Rating,Away Team Defence Rating".split(","))
+
+# Function calls
+transferToCsv(data,"MatchSquadRatings2013.txt")
+
+with open("MatchSquadRatings2013.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
+    writer = csv.writer(csv_file, delimiter=',')
+    for line in data:
+        writer.writerow(line)
+
+
+csv_file.close()
