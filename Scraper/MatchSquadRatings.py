@@ -15,7 +15,7 @@ mNameTorName14 = {}
 mNameTorName15 = {}
 
 def cleanFile(text_file):
-    with open(text_file,"r") as fin, open("MatchSquads-2015_final.txt","w") as fout:
+    with open(text_file,"r") as fin, open("MatchSquads-2013_final.txt","w") as fout:
         flag = 0
         temp = ""
         for line in fin:
@@ -43,7 +43,7 @@ def cleanFile(text_file):
 
 def removeSquadNumbers():
     # Removing squad numbers
-    with open("MatchSquads-2015_final.txt", "r") as fin, open("MatchSquads_2015-final.txt", "w") as fout:
+    with open("MatchSquads-2013_final.txt", "r") as fin, open("MatchSquads_2013-final.txt", "w") as fout:
         for line in fin:
             var = str(line)
             var = var.rstrip('\n')
@@ -65,7 +65,7 @@ def removeSquadNumbers():
 
 
 def identifyPlayerNames():
-    with open("MatchSquads_2015-final.txt","r") as fin, open("MatchSquads-2015_final.txt","w") as fout:
+    with open("MatchSquads_2013-final.txt","r") as fin, open("MatchSquads-2013_final.txt","w") as fout:
         for line in fin:
             var = str(line)
             var = var.rstrip('\n')
@@ -104,16 +104,16 @@ def loadPlayerRatings(text_file):
             ln = len(x)
             if ln > 4:
                 #print "NEBUG:", x[4]
-                map2015[x[1]] = [x[0], x[2], x[3],x[4]]
+                map2013[x[1]] = [x[0], x[2], x[3],x[4]]
             else:
-                map2015[x[1]] = [x[0],x[2],x[3]]
+                map2013[x[1]] = [x[0],x[2],x[3]]
 
 
     fin.close()
     cnt = 0
-    for i in map2015:
+    for i in map2013:
         cnt += 1
-        print i,map2015[i]
+        print i,map2013[i]
 
     print cnt
 
@@ -147,31 +147,31 @@ def editDistDP(str1, str2, m, n):
 
 def getMatch(name,team):
     ret = ""
-    if name not in mNameTorName15:
+    if name not in mNameTorName13:
         mn = 10000000
-        for i in map2015:
+        for i in map2013:
             temp_team = ""
-            if len(map2015[i]) > 3:
+            if len(map2013[i]) > 3:
                 #print "NEBUG:" , i , team
-                if map2015[i][0] == team:
+                if map2013[i][0] == team:
                     temp = editDistDP(name, i, len(name), len(i))
                     if temp < mn:
                         mn = temp
                         ret = i
-                elif map2015[i][3] == team:
+                elif map2013[i][3] == team:
                     temp = editDistDP(name, i, len(name), len(i))
                     if temp < mn:
                         mn = temp
                         ret = i
 
-                mNameTorName15[i] = 1
-            elif map2015[i][0] == team:
+                mNameTorName13[i] = 1
+            elif map2013[i][0] == team:
                 temp = editDistDP(name, i, len(name),len(i))
                 if temp < mn:
                     mn = temp
                     ret = i
 
-                mNameTorName15[i] = 1
+                mNameTorName13[i] = 1
 
     else:
         ret = name
@@ -189,7 +189,7 @@ def calculateMatchRatings(text_file):
     cur_team_att_rating = 0
     cur_team_rating = 0
     starting_eleven_cnt = 0
-    with open(text_file,"r") as fin,open("MatchSquadRatings2015.txt","w") as fout:
+    with open(text_file,"r") as fin,open("MatchSquadRatings2013.txt","w") as fout:
         for line in fin:
             var = str(line)
             var = var.rstrip('\n')
@@ -247,8 +247,8 @@ def calculateMatchRatings(text_file):
                     #print fin_name
                     playerName = getMatch(fin_name,cur_team)
                     #print playerName
-                    rating = int(map2015[playerName][1])
-                    cat = str(map2015[playerName][2])
+                    rating = int(map2013[playerName][1])
+                    cat = str(map2013[playerName][2])
                     cat = cat.rstrip('\n')
                     if substitute == True:
                         #print "Subbed off at " , x[1]
@@ -312,7 +312,7 @@ def calculateMatchRatings(text_file):
                     #print fin_name
                     playerName = getMatch(fin_name,cur_team)
                     #print playerName, "Subbed on", sub_on_time
-                    rating = int(map2015[playerName][1])
+                    rating = int(map2013[playerName][1])
                     weighted_rating = float(90 - sub_on_time) / 90.0
                     weighted_rating = round(weighted_rating,3)
                     if sub_on_time == 90:
@@ -322,7 +322,7 @@ def calculateMatchRatings(text_file):
                     weighted_rating = rating * weighted_rating
                     print playerName,weighted_rating
                     #print "SUB RATING:", playerName, weighted_rating
-                    cat = str(map2015[playerName][2])
+                    cat = str(map2013[playerName][2])
                     cat = cat.rstrip('\n')
                     cur_team_rating += weighted_rating
                     if cat == "ATT":
@@ -378,14 +378,14 @@ def transferToCsv(data, fileName):
 #cleanFile("MatchSquads-2015.txt")
 #removeSquadNumbers()
 #identifyPlayerNames()
-loadPlayerRatings("PlayerRatings-2015-Final.txt")
-calculateMatchRatings("MatchSquads-2015_final.txt")
+loadPlayerRatings("PlayerRatings-2013-Final.txt")
+calculateMatchRatings("MatchSquads-2013_final.txt")
 
 
 data = []
 
 # Initializing a blank .csv file
-with open("MatchSquadRatings2015.csv", "wb") as csv_file:
+with open("MatchSquadRatings2013.csv", "wb") as csv_file:
     writer = csv.writer(csv_file, delimiter=',')
     for line in data:
         writer.writerow(line)
@@ -398,9 +398,9 @@ csv_file.close()
 data.append("HTP,HTR,HTAR,HTMR,HTDR,ATP,ATR,ATAR,ATMR,ATDR".split(","))
 
 # Function calls
-transferToCsv(data,"MatchSquadRatings2015.txt")
+transferToCsv(data,"MatchSquadRatings2013.txt")
 
-with open("MatchSquadRatings2015.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
+with open("MatchSquadRatings2013.csv", "ab") as csv_file:  # Opens the .csv file in append binary mode.
     writer = csv.writer(csv_file, delimiter=',')
     for line in data:
         writer.writerow(line)
@@ -408,8 +408,8 @@ with open("MatchSquadRatings2015.csv", "ab") as csv_file:  # Opens the .csv file
 
 csv_file.close()
 
-csv_input = pd.read_csv('ScoreBoard_Detailed_2015.csv')
-csv_input1 = pd.read_csv('MatchSquadRatings2015.csv')
+csv_input = pd.read_csv('ScoreBoard_Detailed_2013.csv')
+csv_input1 = pd.read_csv('MatchSquadRatings2013.csv')
 csv_input['HTP'] = csv_input1['HTP']
 csv_input['HTR'] = csv_input1['HTR']
 csv_input['HTAR'] = csv_input1['HTAR']
@@ -421,4 +421,5 @@ csv_input['ATAR'] = csv_input1['ATAR']
 csv_input['ATMR'] = csv_input1['ATMR']
 csv_input['ATDR'] = csv_input1['ATDR']
 
-csv_input.to_csv('ScoreBoardFinal2015.csv',index=False)
+csv_input.to_csv('ScoreBoardFinal2013.csv',index=False)
+

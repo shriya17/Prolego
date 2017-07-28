@@ -76,6 +76,7 @@ ARS,Alex Iwobi,69,MID
 ARS,Mesut Özil,88,ATT
 ARS,Olivier Giroud,82,ATT
 ARS,Theo Walcott,81,MID
+ARS,Mikel Arteta,80,MID
 ARS,Jack Wilshere,81,MID
 ARS,Mohamed Elneny,73,MID
 ARS,Gabriel,78,DEF

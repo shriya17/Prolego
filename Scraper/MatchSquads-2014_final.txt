@@ -204,7 +204,7 @@ Jan Vertonghen,Defender
 Federico Fazio,Defender
 Eric Dier,Defender
 Erik Lamela,Midfielder
-Nacer Chadli 90,+3',Midfielder
+Nacer Chadli 90,Midfielder
 Christian Eriksen,Midfielder
 Ryan Mason,Midfielder
 Mousa Dembélé,53',Midfielder
@@ -216,7 +216,7 @@ Benjamin Stambouli,53',Midfielder
 Harry Winks,Midfielder
 Andros Townsend,85',Midfielder
 Josh Onomah,Midfielder
-Roberto Soldado 90,+3',Forward
+Roberto Soldado 90,Forward
 -----------------------END,MATCH--------------------------------------
 HUL,Positions
 Steve Harper,Goalkeeper
@@ -1107,7 +1107,7 @@ Ron Vlaar,Defender
 Fabian Delph,Midfielder
 Tom Cleverley,Midfielder
 Ashley Westwood,Midfielder
-Jack Grealish 90,+2',Forward
+Jack Grealish 90,Forward
 Christian Benteke,Forward
 Charles,N'Zogbia,71',Forward
 Substitutes
@@ -1115,7 +1115,7 @@ Brad Guzan,Goalkeeper
 Alan Hutton,77',Defender
 Philippe Senderos,Defender
 Joe Cole,Midfielder
-Carlos Sánchez 90,+2',Midfielder
+Carlos Sánchez 90,Midfielder
 Andreas Weimann,Forward
 Gabriel Agbonlahor,71',Forward
 ..........
@@ -1233,7 +1233,7 @@ Shane Long,66',Forward
 NUFC,Positions
 Tim Krul,Goalkeeper
 Jonás Gutiérrez,Defender
-Vurnon Anita 90,+2',Defender
+Vurnon Anita 90,Defender
 Paul Dummett,Defender
 Fabricio Coloccini,Defender
 Ryan Taylor,Midfielder
@@ -1245,7 +1245,7 @@ Emmanuel Rivière,69',Forward
 Substitutes
 Freddie Woodman,Goalkeeper
 Lubomir Satka,Defender
-Mehdi Abeid 90,+2',Midfielder
+Mehdi Abeid 90,Midfielder
 Rolando Aarons,Midfielder
 Papiss Demba Cissé,69',Forward
 Sammy Ameobi,85',Forward
@@ -1432,7 +1432,7 @@ NEXT,TEAM,
 MCFC,Positions
 Joe Hart,Goalkeeper
 Martín Demichelis,Defender
-Eliaquim Mangala,Defender
+Eliaquim Mangala,76',Defender
 Pablo Zabaleta,Defender
 Aleksandar Kolarov,Defender
 David Silva,Midfielder
@@ -1446,7 +1446,7 @@ Willy Caballero,Goalkeeper
 Gaël Clichy,Defender
 Dedryck Boyata,89',Defender
 Bacary Sagna,Defender
-Samir Nasri,73',76',Midfielder
+Samir Nasri,73',Midfielder
 Wilfried Bony,76',Forward
 Edin Dzeko,Forward
 -----------------------END,MATCH--------------------------------------
@@ -1458,13 +1458,13 @@ César Azpilicueta,Defender
 Branislav Ivanovic,Defender
 Willian,85',Midfielder
 Juan Cuadrado,45',Midfielder
-Eden Hazard 90,+2',Midfielder
+Eden Hazard 90,Midfielder
 Cesc Fàbregas,Midfielder
 Nemanja Matic,Midfielder
 Didier Drogba,Forward
 Substitutes
 Petr Cech,Goalkeeper
-Filipe Luis 90,+2',Defender
+Filipe Luis 90,Defender
 Kurt Zouma,85',Defender
 Nathan Aké,Defender
 John Obi Mikel,45',Midfielder
@@ -1919,7 +1919,7 @@ Gary Cahill,Defender
 John Terry,Defender
 César Azpilicueta,Defender
 Branislav Ivanovic,Defender
-Willian 90,+3',Midfielder
+Willian 90,Midfielder
 Ramires,Midfielder
 Eden Hazard,Midfielder
 Cesc Fàbregas,90',Midfielder
@@ -1931,7 +1931,7 @@ Kurt Zouma,90',Defender
 Filipe Luis,Defender
 Ruben Loftus-Cheek,Midfielder
 John Obi Mikel,Midfielder
-Juan Cuadrado 90,+3',Midfielder
+Juan Cuadrado 90,Midfielder
 Didier Drogba,45',Forward
 -----------------------END,MATCH--------------------------------------
 EVE,Positions
@@ -2384,7 +2384,7 @@ David Silva,75',Midfielder
 Frank Lampard,88',Midfielder
 Yaya Touré,Midfielder
 Fernando,Midfielder
-Sergio Agüero 90,+1',Forward
+Sergio Agüero 90,Forward
 Substitutes
 Willy Caballero,Goalkeeper
 Dedryck Boyata,Defender
@@ -2392,7 +2392,7 @@ Bacary Sagna,Defender
 Fernandinho,88',Midfielder
 José Pozo,Midfielder
 Samir Nasri,75',Midfielder
-Edin Dzeko 90,+1',Forward
+Edin Dzeko 90,Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -2425,16 +2425,16 @@ César Azpilicueta,Defender
 Branislav Ivanovic,Defender
 Kurt Zouma,Midfielder
 Oscar,67',Midfielder
-Eden Hazard 90,+4',Midfielder
-Cesc Fàbregas 90,+2',Midfielder
+Eden Hazard 90,Midfielder
+Cesc Fàbregas 90,Midfielder
 Nemanja Matic,Midfielder
 Didier Drogba,Forward
 Substitutes
 Petr Cech,Goalkeeper
 Filipe Luis,Defender
 Juan Cuadrado,Midfielder
-Willian 90,+4',Midfielder
-John Obi Mikel 90,+2',Midfielder
+Willian 90,Midfielder
+John Obi Mikel 90,Midfielder
 Ramires,67',Midfielder
 Dominic Solanke,Forward
 ..........
@@ -2729,7 +2729,7 @@ QPR,Positions
 Robert Green,Goalkeeper
 Clint Hill,Defender
 Nedum Onuoha,Defender
-Mauricio Isla 90,+2',Defender
+Mauricio Isla 90,Defender
 Steven Caulker,Defender
 Joey Barton,Midfielder
 Sandro,81',Midfielder
@@ -2739,7 +2739,7 @@ Bobby Zamora,83',Forward
 Charlie Austin,Forward
 Substitutes
 Alex McCarthy,Goalkeeper
-Richard Dunne 90,+2',Defender
+Richard Dunne 90,Defender
 Aaron Mitchell,Midfielder
 Reece Grego-Cox,Midfielder
 Brandon Comley,Midfielder
@@ -2757,12 +2757,12 @@ Branislav Ivanovic,Defender
 Willian,80',Midfielder
 Eden Hazard,Midfielder
 Ramires,56',Midfielder
-Cesc Fàbregas 90,+2',Midfielder
+Cesc Fàbregas 90,Midfielder
 Nemanja Matic,Midfielder
 Didier Drogba,Forward
 Substitutes
 Petr Cech,Goalkeeper
-Kurt Zouma 90,+2',Defender
+Kurt Zouma 90,Defender
 Filipe Luis,Defender
 Oscar,56',Midfielder
 John Obi Mikel,Midfielder
@@ -2775,7 +2775,7 @@ Michael Duff,Defender
 Ben Mee,Defender
 Jason Shackell,Defender
 Kieran Trippier,Defender
-David Jones 90,+3',Midfielder
+David Jones 90,Midfielder
 Scott Arfield,Midfielder
 George Boyd,Midfielder
 Ashley Barnes,Midfielder
@@ -2785,7 +2785,7 @@ Substitutes
 Matthew Gilks,Goalkeeper
 Michael Keane,Defender
 Stephen Ward,Midfielder
-Matthew Taylor 90,+3',Midfielder
+Matthew Taylor 90,Midfielder
 Fredrik Ulvestad,Midfielder
 Michael Kightly,Midfielder
 Lukas Jutkiewicz,Forward
@@ -2800,14 +2800,14 @@ Laurent Koscielny,Defender
 Per Mertesacker,Defender
 Mesut Özil,Midfielder
 Aaron Ramsey,Midfielder
-Alexis Sánchez 90,+3',Midfielder
+Alexis Sánchez 90,Midfielder
 Santiago Cazorla,Midfielder
 Francis Coquelin,Midfielder
 Olivier Giroud,82',Forward
 Substitutes
 Wojciech Szczesny,Goalkeeper
 Kieran Gibbs,Defender
-Calum Chambers 90,+3',Defender
+Calum Chambers 90,Defender
 Mathieu Flamini,Midfielder
 Tomas Rosicky,Midfielder
 Theo Walcott,Forward
@@ -3271,8 +3271,8 @@ Kurt Zouma,Defender
 Filipe Luis,Defender
 Juan Cuadrado,63',Midfielder
 Ramires,Midfielder
-Diego Costa,45',57',Forward
-Didier Drogba,57',Forward
+Diego Costa,Forward
+Didier Drogba,45',Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -3674,7 +3674,7 @@ NEXT,TEAM,
 ..........
 MUFC,Positions
 David de Gea,Goalkeeper
-Daley Blind 90,+4',Defender
+Daley Blind 90,Defender
 Phil Jones,Defender
 Chris Smalling,Defender
 Antonio Valencia,Defender
@@ -3687,7 +3687,7 @@ Wayne Rooney,Forward
 Substitutes
 Víctor Valdés,Goalkeeper
 Rafael,Defender
-Marcos Rojo 90,+4',Defender
+Marcos Rojo 90,Defender
 Andreas Pereira,Midfielder
 Adnan Januzaj,Midfielder
 Ángel Di María,55',Midfielder
@@ -3704,10 +3704,10 @@ Matthew Jarvis,45',Midfielder
 Stewart Downing,Midfielder
 Kevin Nolan,80',Midfielder
 Alexandre Song,Midfielder
-Diafra Sakho 90,+2',Forward
+Diafra Sakho 90,Forward
 Substitutes
 Jussi Jääskeläinen,Goalkeeper
-Joey,O'Brien 90,+2',Defender
+Joey,O'Brien 90,Defender
 Guy Demel,Midfielder
 Nenê,80',Midfielder
 Morgan Amalfitano,Midfielder
@@ -3771,7 +3771,7 @@ Ki Sung-yueng,Midfielder
 Jack Cork,Midfielder
 Jonjo Shelvey,85',Midfielder
 Wayne Routledge,Forward
-Bafétimbi Gomis 90,+3',Forward
+Bafétimbi Gomis 90,Forward
 Substitutes
 Gerhard Tremmel,Goalkeeper
 Angel Rangel,Defender
@@ -3779,7 +3779,7 @@ Jordi Amat,Defender
 Jefferson Montero,64',Midfielder
 Jay Fulton,Midfielder
 Nathan Dyer,85',Midfielder
-Nélson Oliveira 90,+3',Forward
+Nélson Oliveira 90,Forward
 -----------------------END,MATCH--------------------------------------
 NUFC,Positions
 Tim Krul,Goalkeeper
@@ -4187,13 +4187,13 @@ Scott Arfield,Midfielder
 George Boyd,Midfielder
 David Jones,Midfielder
 Ashley Barnes,Midfielder
-Danny Ings 90,+3',Forward
+Danny Ings 90,Forward
 Sam Vokes,87',Forward
 Substitutes
 Matthew Gilks,Goalkeeper
 Stephen Ward,87',Defender
 Michael Keane,Defender
-Steven Reid 90,+3',Defender
+Steven Reid 90,Defender
 Michael Kightly,Midfielder
 Lukas Jutkiewicz,Forward
 Ross Wallace,Forward
@@ -4363,13 +4363,13 @@ James Morrison,Midfielder
 Darren Fletcher,Midfielder
 Stéphane Sessegnon,Midfielder
 Craig Gardner,Midfielder
-Saido Berahino 90,+5',Forward
+Saido Berahino 90,Forward
 Brown Ideye,90',Forward
 Substitutes
 Boaz Myhill,56',Goalkeeper
 Andre Wisdom,Defender
 Cristian Gamboa,Defender
-Chris Baird 90,+5',Defender
+Chris Baird 90,Defender
 Jonas Olsson,90',Defender
 Sébastien Pocognoli,Defender
 Youssouf Mulumbu,Midfielder
@@ -4448,7 +4448,7 @@ Yun Suk-Young,Defender
 Steven Caulker,Defender
 Rio Ferdinand,Defender
 Mauricio Isla,71',Midfielder
-Sandro 90,+3',Midfielder
+Sandro 90,Midfielder
 Matt Phillips,Midfielder
 Karl Henry,88',Midfielder
 Charlie Austin,Forward
@@ -4458,7 +4458,7 @@ Alex McCarthy,Goalkeeper
 Clint Hill,Defender
 Brandon Comley,Midfielder
 Reece Grego-Cox,88',Midfielder
-Shaun Wright-Phillips 90,+3',Midfielder
+Shaun Wright-Phillips 90,Midfielder
 Niko Kranjcar,Midfielder
 Junior Hoilett,71',Midfielder
 ..........
@@ -4650,7 +4650,7 @@ Tomas Rosicky,87',Midfielder
 Santiago Cazorla,Midfielder
 Francis Coquelin,Midfielder
 Olivier Giroud,Forward
-Mesut Özil 90,+3',Forward
+Mesut Özil 90,Forward
 Alexis Sánchez,Forward
 Substitutes
 Emiliano Martinez,Goalkeeper
@@ -4659,7 +4659,7 @@ Calum Chambers,Defender
 Alex Oxlade-Chamberlain,Midfielder
 Aaron Ramsey,87',Midfielder
 Theo Walcott,Forward
-Danny Welbeck 90,+3',Forward
+Danny Welbeck 90,Forward
 -----------------------END,MATCH--------------------------------------
 STK,Positions
 Asmir Begovic,Goalkeeper
@@ -4781,17 +4781,17 @@ Branislav Ivanovic,Defender
 Kurt Zouma,Midfielder
 Ramires,Midfielder
 Oscar,74',Midfielder
-Eden Hazard 90,+6',Midfielder
+Eden Hazard 90,Midfielder
 Cesc Fàbregas,Midfielder
-Diego Costa 90,+3',Forward
+Diego Costa 90,Forward
 Substitutes
 Petr Cech,Goalkeeper
 Filipe Luis,Defender
 Juan Cuadrado,Midfielder
 Willian,74',Midfielder
 Ruben Loftus-Cheek,Midfielder
-Loïc Remy 90,+6',Forward
-Didier Drogba 90,+3',Forward
+Loïc Remy 90,Forward
+Didier Drogba 90,Forward
 -----------------------END,MATCH--------------------------------------
 AVL,Positions
 Brad Guzan,Goalkeeper
@@ -4823,7 +4823,7 @@ Chris Brunt,Defender
 Craig Dawson,Defender
 Gareth McAuley,Defender
 Darren Fletcher,Midfielder
-James Morrison 90,+2',Midfielder
+James Morrison 90,Midfielder
 Claudio Yacob,Midfielder
 Saido Berahino,Midfielder
 Craig Gardner,Midfielder
@@ -4831,7 +4831,7 @@ Brown Ideye,Forward
 Substitutes
 Boaz Myhill,Goalkeeper
 Andre Wisdom,Defender
-Chris Baird 90,+2',Defender
+Chris Baird 90,Defender
 Jonas Olsson,Defender
 Sébastien Pocognoli,Defender
 Youssouf Mulumbu,Midfielder
@@ -5047,14 +5047,14 @@ Jonjo Shelvey,Midfielder
 Tom Carroll,61',Midfielder
 Jack Cork,Midfielder
 Wayne Routledge,90',Forward
-Bafétimbi Gomis 90,+2',Forward
+Bafétimbi Gomis 90,Forward
 Substitutes
 Gerhard Tremmel,Goalkeeper
 Angel Rangel,Defender
 Jordi Amat,90',Defender
 Jefferson Montero,61',Midfielder
 Leon Britton,Midfielder
-Nélson Oliveira 90,+2',Forward
+Nélson Oliveira 90,Forward
 Marvin Emnes,Forward
 -----------------------END,MATCH--------------------------------------
 MUFC,Positions
@@ -5402,12 +5402,12 @@ Stewart Downing,Forward
 Diafra Sakho,Forward
 Substitutes
 Jussi Jääskeläinen,Goalkeeper
-James Collins,87',Defender
+James Collins,Defender
 Guy Demel,Midfielder
 Kevin Nolan,Midfielder
 Joey,O'Brien,Midfielder
 Matthew Jarvis,75',Midfielder
-Carlton Cole,68',87',Forward
+Carlton Cole,68',Forward
 -----------------------END,MATCH--------------------------------------
 MCFC,Positions
 Joe Hart,Goalkeeper
@@ -5682,13 +5682,13 @@ Neil Taylor,Defender
 Gylfi Sigurdsson,74',Midfielder
 Ki Sung-yueng,Midfielder
 Jack Cork,Midfielder
-Jonjo Shelvey 90,+4',Midfielder
+Jonjo Shelvey 90,Midfielder
 Bafétimbi Gomis,Forward
 Wayne Routledge,Forward
 Substitutes
 Gerhard Tremmel,Goalkeeper
 Angel Rangel,Defender
-Jordi Amat 90,+4',Defender
+Jordi Amat 90,Defender
 Jefferson Montero,74',Midfielder
 Leon Britton,Midfielder
 Nélson Oliveira,Forward
@@ -5748,7 +5748,7 @@ Mike Williamson,Defender
 Fabricio Coloccini,Defender
 Rémy Cabella,86',Midfielder
 Jack Colback,Midfielder
-Ayoze Pérez 90,+1',Midfielder
+Ayoze Pérez 90,Midfielder
 Moussa Sissoko,Midfielder
 Yoan Gouffran,Midfielder
 Papiss Demba Cissé,78',Forward
@@ -5758,7 +5758,7 @@ Paul Dummett,86',Defender
 Ryan Taylor,Defender
 Vurnon Anita,Midfielder
 Mehdi Abeid,78',Midfielder
-Emmanuel Rivière 90,+1',Forward
+Emmanuel Rivière 90,Forward
 Gabriel Obertan,Forward
 -----------------------END,MATCH--------------------------------------
 WBA,Positions
@@ -5811,7 +5811,7 @@ John Terry,Defender
 César Azpilicueta,Defender
 Branislav Ivanovic,Defender
 Kurt Zouma,Defender
-Willian 90,+2',Midfielder
+Willian 90,Midfielder
 Juan Cuadrado,70',Midfielder
 Ramires,Midfielder
 Eden Hazard,Midfielder
@@ -5819,7 +5819,7 @@ Nemanja Matic,Midfielder
 Loïc Remy,70',Forward
 Substitutes
 Thibaut Courtois,Goalkeeper
-Gary Cahill 90,+2',Defender
+Gary Cahill 90,Defender
 Filipe Luis,Defender
 Nathan Aké,Defender
 Ruben Loftus-Cheek,Midfielder
@@ -5883,14 +5883,14 @@ Michael Kightly,86',Midfielder
 George Boyd,Midfielder
 David Jones,Midfielder
 Danny Ings,Forward
-Ashley Barnes 90,+2',Forward
+Ashley Barnes 90,Forward
 Substitutes
 Matthew Gilks,Goalkeeper
 Daniel Lafferty,Defender
 Michael Duff,Defender
 Steven Reid,Midfielder
 Sam Vokes,86',Forward
-Lukas Jutkiewicz 90,+2',Forward
+Lukas Jutkiewicz 90,Forward
 Ross Wallace,Forward
 -----------------------END,MATCH--------------------------------------
 SOT,Positions
@@ -5944,7 +5944,7 @@ Marc Muniesa,Defender
 Phil Bardsley,Defender
 Marko Arnautovic,Midfielder
 Victor Moses,80',Midfielder
-Steven,N'Zonzi 90,+4',Midfielder
+Steven,N'Zonzi 90,Midfielder
 Mame Biram Diouf,Midfielder
 Glenn Whelan,85',Midfielder
 Peter Crouch,Forward
@@ -5955,7 +5955,7 @@ Dionatan Teixeira,Defender
 Charlie Adam,85',Midfielder
 Steve Sidwell,80',Midfielder
 Wilson Palacios,Midfielder
-Oliver Shenton 90,+4',Midfielder
+Oliver Shenton 90,Midfielder
 ..........
 NEXT,TEAM,
 ..........
@@ -6040,8 +6040,8 @@ Substitutes
 Wojciech Szczesny,Goalkeeper
 Kieran Gibbs,Defender
 Gabriel,Defender
-Aaron Ramsey,73',82',Midfielder
-Mathieu Flamini,82',Midfielder
+Aaron Ramsey,73',Midfielder
+Mathieu Flamini,Midfielder
 Danny Welbeck,Forward
 Olivier Giroud,68',Forward
 ..........
@@ -6074,7 +6074,7 @@ Paul McShane,Defender
 Michael Dawson,Defender
 Alex Bruce,Defender
 Ahmed Elmohamady,Midfielder
-Jake Livermore 90,+4',Midfielder
+Jake Livermore 90,Midfielder
 Tom Huddlestone,Midfielder
 David Meyler,Midfielder
 Robbie Brady,Midfielder
@@ -6084,7 +6084,7 @@ Substitutes
 Steve Harper,Goalkeeper
 Andrew Robertson,Defender
 Curtis Davies,Defender
-Stephen Quinn 90,+4',Midfielder
+Stephen Quinn 90,Midfielder
 Gastón Ramírez,66',Midfielder
 Abel Hernández,87',Forward
 Sone Aluko,Forward
@@ -6189,12 +6189,12 @@ Wayne Rooney,Midfielder
 Ángel Di María,Midfielder
 Adnan Januzaj,72',Midfielder
 Daley Blind,Midfielder
-Falcao 90,+5',Forward
+Falcao 90,Forward
 Robin van Persie,Forward
 Substitutes
 Víctor Valdés,Goalkeeper
 Paddy McNair,Defender
-Chris Smalling 90,+5',Defender
+Chris Smalling 90,Defender
 Ander Herrera,Midfielder
 Marouane Fellaini,72',Midfielder
 James Wilson,Forward
@@ -6453,13 +6453,13 @@ Tom Huddlestone,Midfielder
 Jake Livermore,Midfielder
 David Meyler,Midfielder
 Gastón Ramírez,76',Forward
-Robbie Brady 90,+1',Forward
+Robbie Brady 90,Forward
 Sone Aluko,67',Forward
 Substitutes
 Steve Harper,Goalkeeper
 Andrew Robertson,67',Defender
 Curtis Davies,Defender
-Stephen Quinn 90,+1',Midfielder
+Stephen Quinn 90,Midfielder
 Dame,N'Doye,76',Forward
 Abel Hernández,Forward
 Nikica Jelavic,Forward
@@ -6558,7 +6558,7 @@ Kyle Walker,Defender
 Jan Vertonghen,Defender
 Eric Dier,Defender
 Danny Rose,Defender
-Ryan Mason 90,+5',Midfielder
+Ryan Mason 90,Midfielder
 Nabil Bentaleb,Midfielder
 Christian Eriksen,Midfielder
 Erik Lamela,90',Midfielder
@@ -6568,7 +6568,7 @@ Substitutes
 Michel Vorm,Goalkeeper
 Federico Fazio,Defender
 Ben Davies,Defender
-Paulinho 90,+5',Midfielder
+Paulinho 90,Midfielder
 Benjamin Stambouli,90',Midfielder
 Nacer Chadli,75',Midfielder
 Roberto Soldado,Forward
@@ -6606,7 +6606,7 @@ James Ward-Prowse,Midfielder
 Steven Davis,Midfielder
 Harrison Reed,63',Midfielder
 Dusan Tadic,Midfielder
-Eljero Elia 90,+2',Midfielder
+Eljero Elia 90,Midfielder
 Graziano Pellè,Forward
 Substitutes
 Kelvin Davis,Goalkeeper
@@ -6614,7 +6614,7 @@ Florin Gardos,Defender
 Matt Targett,Defender
 Dominic Gape,Midfielder
 Sadio Mané,63',Midfielder
-Ryan Seager 90,+2',Forward
+Ryan Seager 90,Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -6634,10 +6634,10 @@ Substitutes
 Gerhard Tremmel,Goalkeeper
 Angel Rangel,82',Defender
 Dwight Tiendalli,Defender
-Jordi Amat 90,+3',Defender
+Jordi Amat 90,Defender
 Matt Grimes,Midfielder
 Nélson Oliveira,Forward
-Modou Barrow,16' 90,+3',Forward
+Modou Barrow,16',Forward
 -----------------------END,MATCH--------------------------------------
 ARS,Positions
 David Ospina,Goalkeeper
@@ -6692,7 +6692,7 @@ Kurt Zouma,Defender
 Willian,80',Midfielder
 Ramires,Midfielder
 Eden Hazard,Midfielder
-Oscar 90,+2',Midfielder
+Oscar 90,Midfielder
 Nemanja Matic,Midfielder
 Loïc Remy,87',Forward
 Substitutes
@@ -6700,7 +6700,7 @@ Petr Cech,Goalkeeper
 Gary Cahill,87',Defender
 Andreas Christensen,Defender
 Nathan Aké,Defender
-Ruben Loftus-Cheek 90,+2',Midfielder
+Ruben Loftus-Cheek 90,Midfielder
 Isaiah Brown,Forward
 Didier Drogba,80',Forward
 ..........
@@ -6761,7 +6761,7 @@ Muhamed Besic,Midfielder
 Kevin Mirallas,68',Midfielder
 Aiden McGeady,Midfielder
 Steven Naismith,Midfielder
-Romelu Lukaku 90,+2',Forward
+Romelu Lukaku 90,Forward
 Substitutes
 Russell Griffiths,Goalkeeper
 Bryan Oviedo,68',Defender
@@ -6769,7 +6769,7 @@ Sylvain Distin,Defender
 Antolin Alcaraz,Defender
 Ross Barkley,Midfielder
 Darron Gibson,Midfielder
-Arouna Koné 90,+2',Forward
+Arouna Koné 90,Forward
 -----------------------END,MATCH--------------------------------------
 LIV,Positions
 Simon Mignolet,Goalkeeper
@@ -7021,7 +7021,7 @@ Daryl Janmaat,Defender
 Mike Williamson,Defender
 Fabricio Coloccini,Defender
 Rémy Cabella,72',Midfielder
-Sammy Ameobi 90,+2',Midfielder
+Sammy Ameobi 90,Midfielder
 Jack Colback,Midfielder
 Vurnon Anita,Midfielder
 Moussa Sissoko,Midfielder
@@ -7029,7 +7029,7 @@ Ayoze Pérez,82',Forward
 Substitutes
 Jak Alnwick,Goalkeeper
 Davide Santon,Defender
-Mehdi Abeid 90,+2',Midfielder
+Mehdi Abeid 90,Midfielder
 Yoan Gouffran,72',Midfielder
 Papiss Demba Cissé,82',Forward
 Emmanuel Rivière,Forward
@@ -7153,7 +7153,7 @@ Alex Bruce,45',Defender
 Michael Dawson,Defender
 Ahmed Elmohamady,Midfielder
 Tom Huddlestone,Midfielder
-James Chester 45,+4',Midfielder
+James Chester 45,Midfielder
 Jake Livermore,Midfielder
 David Meyler,Midfielder
 Stephen Quinn,Forward
@@ -7162,7 +7162,7 @@ Substitutes
 Steve Harper,Goalkeeper
 Harry Maguire,45',Defender
 Paul McShane,Defender
-Maynor Figueroa 45,+4',Defender
+Maynor Figueroa 45,Defender
 Tom Ince,Midfielder
 Gastón Ramírez,Midfielder
 Yannick Sagbo,72',Forward
@@ -7261,9 +7261,9 @@ Michael Keane,Defender
 Ben Mee,Defender
 Jason Shackell,Defender
 Kieran Trippier,Defender
-David Jones 90,+2',Midfielder
+David Jones 90,Midfielder
 Scott Arfield,Midfielder
-George Boyd 90,+1',Midfielder
+George Boyd 90,Midfielder
 Dean Marney,Midfielder
 Danny Ings,Forward
 Ashley Barnes,73',Forward
@@ -7271,10 +7271,10 @@ Substitutes
 Matthew Gilks,Goalkeeper
 Michael Duff,Defender
 Steven Reid,Midfielder
-Ross Wallace 90,+2',Midfielder
+Ross Wallace 90,Midfielder
 Michael Kightly,Midfielder
 Sam Vokes,73',Forward
-Marvin Sordell 90,+1',Forward
+Marvin Sordell 90,Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -7377,12 +7377,12 @@ Wayne Rooney,Midfielder
 Daley Blind,Midfielder
 Antonio Valencia,Midfielder
 Falcao,Forward
-Ángel Di María 90,+5',Forward
+Ángel Di María 90,Forward
 Substitutes
 Víctor Valdés,Goalkeeper
 Paddy McNair,Defender
 Chris Smalling,Defender
-Ander Herrera 90,+5',Midfielder
+Ander Herrera 90,Midfielder
 Adnan Januzaj,Midfielder
 Marouane Fellaini,45',Midfielder
 James Wilson,57',Forward
@@ -7461,7 +7461,7 @@ Wes Brown,Defender
 John,O'Shea,Defender
 Jack Rodwell,Midfielder
 Sebastian Larsson,Midfielder
-Billy Jones 90,+2',Midfielder
+Billy Jones 90,Midfielder
 Patrick van Aanholt,Midfielder
 Jermain Defoe,75',Forward
 Steven Fletcher,65',Forward
@@ -7469,7 +7469,7 @@ Adam Johnson,Forward
 Substitutes
 Vito Mannone,Goalkeeper
 Sebastián Coates,Defender
-William Buckley 90,+2',Midfielder
+William Buckley 90,Midfielder
 Jordi Gómez,Midfielder
 Danny Graham,75',Forward
 Connor Wickham,65',Forward
@@ -7726,7 +7726,7 @@ Pablo Zabaleta,Defender
 Gaël Clichy,Defender
 Fernandinho,82',Midfielder
 Jesús Navas,Midfielder
-Samir Nasri 90,+2',Midfielder
+Samir Nasri 90,Midfielder
 David Silva,Midfielder
 Fernando,Midfielder
 Stevan Jovetic,67',Forward
@@ -7734,7 +7734,7 @@ Substitutes
 Willy Caballero,Goalkeeper
 Vincent Kompany,Defender
 Bacary Sagna,Defender
-Aleksandar Kolarov 90,+2',Defender
+Aleksandar Kolarov 90,Defender
 Frank Lampard,82',Midfielder
 Scott Sinclair,Midfielder
 Sergio Agüero,67',Forward
@@ -8007,7 +8007,7 @@ HUL,Positions
 Allan McGregor,Goalkeeper
 Curtis Davies,Defender
 Alex Bruce,Defender
-James Chester,Defender
+James Chester,56',Defender
 Andrew Robertson,23',Defender
 Ahmed Elmohamady,Midfielder
 Gastón Ramírez,45',Midfielder
@@ -8017,7 +8017,7 @@ Nikica Jelavic,Forward
 Abel Hernández,Forward
 Substitutes
 Steve Harper,Goalkeeper
-Liam Rosenior,23',56',Defender
+Liam Rosenior,23',Defender
 Harry Maguire,56',Defender
 Tom Ince,Midfielder
 Robbie Brady,45',Midfielder
@@ -8172,8 +8172,8 @@ Danny Ings,Forward
 Ashley Barnes,Forward
 Substitutes
 Matthew Gilks,Goalkeeper
-Kevin Long,17',37',Defender
-Steven Reid,37',Defender
+Kevin Long,Defender
+Steven Reid,17',Defender
 Michael Kightly,32',Midfielder
 Marvin Sordell,Forward
 Lukas Jutkiewicz,Forward
@@ -8405,7 +8405,7 @@ Daryl Janmaat,Defender
 Paul Dummett,Defender
 Mike Williamson,Defender
 Fabricio Coloccini,Defender
-Yoan Gouffran 90,+1',Midfielder
+Yoan Gouffran 90,Midfielder
 Ayoze Pérez,Midfielder
 Jack Colback,Midfielder
 Moussa Sissoko,Midfielder
@@ -8416,7 +8416,7 @@ Freddie Woodman,Goalkeeper
 Davide Santon,Defender
 Steven Taylor,Defender
 Vurnon Anita,Midfielder
-Rémy Cabella 90,+1',Midfielder
+Rémy Cabella 90,Midfielder
 Adam Armstrong,Forward
 Emmanuel Rivière,73',Forward
 ..........
@@ -8841,7 +8841,7 @@ Bobby Zamora,71',Forward
 -----------------------END,MATCH--------------------------------------
 BUR,Positions
 Tom Heaton,Goalkeeper
-Ben Mee 90,+3',Defender
+Ben Mee 90,Defender
 Michael Keane,Defender
 Jason Shackell,Defender
 Kieran Trippier,Defender
@@ -8858,7 +8858,7 @@ Steven Reid,Midfielder
 Ross Wallace,83',Midfielder
 Michael Kightly,Midfielder
 Sam Vokes,80',Forward
-Lukas Jutkiewicz 90,+3',Forward
+Lukas Jutkiewicz 90,Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -8961,7 +8961,7 @@ Glenn Whelan,Midfielder
 Marko Arnautovic,76',Midfielder
 Jonathan Walters,Midfielder
 Bojan,67',Midfielder
-Mame Biram Diouf 90,+2',Forward
+Mame Biram Diouf 90,Forward
 Substitutes
 Jack Butland,Goalkeeper
 Robert Huth,Defender
@@ -8969,7 +8969,7 @@ Charlie Adam,67',Midfielder
 Marc Wilson,Midfielder
 Oussama Assaidi,76',Midfielder
 Wilson Palacios,Midfielder
-Peter Crouch 90,+2',Forward
+Peter Crouch 90,Forward
 -----------------------END,MATCH--------------------------------------
 LEI,Positions
 Ben Hamer,Goalkeeper
@@ -9266,13 +9266,13 @@ César Azpilicueta,Defender
 Branislav Ivanovic,Defender
 Willian,80',Midfielder
 John Obi Mikel,Midfielder
-Eden Hazard 90,+3',Midfielder
+Eden Hazard 90,Midfielder
 Cesc Fàbregas,Midfielder
 Nemanja Matic,Midfielder
 Diego Costa,85',Forward
 Substitutes
 Petr Cech,Goalkeeper
-Kurt Zouma 90,+3',Defender
+Kurt Zouma 90,Defender
 Filipe Luis,Defender
 Nathan Aké,Defender
 André Schürrle,80',Midfielder
@@ -9311,12 +9311,12 @@ Calum Chambers,Defender
 Santiago Cazorla,Midfielder
 Alex Oxlade-Chamberlain,90',Midfielder
 Mathieu Flamini,Midfielder
-Alexis Sánchez 90,+4',Forward
+Alexis Sánchez 90,Forward
 Danny Welbeck,Forward
 Olivier Giroud,82',Forward
 Substitutes
 Emiliano Martinez,Goalkeeper
-Nacho Monreal 90,+4',Defender
+Nacho Monreal 90,Defender
 Francis Coquelin,82',Midfielder
 Ainsley Maitland-Niles,Midfielder
 Theo Walcott,Forward
@@ -9353,7 +9353,7 @@ Santiago Vergini,Defender
 Wes Brown,Defender
 John,O'Shea,Defender
 Lee Cattermole,70',Midfielder
-Sebastian Larsson 90,+4',Midfielder
+Sebastian Larsson 90,Midfielder
 Jordi Gómez,Midfielder
 Adam Johnson,Midfielder
 Connor Wickham,81',Midfielder
@@ -9363,7 +9363,7 @@ Vito Mannone,Goalkeeper
 Ricardo Álvarez,Midfielder
 William Buckley,81',Midfielder
 Liam Bridcutt,70',Midfielder
-Jack Rodwell 90,+4',Midfielder
+Jack Rodwell 90,Midfielder
 Jozy Altidore,Forward
 -----------------------END,MATCH--------------------------------------
 AVL,Positions
@@ -9481,7 +9481,7 @@ WBA,Positions
 Ben Foster,Goalkeeper
 Joleon Lescott,Defender
 Andre Wisdom,Defender
-Sébastien Pocognoli 90,+1',Defender
+Sébastien Pocognoli 90,Defender
 Gareth McAuley,Defender
 James Morrison,Midfielder
 Graham Dorrans,Midfielder
@@ -9492,7 +9492,7 @@ Brown Ideye,69',Forward
 Substitutes
 Boaz Myhill,Goalkeeper
 Craig Dawson,Defender
-Cristian Gamboa 90,+1',Defender
+Cristian Gamboa 90,Defender
 Chris Baird,Defender
 Youssouf Mulumbu,Midfielder
 Claudio Yacob,Midfielder
@@ -9551,13 +9551,13 @@ Federico Fazio,Defender
 Ryan Mason,44',Midfielder
 Nacer Chadli,Midfielder
 Erik Lamela,Midfielder
-Christian Eriksen 90,+3',Midfielder
+Christian Eriksen 90,Midfielder
 Nabil Bentaleb,Midfielder
 Harry Kane,84',Forward
 Substitutes
 Michel Vorm,Goalkeeper
 Vlad Chiriches,Defender
-Danny Rose 90,+3',Defender
+Danny Rose 90,Defender
 Andros Townsend,Midfielder
 Benjamin Stambouli,44',Midfielder
 Roberto Soldado,84',Forward
@@ -9682,7 +9682,7 @@ Phil Jagielka,Defender
 Seamus Coleman,Defender
 Ross Barkley,Midfielder
 Muhamed Besic,Midfielder
-Kevin Mirallas 90,+1',Midfielder
+Kevin Mirallas 90,Midfielder
 Aiden McGeady,73',Midfielder
 Steven Naismith,Midfielder
 Romelu Lukaku,77',Forward
@@ -9692,7 +9692,7 @@ John Stones,Defender
 Luke Garbutt,Defender
 Antolin Alcaraz,Defender
 Steven Pienaar,73',Midfielder
-Arouna Koné 90,+1',Forward
+Arouna Koné 90,Forward
 Samuel,Eto'o,77',Forward
 ..........
 NEXT,TEAM,
@@ -9815,14 +9815,14 @@ Kieran Gibbs,Defender
 Alexis Sánchez,87',Midfielder
 Santiago Cazorla,Midfielder
 Danny Welbeck,Midfielder
-Alex Oxlade-Chamberlain 90,+1',Midfielder
+Alex Oxlade-Chamberlain 90,Midfielder
 Mathieu Flamini,Midfielder
 Olivier Giroud,73',Forward
 Substitutes
 Emiliano Martinez,Goalkeeper
 Semi Ajayi,Defender
 Francis Coquelin,87',Midfielder
-Ainsley Maitland-Niles 90,+1',Midfielder
+Ainsley Maitland-Niles 90,Midfielder
 Joel Campbell,Forward
 Lukas Podolski,73',Forward
 Yaya Sanogo,Forward
@@ -10257,14 +10257,14 @@ Yaya Touré,Midfielder
 James Milner,Midfielder
 Fernando,Midfielder
 Sergio Agüero,7',Forward
-Samir Nasri,Forward
+Samir Nasri,63',Forward
 Substitutes
 Willy Caballero,Goalkeeper
 Aleksandar Kolarov,Defender
 Dedryck Boyata,Defender
 Bacary Sagna,Defender
 Frank Lampard,78',Midfielder
-José Pozo,7',63',Forward
+José Pozo,7',Forward
 Edin Dzeko,63',Forward
 ..........
 NEXT,TEAM,
@@ -10387,7 +10387,7 @@ Steven Caulker,Defender
 Joey Barton,Midfielder
 Eduardo Vargas,78',Midfielder
 Karl Henry,Midfielder
-Leroy Fer 90,+1',Midfielder
+Leroy Fer 90,Midfielder
 Bobby Zamora,66',Forward
 Charlie Austin,Forward
 Substitutes
@@ -10396,7 +10396,7 @@ Nedum Onuoha,Defender
 Rio Ferdinand,Defender
 Jordon Mutch,78',Midfielder
 Niko Kranjcar,66',Midfielder
-Matt Phillips 90,+1',Midfielder
+Matt Phillips 90,Midfielder
 Junior Hoilett,Forward
 ..........
 NEXT,TEAM,
@@ -10447,7 +10447,7 @@ NEXT,TEAM,
 ..........
 ARS,Positions
 Emiliano Martinez,Goalkeeper
-Kieran Gibbs 90,+2',Defender
+Kieran Gibbs 90,Defender
 Héctor Bellerín,45',Defender
 Per Mertesacker,Defender
 Calum Chambers,Defender
@@ -10462,7 +10462,7 @@ Wojciech Szczesny,Goalkeeper
 Laurent Koscielny,Defender
 Semi Ajayi,Defender
 Ainsley Maitland-Niles,Midfielder
-Joel Campbell 90,+2',Forward
+Joel Campbell 90,Forward
 Danny Welbeck,45',Forward
 Lukas Podolski,63',Forward
 -----------------------END,MATCH--------------------------------------
@@ -10782,7 +10782,7 @@ Andre Wisdom,Defender
 Craig Dawson,Defender
 Craig Gardner,65',Midfielder
 Graham Dorrans,Midfielder
-Chris Brunt 45,+3',Midfielder
+Chris Brunt 45,Midfielder
 Stéphane Sessegnon,Midfielder
 Saido Berahino,Midfielder
 Victor Anichebe,Forward
@@ -10790,7 +10790,7 @@ Substitutes
 Boaz Myhill,Goalkeeper
 Cristian Gamboa,Defender
 Gareth McAuley,Defender
-Youssouf Mulumbu 45,+3',Midfielder
+Youssouf Mulumbu 45,Midfielder
 Silvestre Varela,65',Forward
 Georgios Samaras,Forward
 Brown Ideye,83',Forward
@@ -10895,11 +10895,11 @@ Steven Gerrard,Midfielder
 Adam Lallana,70',Midfielder
 Jordan Henderson,Midfielder
 Lucas Leiva,Midfielder
-Raheem Sterling 90,+5',Midfielder
+Raheem Sterling 90,Midfielder
 Rickie Lambert,Forward
 Substitutes
 Brad Jones,Goalkeeper
-Dejan Lovren 90,+5',Defender
+Dejan Lovren 90,Defender
 Alberto Moreno,45',Defender
 Joe Allen,70',Midfielder
 Philippe Coutinho,Midfielder
@@ -10912,7 +10912,7 @@ Marcos Rojo,Defender
 Ashley Young,Defender
 Chris Smalling,Defender
 Antonio Valencia,Defender
-Juan Mata 90,+2',Midfielder
+Juan Mata 90,Midfielder
 Marouane Fellaini,Midfielder
 Michael Carrick,Midfielder
 Ander Herrera,86',Midfielder
@@ -10922,7 +10922,7 @@ Substitutes
 Anders Lindegaard,Goalkeeper
 Paddy McNair,Defender
 Tyler Blackett,Defender
-Adnan Januzaj 90,+2',Midfielder
+Adnan Januzaj 90,Midfielder
 Darren Fletcher,86',Midfielder
 Will Keane,Forward
 Falcao,78',Forward
@@ -11152,7 +11152,7 @@ NEXT,TEAM,
 AVL,Positions
 Brad Guzan,Goalkeeper
 Alan Hutton,Defender
-Ciaran Clark 90,+5',Defender
+Ciaran Clark 90,Defender
 Jores Okore,Defender
 Aly Cissokho,Defender
 Carlos Sánchez,Midfielder
@@ -11164,7 +11164,7 @@ Andreas Weimann,78',Forward
 Substitutes
 Shay Given,Goalkeeper
 Kieran Richardson,78',Defender
-Matthew Lowton 90,+5',Defender
+Matthew Lowton 90,Defender
 Jack Grealish,67',Midfielder
 Charles,N'Zogbia,Midfielder
 Leandro Bacuna,Midfielder
@@ -11211,7 +11211,7 @@ Marc Muniesa,Defender
 Oliver Shenton,Defender
 Stephen Ireland,Midfielder
 Charlie Adam,45',Midfielder
-Glenn Whelan,22',45',Midfielder
+Glenn Whelan,67',Midfielder
 Peter Crouch,88',Forward
 -----------------------END,MATCH--------------------------------------
 MUFC,Positions
@@ -11265,7 +11265,7 @@ Yun Suk-Young,51',Defender
 Nedum Onuoha,Defender
 Steven Caulker,Defender
 Joey Barton,Midfielder
-Niko Kranjcar 90,+1',Midfielder
+Niko Kranjcar 90,Midfielder
 Leroy Fer,Midfielder
 Karl Henry,Midfielder
 Eduardo Vargas,76',Forward
@@ -11276,7 +11276,7 @@ Rio Ferdinand,Defender
 Armand Traore,51',Defender
 Jordon Mutch,76',Midfielder
 Matt Phillips,Midfielder
-Junior Hoilett 90,+1',Midfielder
+Junior Hoilett 90,Midfielder
 Shaun Wright-Phillips,Midfielder
 ..........
 NEXT,TEAM,
@@ -11606,7 +11606,7 @@ Anders Lindegaard,Goalkeeper
 Ander Herrera,Midfielder
 Adnan Januzaj,Midfielder
 Darren Fletcher,89',Midfielder
-Ashley Young,16',89',Midfielder
+Ashley Young,17',Midfielder
 James Wilson,75',Forward
 Juan Mata,Forward
 -----------------------END,MATCH--------------------------------------
@@ -12092,7 +12092,7 @@ Pablo Zabaleta,Defender
 Frank Lampard,68',Midfielder
 James Milner,74',Midfielder
 Stevan Jovetic,Forward
-Edin Dzeko,64',68',Forward
+Edin Dzeko,86',Forward
 -----------------------END,MATCH--------------------------------------
 BUR,Positions
 Tom Heaton,Goalkeeper
@@ -12141,7 +12141,7 @@ Hatem Ben Arfa,59',Midfielder
 MUFC,Positions
 David de Gea,Goalkeeper
 Luke Shaw,Defender
-Paddy McNair 90,+1',Defender
+Paddy McNair 90,Defender
 Daley Blind,Defender
 Antonio Valencia,Defender
 Marouane Fellaini,Midfielder
@@ -12155,7 +12155,7 @@ Anders Lindegaard,Goalkeeper
 Marnick Vermijl,Defender
 Tyler Blackett,Defender
 Ander Herrera,Midfielder
-Darren Fletcher 90,+1',Midfielder
+Darren Fletcher 90,Midfielder
 Juan Mata,63',Midfielder
 James Wilson,71',Forward
 ..........
@@ -12172,7 +12172,7 @@ Yannick Bolasie,81',Midfielder
 Jason Puncheon,Midfielder
 James McArthur,Midfielder
 Marouane Chamakh,81',Forward
-Fraizer Campbell 90,+1',Forward
+Fraizer Campbell 90,Forward
 Substitutes
 Wayne Hennessey,Goalkeeper
 Martin Kelly,Defender
@@ -12180,7 +12180,7 @@ Paddy McCarthy,Defender
 Ezekiel Fryers,Defender
 Barry Bannan,81',Midfielder
 Dwight Gayle,81',Forward
-Kevin Doyle 90,+1',Forward
+Kevin Doyle 90,Forward
 -----------------------END,MATCH--------------------------------------
 SOT,Positions
 Fraser Forster,Goalkeeper
@@ -12190,7 +12190,7 @@ Toby Alderweireld,Defender
 Nathaniel Clyne,Defender
 Victor Wanyama,Midfielder
 Steven Davis,40',Midfielder
-Morgan Schneiderlin 90,+2',Midfielder
+Morgan Schneiderlin 90,Midfielder
 Graziano Pellè,Forward
 Sadio Mané,68',Forward
 Dusan Tadic,Forward
@@ -12198,7 +12198,7 @@ Substitutes
 Kelvin Davis,Goalkeeper
 Maya Yoshida,Defender
 Florin Gardos,Defender
-Harrison Reed 90,+2',Midfielder
+Harrison Reed 90,Midfielder
 Jack Cork,40',Midfielder
 Shane Long,68',Forward
 Emmanuel Mayuka,Forward
@@ -12232,7 +12232,7 @@ Carl Jenkinson,Defender
 James Collins,Defender
 Aaron Cresswell,Defender
 Winston Reid,Defender
-Mark Noble 90,+2',Midfielder
+Mark Noble 90,Midfielder
 Cheikhou Kouyaté,66',Midfielder
 Stewart Downing,Midfielder
 Alexandre Song,Midfielder
@@ -12244,7 +12244,7 @@ James Tomkins,Defender
 Kevin Nolan,66',Midfielder
 Morgan Amalfitano,Midfielder
 Joey,O'Brien,Midfielder
-Andy Carroll 90,+2',Forward
+Andy Carroll 90,Forward
 Carlton Cole,75',Forward
 ..........
 NEXT,TEAM,
@@ -12260,10 +12260,10 @@ Tom Cleverley,Midfielder
 Ashley Westwood,Midfielder
 Gabriel Agbonlahor,Forward
 Andreas Weimann,Forward
-Charles,N'Zogbia 90,+2',Forward
+Charles,N'Zogbia 90,Forward
 Substitutes
 Shay Given,Goalkeeper
-Ciaran Clark 90,+2',Defender
+Ciaran Clark 90,Defender
 Philippe Senderos,88',Defender
 Joe Cole,Midfielder
 Leandro Bacuna,Midfielder
@@ -12299,7 +12299,7 @@ Gary Cahill,Defender
 John Terry,Defender
 César Azpilicueta,Defender
 Branislav Ivanovic,Defender
-Eden Hazard 90,+5',Midfielder
+Eden Hazard 90,Midfielder
 Ramires,54',Midfielder
 Cesc Fàbregas,Midfielder
 Oscar,Midfielder
@@ -12308,7 +12308,7 @@ Diego Costa,90',Forward
 Substitutes
 Petr Cech,Goalkeeper
 Kurt Zouma,Defender
-Filipe Luis 90,+5',Defender
+Filipe Luis 90,Defender
 Willian,54',Midfielder
 John Obi Mikel,Midfielder
 Loïc Remy,Forward
@@ -12360,7 +12360,7 @@ Jozy Altidore,78',Forward
 -----------------------END,MATCH--------------------------------------
 AVL,Positions
 Brad Guzan,Goalkeeper
-Aly Cissokho 90,+3',Defender
+Aly Cissokho 90,Defender
 Matthew Lowton,Defender
 Ron Vlaar,Defender
 Nathan Baker,Defender
@@ -12376,7 +12376,7 @@ Ciaran Clark,Defender
 Kieran Richardson,86',Defender
 Jack Grealish,Midfielder
 Joe Cole,Midfielder
-Darren Bent 90,+3',Forward
+Darren Bent 90,Forward
 Gabriel Agbonlahor,75',Forward
 ..........
 NEXT,TEAM,
@@ -12497,7 +12497,7 @@ John Terry,Defender
 Branislav Ivanovic,Defender
 Filipe Luis,Defender
 Willian,64',Midfielder
-Eden Hazard 90,+3',Midfielder
+Eden Hazard 90,Midfielder
 Cesc Fàbregas,Midfielder
 Oscar,Midfielder
 Nemanja Matic,Midfielder
@@ -12508,7 +12508,7 @@ Kurt Zouma,Defender
 Nathan Aké,Defender
 André Schürrle,78',Midfielder
 Mohamed Salah,Midfielder
-Ramires 90,+3',Midfielder
+Ramires 90,Midfielder
 Didier Drogba,64',Forward
 ..........
 NEXT,TEAM,
@@ -12649,7 +12649,7 @@ WBA,Positions
 Ben Foster,Goalkeeper
 Joleon Lescott,Defender
 Andre Wisdom,Defender
-Sébastien Pocognoli 90,+1',Defender
+Sébastien Pocognoli 90,Defender
 Craig Dawson,Defender
 James Morrison,Midfielder
 Stéphane Sessegnon,81',Midfielder
@@ -12659,7 +12659,7 @@ Craig Gardner,Midfielder
 Saido Berahino,88',Forward
 Substitutes
 Boaz Myhill,Goalkeeper
-Cristian Gamboa 90,+1',Defender
+Cristian Gamboa 90,Defender
 Gareth McAuley,Defender
 Youssouf Mulumbu,Midfielder
 Claudio Yacob,81',Midfielder
@@ -12762,7 +12762,7 @@ Richard Dunne,Defender
 Steven Caulker,Defender
 Eduardo Vargas,87',Midfielder
 Karl Henry,Midfielder
-Leroy Fer 90,+2',Midfielder
+Leroy Fer 90,Midfielder
 Sandro,Midfielder
 Charlie Austin,Forward
 Bobby Zamora,63',Forward
@@ -12772,7 +12772,7 @@ Clint Hill,Defender
 Rio Ferdinand,Defender
 Armand Traore,87',Defender
 Matt Phillips,Midfielder
-Niko Kranjcar 90,+2',Midfielder
+Niko Kranjcar 90,Midfielder
 Junior Hoilett,63',Midfielder
 ..........
 NEXT,TEAM,
@@ -12827,7 +12827,7 @@ Gary Cahill,Defender
 John Terry,Defender
 Branislav Ivanovic,Defender
 Filipe Luis,Defender
-Willian 90,+3',Midfielder
+Willian 90,Midfielder
 Oscar,67',Midfielder
 Eden Hazard,90',Midfielder
 Cesc Fàbregas,Midfielder
@@ -12835,7 +12835,7 @@ Nemanja Matic,Midfielder
 Didier Drogba,Forward
 Substitutes
 Petr Cech,Goalkeeper
-Kurt Zouma 90,+3',Defender
+Kurt Zouma 90,Defender
 Nathan Aké,Defender
 Lewis Baker,Midfielder
 André Schürrle,90',Midfielder
@@ -13315,12 +13315,12 @@ Emre Can,66',Midfielder
 Steven Gerrard,Midfielder
 Adam Lallana,66',Midfielder
 Jordan Henderson,Midfielder
-Raheem Sterling 90,+6',Midfielder
+Raheem Sterling 90,Midfielder
 Mario Balotelli,Forward
 Substitutes
 Brad Jones,Goalkeeper
 Javier Manquillo,Defender
-Kolo Touré 90,+6',Defender
+Kolo Touré 90,Defender
 Joe Allen,66',Midfielder
 Philippe Coutinho,66',Midfielder
 Rickie Lambert,Midfielder
@@ -13447,7 +13447,7 @@ Eden Hazard,86',Midfielder
 Cesc Fàbregas,Midfielder
 Oscar,Midfielder
 Nemanja Matic,Midfielder
-Loïc Remy 90,+1',Forward
+Loïc Remy 90,Forward
 Substitutes
 Petr Cech,Goalkeeper
 Kurt Zouma,Defender
@@ -13455,7 +13455,7 @@ Filipe Luis,42',Defender
 Mohamed Salah,86',Midfielder
 John Obi Mikel,Midfielder
 Dominic Solanke,Forward
-Didier Drogba 90,+1',Forward
+Didier Drogba 90,Forward
 -----------------------END,MATCH--------------------------------------
 EVE,Positions
 Tim Howard,Goalkeeper
@@ -13468,12 +13468,12 @@ Leon Osman,Midfielder
 Gareth Barry,Midfielder
 Ross Barkley,66',Midfielder
 James McCarthy,Midfielder
-Romelu Lukaku 90,+2',Forward
+Romelu Lukaku 90,Forward
 Substitutes
 Joel Robles,Goalkeeper
 Tony Hibbert,Defender
 Muhamed Besic,Defender
-Darron Gibson 90,+2',Midfielder
+Darron Gibson 90,Midfielder
 Aiden McGeady,Midfielder
 Steven Pienaar,66',Midfielder
 Samuel,Eto'o,87',Forward
@@ -13507,7 +13507,7 @@ Daryl Janmaat,Defender
 Paul Dummett,72',Defender
 Fabricio Coloccini,Defender
 Steven Taylor,Defender
-Yoan Gouffran 90,+2',Midfielder
+Yoan Gouffran 90,Midfielder
 Jack Colback,Midfielder
 Moussa Sissoko,Midfielder
 Gabriel Obertan,Midfielder
@@ -13516,7 +13516,7 @@ Papiss Demba Cissé,Forward
 Substitutes
 Robert Elliot,Goalkeeper
 Massadio Haidara,72',Defender
-Rémy Cabella 90,+2',Midfielder
+Rémy Cabella 90,Midfielder
 Mehdi Abeid,Midfielder
 Facundo Ferreyra,Forward
 Adam Armstrong,Forward
@@ -13731,7 +13731,7 @@ Etienne Capoue,Midfielder
 Nacer Chadli,Midfielder
 Christian Eriksen,82',Midfielder
 Ryan Mason,Midfielder
-Erik Lamela 90,+1',Midfielder
+Erik Lamela 90,Midfielder
 Emmanuel Adebayor,Forward
 Substitutes
 Michel Vorm,Goalkeeper
@@ -13739,7 +13739,7 @@ Federico Fazio,Defender
 Eric Dier,32',Defender
 Andros Townsend,Midfielder
 Mousa Dembélé,82',Midfielder
-Harry Kane 90,+1',Forward
+Harry Kane 90,Forward
 Roberto Soldado,Forward
 ..........
 NEXT,TEAM,
@@ -13862,13 +13862,13 @@ Andrew Robertson,81',Midfielder
 Tom Huddlestone,Midfielder
 Mohamed Diamé,Midfielder
 Jake Livermore,Midfielder
-Ahmed Elmohamady 90,+2',Midfielder
+Ahmed Elmohamady 90,Midfielder
 Abel Hernández,76',Forward
 Nikica Jelavic,Forward
 Substitutes
 Eldin Jakupovic,Goalkeeper
 Liam Rosenior,81',Defender
-Alex Bruce 90,+2',Defender
+Alex Bruce 90,Defender
 Robbie Brady,Midfielder
 Gastón Ramírez,76',Midfielder
 Stephen Quinn,Midfielder
@@ -14170,14 +14170,14 @@ Calum Chambers,Defender
 Mesut Özil,Midfielder
 Alex Oxlade-Chamberlain,Midfielder
 Jack Wilshere,63',Midfielder
-Aaron Ramsey 45,+1',Midfielder
+Aaron Ramsey 45,Midfielder
 Mikel Arteta,28',Midfielder
 Danny Welbeck,Forward
 Substitutes
 David Ospina,Goalkeeper
 Francis Coquelin,Midfielder
 Tomas Rosicky,Midfielder
-Santiago Cazorla 45,+1',Midfielder
+Santiago Cazorla 45,Midfielder
 Mathieu Flamini,28',Midfielder
 Alexis Sánchez,63',Forward
 Lukas Podolski,Forward
@@ -14258,13 +14258,13 @@ Martin Kelly,Defender
 Mile Jedinak,Midfielder
 Joe Ledley,Midfielder
 James McArthur,Midfielder
-Yannick Bolasie 90,+1',Forward
+Yannick Bolasie 90,Forward
 Jason Puncheon,Forward
 Fraizer Campbell,73',Forward
 Substitutes
 Wayne Hennessey,Goalkeeper
 Adrian Mariappa,Defender
-Adlène Guédioura 90,+1',Midfielder
+Adlène Guédioura 90,Midfielder
 Dwight Gayle,Midfielder
 Wilfried Zaha,Midfielder
 Kevin Doyle,Forward
@@ -14345,14 +14345,14 @@ Paddy McNair,Defender
 Rafael,Defender
 Wayne Rooney,Midfielder
 Daley Blind,Midfielder
-Ángel Di María 90,+4',Midfielder
+Ángel Di María 90,Midfielder
 Ander Herrera,74',Midfielder
 Falcao,65',Forward
 Robin van Persie,Forward
 Substitutes
 Anders Lindegaard,Goalkeeper
 Antonio Valencia,74',Defender
-Tom Thorpe 90,+4',Defender
+Tom Thorpe 90,Defender
 Andreas Pereira,Midfielder
 Adnan Januzaj,Midfielder
 Darren Fletcher,65',Midfielder
@@ -14390,12 +14390,12 @@ Nathaniel Clyne,Defender
 Victor Wanyama,69',Midfielder
 Steven Davis,Midfielder
 Morgan Schneiderlin,Midfielder
-Dusan Tadic 90,+1',Forward
+Dusan Tadic 90,Forward
 Graziano Pellè,Forward
 Sadio Mané,68',Forward
 Substitutes
 Kelvin Davis,Goalkeeper
-Matt Targett 90,+1',Defender
+Matt Targett 90,Defender
 Jason McCarthy,Defender
 Harrison Reed,Midfielder
 Jack Cork,69',Midfielder
@@ -14675,7 +14675,7 @@ Joleon Lescott,Defender
 Andre Wisdom,Defender
 Craig Dawson,Defender
 James Morrison,Midfielder
-Stéphane Sessegnon 90,+1',Midfielder
+Stéphane Sessegnon 90,Midfielder
 Graham Dorrans,Midfielder
 Chris Brunt,Midfielder
 Craig Gardner,Midfielder
@@ -14686,7 +14686,7 @@ Cristian Gamboa,Defender
 Gareth McAuley,Defender
 Chris Baird,Defender
 Youssouf Mulumbu,Midfielder
-Victor Anichebe 90,+1',Forward
+Victor Anichebe 90,Forward
 Brown Ideye,Forward
 -----------------------END,MATCH--------------------------------------
 WHU,Positions
@@ -14785,14 +14785,14 @@ Jason Shackell,Defender
 Kieran Trippier,Defender
 David Jones,86',Midfielder
 Scott Arfield,Midfielder
-George Boyd 90,+2',Midfielder
+George Boyd 90,Midfielder
 Dean Marney,Midfielder
 Marvin Sordell,63',Forward
 Lukas Jutkiewicz,Forward
 Substitutes
 Matthew Gilks,Goalkeeper
 Michael Keane,Defender
-Steven Reid 90,+2',Defender
+Steven Reid 90,Defender
 Stephen Ward,Midfielder
 Ross Wallace,86',Midfielder
 Michael Kightly,Midfielder
@@ -14827,7 +14827,7 @@ Daryl Janmaat,Defender
 Paul Dummett,Defender
 Mike Williamson,Defender
 Fabricio Coloccini,Defender
-Yoan Gouffran 90,+4',Midfielder
+Yoan Gouffran 90,Midfielder
 Jack Colback,Midfielder
 Moussa Sissoko,Midfielder
 Cheick Tioté,85',Midfielder
@@ -14840,7 +14840,7 @@ Steven Taylor,Defender
 Vurnon Anita,Midfielder
 Papiss Demba Cissé,69',Forward
 Sammy Ameobi,85',Forward
-Ayoze Pérez 90,+4',Forward
+Ayoze Pérez 90,Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -15073,7 +15073,7 @@ Aly Cissokho,Defender
 Fabian Delph,Midfielder
 Tom Cleverley,86',Midfielder
 Ashley Westwood,Midfielder
-Gabriel Agbonlahor 90,+1',Forward
+Gabriel Agbonlahor 90,Forward
 Kieran Richardson,Forward
 Andreas Weimann,72',Forward
 Substitutes
@@ -15083,7 +15083,7 @@ Jack Grealish,Midfielder
 Leandro Bacuna,Midfielder
 Charles,N'Zogbia,72',Midfielder
 Carlos Sánchez,86',Midfielder
-Darren Bent 90,+1',Forward
+Darren Bent 90,Forward
 -----------------------END,MATCH--------------------------------------
 CHE,Positions
 Thibaut Courtois,Goalkeeper
@@ -15357,7 +15357,7 @@ Mathieu Debuchy,81',Defender
 Per Mertesacker,Defender
 Mesut Özil,Midfielder
 Aaron Ramsey,Midfielder
-Mathieu Flamini 90,+5',Midfielder
+Mathieu Flamini 90,Midfielder
 Jack Wilshere,Midfielder
 Alexis Sánchez,Midfielder
 Danny Welbeck,88',Forward
@@ -15365,7 +15365,7 @@ Substitutes
 David Ospina,Goalkeeper
 Kieran Gibbs,Defender
 Calum Chambers,81',Defender
-Mikel Arteta 90,+5',Midfielder
+Mikel Arteta 90,Midfielder
 Alex Oxlade-Chamberlain,88',Midfielder
 Santiago Cazorla,Midfielder
 Lukas Podolski,Forward
@@ -15611,7 +15611,7 @@ Robert Huth,Defender
 Charlie Adam,65',Midfielder
 Marko Arnautovic,Midfielder
 Bojan,Forward
-Peter Odemwingie,45',65',Forward
+Peter Odemwingie,70',Forward
 -----------------------END,MATCH--------------------------------------
 NUFC,Positions
 Tim Krul,Goalkeeper
@@ -16214,7 +16214,7 @@ Michael Duff,Defender
 Ben Mee,Defender
 Jason Shackell,Defender
 Kieran Trippier,Defender
-David Jones 90,+1',Midfielder
+David Jones 90,Midfielder
 Scott Arfield,Midfielder
 Dean Marney,Midfielder
 Matthew Taylor,72',Midfielder
@@ -16226,7 +16226,7 @@ Steven Reid,Midfielder
 Stephen Ward,Midfielder
 Ross Wallace,72',Midfielder
 Michael Kightly,Midfielder
-Marvin Sordell 90,+1',Forward
+Marvin Sordell 90,Forward
 Ashley Barnes,82',Forward
 -----------------------END,MATCH--------------------------------------
 AVL,Positions
@@ -16267,10 +16267,10 @@ Emmanuel Rivière,77',Forward
 Substitutes
 Robert Elliot,Goalkeeper
 Massadio Haidara,Defender
-Steven Taylor 90,+2',Defender
+Steven Taylor 90,Defender
 Mehdi Abeid,Midfielder
 Siem de Jong,70',Midfielder
-Ayoze Pérez,77' 90,+2',Forward
+Ayoze Pérez,77',Forward
 Gabriel Obertan,Forward
 -----------------------END,MATCH--------------------------------------
 BUR,Positions
@@ -16436,7 +16436,7 @@ Scott Dann,75',Defender
 Martin Kelly,Defender
 Joe Ledley,Midfielder
 Mile Jedinak,Midfielder
-Yannick Bolasie 90,+1',Midfielder
+Yannick Bolasie 90,Midfielder
 Jason Puncheon,Midfielder
 Marouane Chamakh,Forward
 Fraizer Campbell,85',Forward
@@ -16444,7 +16444,7 @@ Substitutes
 Wayne Hennessey,Goalkeeper
 Damien Delaney,75',Defender
 Paddy McCarthy,Defender
-Stuart,O'Keefe 90,+1',Midfielder
+Stuart,O'Keefe 90,Midfielder
 Barry Bannan,Midfielder
 Dwight Gayle,85',Forward
 Glenn Murray,Forward

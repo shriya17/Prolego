@@ -2765,7 +2765,7 @@ Substitutes
 Boaz Myhill,Goalkeeper
 Craig Dawson,Defender
 Liam O'Neil,83',Defender
-Zoltán Gera,77',83',Midfielder
+Zoltán Gera,83',Midfielder
 Saido Berahino,71',Forward
 Victor Anichebe,Forward
 Thievy,Forward
@@ -3984,17 +3984,18 @@ NEXT,TEAM,
 LIV,Positions
 Simon Mignolet,Goalkeeper
 Glen Johnson,Defender
-Martin Skrtel,54',Defender
+Martin Skrtel,Defender
 Daniel Agger,Defender
-Jon Flanagan,31',Defender
+Jon Flanagan,Defender
 Steven Gerrard,87',Midfielder
 Jordan Henderson,Midfielder
 Joe Allen,Midfielder
 Raheem Sterling,72',Midfielder
-Luis Suarez,84',Forward
+Luis Suarez,Forward
 Daniel Sturridge,90+2',Forward
 Substitutes
-Brad Jones Goal 9 Iago Aspas,90+2',Forward
+Brad Jones,Goalkeeper
+Iago Aspas,90,Forward
 Philippe Coutinho,72',Midfielder
 Victor Moses,Midfielder
 Mamadou Sakho,Defender
@@ -4106,7 +4107,7 @@ Maarten Stekelenburg,Goalkeeper
 Dan Burn,87',Defender
 John Arne Riise,Defender
 Sascha Riether,82',Defender
-Ashkan Dejagah,61',87',Midfielder
+Ashkan Dejagah,83',Midfielder
 Patrick Roberts,Midfielder
 Hugo Rodallega,Forward
 ..........
@@ -4526,7 +4527,7 @@ Marc Muniesa,Defender
 Wilson Palacios,Midfielder
 Stephen Ireland,80',Midfielder
 Matthew Etherington,74',Midfielder
-John Guidetti,63',80',Forward
+John Guidetti,72',Forward
 -----------------------END,MATCH--------------------------------------
 WBA,Positions
 Ben Foster,Goalkeeper
@@ -5207,7 +5208,7 @@ Joleon Lescott,Defender
 Javi García,69',Midfielder
 Jesús Navas,63',Midfielder
 James Milner,Midfielder
-Stevan Jovetic,56',69',Forward
+Stevan Jovetic,76',Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -7182,7 +7183,7 @@ Substitutes
 Brad Jones,Goalkeeper
 Martin Kelly,Defender
 Joe Allen,66',Midfielder
-Lucas Leiva,45',66',Midfielder
+Lucas Leiva,68',Midfielder
 Victor Moses,Midfielder
 Luis Alberto,Midfielder
 Iago Aspas,Forward
@@ -7469,7 +7470,7 @@ Kelvin Davis,Goalkeeper
 Maya Yoshida,88',Defender
 Nathaniel Clyne,Defender
 Jos Hooiveld,Midfielder
-Gastón Ramírez,74',87',Midfielder
+Gastón Ramírez,76',Midfielder
 James Ward-Prowse,87',Midfielder
 Guly do Prado,Forward
 -----------------------END,MATCH--------------------------------------
@@ -7512,7 +7513,7 @@ Substitutes
 Lukasz Fabianski,Goalkeeper
 Carl Jenkinson,Defender
 Kieran Gibbs,66',Defender
-Tomas Rosicky,69',86',Midfielder
+Tomas Rosicky,72',Midfielder
 Alex Oxlade-Chamberlain,86',Midfielder
 Park Chu-Young,Forward
 Lukas Podolski,Forward
@@ -7975,7 +7976,7 @@ Carl Jenkinson,Defender
 Ryo Miyaichi,Midfielder
 Serge Gnabry,Midfielder
 Tomas Rosicky,65',Midfielder
-Nicklas Bendtner,64',90',Forward
+Nicklas Bendtner,64',Forward
 ..........
 NEXT,TEAM,
 ..........
@@ -13183,7 +13184,7 @@ Lukasz Fabianski,Goalkeeper
 Nacho Monreal,72',Defender
 Thomas Vermaelen,Defender
 Tomas Rosicky,Midfielder
-Serge Gnabry,8',69',Midfielder
+Serge Gnabry,28',Midfielder
 Jack Wilshere,69',Midfielder
 Nicklas Bendtner,Forward
 -----------------------END,MATCH--------------------------------------
