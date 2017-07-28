@@ -1,5 +1,5 @@
 import string,csv
-
+import pandas as pd
 
 """
 
@@ -258,6 +258,7 @@ def calculateMatchRatings(text_file):
                         #print playerName, "Subbed off", sub_off_time
                         #print sub_off_time
                         weighted_rating = float(sub_off_time)/90.0
+                        weighted_rating = round(weighted_rating,3)
                         weighted_rating = rating*weighted_rating
                         #print weighted_rating
                         print playerName,weighted_rating
@@ -313,8 +314,10 @@ def calculateMatchRatings(text_file):
                     #print playerName, "Subbed on", sub_on_time
                     rating = int(map2013[playerName][1])
                     weighted_rating = float(90 - sub_on_time) / 90.0
+                    weighted_rating = round(weighted_rating,3)
                     if sub_on_time == 90:
                         weighted_rating = float(90-sub_on_time+1) / 90.0
+                        weighted_rating = round(weighted_rating,3)
                     weighted_rating = rating * weighted_rating
                     print playerName,weighted_rating
                     #print "SUB RATING:", playerName, weighted_rating
@@ -374,8 +377,8 @@ def transferToCsv(data, fileName):
 #cleanFile("MatchSquads-2015.txt")
 #removeSquadNumbers()
 #identifyPlayerNames()
-loadPlayerRatings("PlayerRatings-2013-Final.txt")
-calculateMatchRatings("MatchSquads-2013_final.txt")
+#loadPlayerRatings("PlayerRatings-2013-Final.txt")
+#calculateMatchRatings("MatchSquads-2013_final.txt")
 
 
 data = []
@@ -391,7 +394,7 @@ with open("MatchSquadRatings2013.csv", "wb") as csv_file:
 csv_file.close()
 
 # Appending the Column data for the .csv file
-data.append("Home Team Players,Home Team Rating,Home Team Attack Rating,Home Team Midfield Rating,Home Team Defence Rating,Away Team Players,Away Team Rating,Away Team Attack Rating,Away Team Midfield Rating,Away Team Defence Rating".split(","))
+data.append("HTP,HTR,HTAR,HTMR,HTDR,ATP,ATR,ATAR,ATMR,ATDR".split(","))
 
 # Function calls
 transferToCsv(data,"MatchSquadRatings2013.txt")
@@ -403,3 +406,18 @@ with open("MatchSquadRatings2013.csv", "ab") as csv_file:  # Opens the .csv file
 
 
 csv_file.close()
+
+csv_input = pd.read_csv('ScoreBoard_Detailed_2013.csv')
+csv_input1 = pd.read_csv('MatchSquadRatings2013.csv')
+csv_input['HTP'] = csv_input1['HTP']
+csv_input['HTR'] = csv_input1['HTR']
+csv_input['HTAR'] = csv_input1['HTAR']
+csv_input['HTMR'] = csv_input1['HTMR']
+csv_input['HTDR'] = csv_input1['HTDR']
+csv_input['ATP'] = csv_input1['ATP']
+csv_input['ATR'] = csv_input1['ATR']
+csv_input['ATAR'] = csv_input1['ATAR']
+csv_input['ATMR'] = csv_input1['ATMR']
+csv_input['ATDR'] = csv_input1['ATDR']
+
+csv_input.to_csv('ScoreBoardFinal2013.csv',index=False)
