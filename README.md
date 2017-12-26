@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sourabhswain/Prolego/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Premier League is the world's most popular Football League. It is known for its exciting and highly unpredictable matches which keeps the viewers on the edge of their seats. To put into perspective how unpredictable the league can be, the odds of Leicester City winning th Premier League in 2015/16 season were 5000-1. It shows just how hard it is to accurately predict the results of a Premier League match. According to [1], BBC's famous sports pundit, Mark Lawrenson had an accuracy of 52.77% during the 2012-13 season. There are several industries which are impacted from an accurate prediction or insight into a football match such as sports gambling, journalism and football coaching. In our project, we shall discuss previous attempts to predict Premier League results before presenting our work which consists of data generation, data analysis, feature extraction, evaluation of several Machine Learning models and their accuracies.
 
 ### Markdown
 
